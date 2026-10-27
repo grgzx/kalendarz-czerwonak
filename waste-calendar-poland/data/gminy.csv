@@ -1,0 +1,2480 @@
+teryt,gmina,typ,wojewodztwo,powiat,ludnosc
+0201011,Bolesławiec,miejska,dolnośląskie,bolesławiecki,36504
+0201022,Bolesławiec,wiejska,dolnośląskie,bolesławiecki,15416
+0201032,Gromadka,wiejska,dolnośląskie,bolesławiecki,4898
+0201043,Nowogrodziec,miejsko-wiejska,dolnośląskie,bolesławiecki,14379
+0201052,Osiecznica,wiejska,dolnośląskie,bolesławiecki,7140
+0201062,Warta Bolesławiecka,wiejska,dolnośląskie,bolesławiecki,8319
+0202011,Bielawa,miejska,dolnośląskie,dzierżoniowski,27356
+0202021,Dzierżoniów,miejska,dolnośląskie,dzierżoniowski,29858
+0202033,Pieszyce,miejsko-wiejska,dolnośląskie,dzierżoniowski,8784
+0202041,Piława Górna,miejska,dolnośląskie,dzierżoniowski,5721
+0202052,Dzierżoniów,wiejska,dolnośląskie,dzierżoniowski,8984
+0202062,Łagiewniki,wiejska,dolnośląskie,dzierżoniowski,6950
+0202073,Niemcza,miejsko-wiejska,dolnośląskie,dzierżoniowski,4864
+0203011,Głogów,miejska,dolnośląskie,głogowski,60287
+0203022,Głogów,wiejska,dolnośląskie,głogowski,7277
+0203032,Jerzmanowa,wiejska,dolnośląskie,głogowski,6060
+0203042,Kotla,wiejska,dolnośląskie,głogowski,4398
+0203052,Pęcław,wiejska,dolnośląskie,głogowski,2093
+0203062,Żukowice,wiejska,dolnośląskie,głogowski,3328
+0204013,Góra,miejsko-wiejska,dolnośląskie,górowski,17972
+0204022,Jemielno,wiejska,dolnośląskie,górowski,2565
+0204032,Niechlów,wiejska,dolnośląskie,górowski,4402
+0204043,Wąsosz,miejsko-wiejska,dolnośląskie,górowski,6549
+0205011,Jawor,miejska,dolnośląskie,jaworski,19824
+0205023,Bolków,miejsko-wiejska,dolnośląskie,jaworski,9320
+0205032,Męcinka,wiejska,dolnośląskie,jaworski,5194
+0205042,Mściwojów,wiejska,dolnośląskie,jaworski,3872
+0205052,Paszowice,wiejska,dolnośląskie,jaworski,4182
+0205062,Wądroże Wielkie,wiejska,dolnośląskie,jaworski,3631
+0206011,Karpacz,miejska,dolnośląskie,karkonoski,4057
+0206021,Kowary,miejska,dolnośląskie,karkonoski,9270
+0206031,Piechowice,miejska,dolnośląskie,karkonoski,5576
+0206041,Szklarska Poręba,miejska,dolnośląskie,karkonoski,5374
+0206052,Janowice Wielkie,wiejska,dolnośląskie,karkonoski,4003
+0206062,Jeżów Sudecki,wiejska,dolnośląskie,karkonoski,8075
+0206072,Mysłakowice,wiejska,dolnośląskie,karkonoski,9462
+0206082,Podgórzyn,wiejska,dolnośląskie,karkonoski,8026
+0206092,Stara Kamienica,wiejska,dolnośląskie,karkonoski,5199
+0207011,Kamienna Góra,miejska,dolnośląskie,kamiennogórski,16596
+0207022,Kamienna Góra,wiejska,dolnośląskie,kamiennogórski,8723
+0207033,Lubawka,miejsko-wiejska,dolnośląskie,kamiennogórski,9800
+0207042,Marciszów,wiejska,dolnośląskie,kamiennogórski,4132
+0208011,Duszniki-Zdrój,miejska,dolnośląskie,kłodzki,3707
+0208021,Kłodzko,miejska,dolnośląskie,kłodzki,24039
+0208031,Kudowa-Zdrój,miejska,dolnośląskie,kłodzki,8934
+0208041,Nowa Ruda,miejska,dolnośląskie,kłodzki,19666
+0208051,Polanica-Zdrój,miejska,dolnośląskie,kłodzki,5680
+0208063,Bystrzyca Kłodzka,miejsko-wiejska,dolnośląskie,kłodzki,16749
+0208072,Kłodzko,wiejska,dolnośląskie,kłodzki,16151
+0208083,Lądek-Zdrój,miejsko-wiejska,dolnośląskie,kłodzki,7225
+0208092,Lewin Kłodzki,wiejska,dolnośląskie,kłodzki,1939
+0208103,Międzylesie,miejsko-wiejska,dolnośląskie,kłodzki,6629
+0208112,Nowa Ruda,wiejska,dolnośląskie,kłodzki,10228
+0208123,Radków,miejsko-wiejska,dolnośląskie,kłodzki,8221
+0208133,Stronie Śląskie,miejsko-wiejska,dolnośląskie,kłodzki,6556
+0208143,Szczytna,miejsko-wiejska,dolnośląskie,kłodzki,6788
+0209011,Chojnów,miejska,dolnośląskie,legnicki,11922
+0209022,Chojnów,wiejska,dolnośląskie,legnicki,9367
+0209032,Krotoszyce,wiejska,dolnośląskie,legnicki,3318
+0209042,Kunice,wiejska,dolnośląskie,legnicki,7852
+0209052,Legnickie Pole,wiejska,dolnośląskie,legnicki,5304
+0209062,Miłkowice,wiejska,dolnośląskie,legnicki,7492
+0209073,Prochowice,miejsko-wiejska,dolnośląskie,legnicki,6996
+0209082,Ruja,wiejska,dolnośląskie,legnicki,2334
+0210011,Lubań,miejska,dolnośląskie,lubański,18929
+0210021,Świeradów-Zdrój,miejska,dolnośląskie,lubański,3821
+0210033,Leśna,miejsko-wiejska,dolnośląskie,lubański,9000
+0210042,Lubań,wiejska,dolnośląskie,lubański,6416
+0210053,Olszyna,miejsko-wiejska,dolnośląskie,lubański,6162
+0210062,Platerówka,wiejska,dolnośląskie,lubański,1473
+0210072,Siekierczyn,wiejska,dolnośląskie,lubański,4334
+0211011,Lubin,miejska,dolnośląskie,lubiński,65607
+0211022,Lubin,wiejska,dolnośląskie,lubiński,19314
+0211032,Rudna,wiejska,dolnośląskie,lubiński,7425
+0211043,Ścinawa,miejsko-wiejska,dolnośląskie,lubiński,9136
+0212013,Gryfów Śląski,miejsko-wiejska,dolnośląskie,lwówecki,8878
+0212023,Lubomierz,miejsko-wiejska,dolnośląskie,lwówecki,5539
+0212033,Lwówek Śląski,miejsko-wiejska,dolnośląskie,lwówecki,15606
+0212043,Mirsk,miejsko-wiejska,dolnośląskie,lwówecki,7937
+0212053,Wleń,miejsko-wiejska,dolnośląskie,lwówecki,3780
+0213012,Cieszków,wiejska,dolnośląskie,milicki,4548
+0213022,Krośnice,wiejska,dolnośląskie,milicki,7880
+0213033,Milicz,miejsko-wiejska,dolnośląskie,milicki,22640
+0214011,Oleśnica,miejska,dolnośląskie,oleśnicki,34498
+0214023,Bierutów,miejsko-wiejska,dolnośląskie,oleśnicki,9062
+0214032,Dobroszyce,wiejska,dolnośląskie,oleśnicki,7550
+0214042,Dziadowa Kłoda,wiejska,dolnośląskie,oleśnicki,4595
+0214053,Międzybórz,miejsko-wiejska,dolnośląskie,oleśnicki,4944
+0214062,Oleśnica,wiejska,dolnośląskie,oleśnicki,17195
+0214073,Syców,miejsko-wiejska,dolnośląskie,oleśnicki,16468
+0214083,Twardogóra,miejsko-wiejska,dolnośląskie,oleśnicki,12348
+0215011,Oława,miejska,dolnośląskie,oławski,32872
+0215022,Domaniów,wiejska,dolnośląskie,oławski,4780
+0215033,Jelcz-Laskowice,miejsko-wiejska,dolnośląskie,oławski,23850
+0215042,Oława,wiejska,dolnośląskie,oławski,15938
+0216013,Chocianów,miejsko-wiejska,dolnośląskie,polkowicki,12277
+0216022,Gaworzyce,wiejska,dolnośląskie,polkowicki,3671
+0216032,Grębocice,wiejska,dolnośląskie,polkowicki,5272
+0216043,Polkowice,miejsko-wiejska,dolnośląskie,polkowicki,26447
+0216053,Przemków,miejsko-wiejska,dolnośląskie,polkowicki,7575
+0216062,Radwanice,wiejska,dolnośląskie,polkowicki,5203
+0217012,Borów,wiejska,dolnośląskie,strzeliński,4918
+0217022,Kondratowice,wiejska,dolnośląskie,strzeliński,3854
+0217032,Przeworno,wiejska,dolnośląskie,strzeliński,4370
+0217043,Strzelin,miejsko-wiejska,dolnośląskie,strzeliński,21240
+0217053,Wiązów,miejsko-wiejska,dolnośląskie,strzeliński,6640
+0218012,Kostomłoty,wiejska,dolnośląskie,średzki,7105
+0218022,Malczyce,wiejska,dolnośląskie,średzki,5598
+0218033,Miękinia,miejsko-wiejska,dolnośląskie,średzki,23427
+0218043,Środa Śląska,miejsko-wiejska,dolnośląskie,średzki,19706
+0218052,Udanin,wiejska,dolnośląskie,średzki,4700
+0219011,Świdnica,miejska,dolnośląskie,świdnicki,51073
+0219021,Świebodzice,miejska,dolnośląskie,świdnicki,21420
+0219032,Dobromierz,wiejska,dolnośląskie,świdnicki,4755
+0219043,Jaworzyna Śląska,miejsko-wiejska,dolnośląskie,świdnicki,10184
+0219052,Marcinowice,wiejska,dolnośląskie,świdnicki,6325
+0219063,Strzegom,miejsko-wiejska,dolnośląskie,świdnicki,23651
+0219072,Świdnica,wiejska,dolnośląskie,świdnicki,18171
+0219083,Żarów,miejsko-wiejska,dolnośląskie,świdnicki,11901
+0220013,Oborniki Śląskie,miejsko-wiejska,dolnośląskie,trzebnicki,21250
+0220023,Prusice,miejsko-wiejska,dolnośląskie,trzebnicki,9224
+0220033,Trzebnica,miejsko-wiejska,dolnośląskie,trzebnicki,25232
+0220042,Wisznia Mała,wiejska,dolnośląskie,trzebnicki,12557
+0220052,Zawonia,wiejska,dolnośląskie,trzebnicki,5911
+0220063,Żmigród,miejsko-wiejska,dolnośląskie,trzebnicki,13983
+0221011,Boguszów-Gorce,miejska,dolnośląskie,wałbrzyski,13917
+0221021,Jedlina-Zdrój,miejska,dolnośląskie,wałbrzyski,4524
+0221031,Szczawno-Zdrój,miejska,dolnośląskie,wałbrzyski,5069
+0221042,Czarny Bór,wiejska,dolnośląskie,wałbrzyski,4687
+0221053,Głuszyca,miejsko-wiejska,dolnośląskie,wałbrzyski,7834
+0221063,Mieroszów,miejsko-wiejska,dolnośląskie,wałbrzyski,5936
+0221072,Stare Bogaczowice,wiejska,dolnośląskie,wałbrzyski,4315
+0221082,Walim,wiejska,dolnośląskie,wałbrzyski,5262
+0222013,Brzeg Dolny,miejsko-wiejska,dolnośląskie,wołowski,15763
+0222022,Wińsko,wiejska,dolnośląskie,wołowski,7657
+0222033,Wołów,miejsko-wiejska,dolnośląskie,wołowski,21132
+0223012,Czernica,wiejska,dolnośląskie,wrocławski,26253
+0223022,Długołęka,wiejska,dolnośląskie,wrocławski,46245
+0223032,Jordanów Śląski,wiejska,dolnośląskie,wrocławski,3266
+0223043,Kąty Wrocławskie,miejsko-wiejska,dolnośląskie,wrocławski,31378
+0223052,Kobierzyce,wiejska,dolnośląskie,wrocławski,26013
+0223062,Mietków,wiejska,dolnośląskie,wrocławski,3685
+0223073,Sobótka,miejsko-wiejska,dolnośląskie,wrocławski,13158
+0223083,Siechnice,miejsko-wiejska,dolnośląskie,wrocławski,31772
+0223092,Żórawina,wiejska,dolnośląskie,wrocławski,14407
+0224013,Bardo,miejsko-wiejska,dolnośląskie,ząbkowicki,4741
+0224022,Ciepłowody,wiejska,dolnośląskie,ząbkowicki,2667
+0224033,Kamieniec Ząbkowicki,miejsko-wiejska,dolnośląskie,ząbkowicki,7250
+0224042,Stoszowice,wiejska,dolnośląskie,ząbkowicki,5028
+0224053,Ząbkowice Śląskie,miejsko-wiejska,dolnośląskie,ząbkowicki,20053
+0224063,Ziębice,miejsko-wiejska,dolnośląskie,ząbkowicki,15088
+0224073,Złoty Stok,miejsko-wiejska,dolnośląskie,ząbkowicki,3886
+0225011,Zawidów,miejska,dolnośląskie,zgorzelecki,3667
+0225021,Zgorzelec,miejska,dolnośląskie,zgorzelecki,27941
+0225033,Bogatynia,miejsko-wiejska,dolnośląskie,zgorzelecki,20571
+0225043,Pieńsk,miejsko-wiejska,dolnośląskie,zgorzelecki,8565
+0225052,Sulików,wiejska,dolnośląskie,zgorzelecki,5718
+0225063,Węgliniec,miejsko-wiejska,dolnośląskie,zgorzelecki,7546
+0225072,Zgorzelec,wiejska,dolnośląskie,zgorzelecki,9095
+0226011,Wojcieszów,miejska,dolnośląskie,złotoryjski,3344
+0226021,Złotoryja,miejska,dolnośląskie,złotoryjski,13663
+0226032,Pielgrzymka,wiejska,dolnośląskie,złotoryjski,4084
+0226043,Świerzawa,miejsko-wiejska,dolnośląskie,złotoryjski,6833
+0226052,Zagrodno,wiejska,dolnośląskie,złotoryjski,4705
+0226062,Złotoryja,wiejska,dolnośląskie,złotoryjski,6906
+0261011,Jelenia Góra,miejska,dolnośląskie,Jelenia Góra,73029
+0262011,Legnica,miejska,dolnośląskie,Legnica,89484
+0264011,Wrocław,miejska,dolnośląskie,Wrocław,672579
+0265011,Wałbrzych,miejska,dolnośląskie,Wałbrzych,96904
+0401011,Aleksandrów Kujawski,miejska,kujawsko-pomorskie,aleksandrowski,11249
+0401021,Ciechocinek,miejska,kujawsko-pomorskie,aleksandrowski,9869
+0401031,Nieszawa,miejska,kujawsko-pomorskie,aleksandrowski,1705
+0401042,Aleksandrów Kujawski,wiejska,kujawsko-pomorskie,aleksandrowski,11933
+0401052,Bądkowo,wiejska,kujawsko-pomorskie,aleksandrowski,3914
+0401062,Koneck,wiejska,kujawsko-pomorskie,aleksandrowski,3002
+0401072,Raciążek,wiejska,kujawsko-pomorskie,aleksandrowski,3085
+0401082,Waganiec,wiejska,kujawsko-pomorskie,aleksandrowski,4352
+0401092,Zakrzewo,wiejska,kujawsko-pomorskie,aleksandrowski,3248
+0402011,Brodnica,miejska,kujawsko-pomorskie,brodnicki,27577
+0402022,Bobrowo,wiejska,kujawsko-pomorskie,brodnicki,5913
+0402032,Brodnica,wiejska,kujawsko-pomorskie,brodnicki,9834
+0402042,Brzozie,wiejska,kujawsko-pomorskie,brodnicki,3691
+0402053,Górzno,miejsko-wiejska,kujawsko-pomorskie,brodnicki,3643
+0402062,Bartniczka,wiejska,kujawsko-pomorskie,brodnicki,4437
+0402073,Jabłonowo Pomorskie,miejsko-wiejska,kujawsko-pomorskie,brodnicki,8239
+0402082,Osiek,wiejska,kujawsko-pomorskie,brodnicki,3738
+0402092,Świedziebnia,wiejska,kujawsko-pomorskie,brodnicki,4802
+0402102,Zbiczno,wiejska,kujawsko-pomorskie,brodnicki,4951
+0403012,Białe Błota,wiejska,kujawsko-pomorskie,bydgoski,27119
+0403022,Dąbrowa Chełmińska,wiejska,kujawsko-pomorskie,bydgoski,8696
+0403032,Dobrcz,wiejska,kujawsko-pomorskie,bydgoski,13185
+0403043,Koronowo,miejsko-wiejska,kujawsko-pomorskie,bydgoski,22882
+0403052,Nowa Wieś Wielka,wiejska,kujawsko-pomorskie,bydgoski,10531
+0403062,Osielsko,wiejska,kujawsko-pomorskie,bydgoski,19683
+0403072,Sicienko,wiejska,kujawsko-pomorskie,bydgoski,11172
+0403083,Solec Kujawski,miejsko-wiejska,kujawsko-pomorskie,bydgoski,16132
+0404011,Chełmno,miejska,kujawsko-pomorskie,chełmiński,17372
+0404022,Chełmno,wiejska,kujawsko-pomorskie,chełmiński,6109
+0404032,Kijewo Królewskie,wiejska,kujawsko-pomorskie,chełmiński,4273
+0404042,Lisewo,wiejska,kujawsko-pomorskie,chełmiński,4768
+0404052,Papowo Biskupie,wiejska,kujawsko-pomorskie,chełmiński,3928
+0404062,Stolno,wiejska,kujawsko-pomorskie,chełmiński,5096
+0404072,Unisław,wiejska,kujawsko-pomorskie,chełmiński,6611
+0405011,Golub-Dobrzyń,miejska,kujawsko-pomorskie,golubsko-dobrzyński,10871
+0405022,Ciechocin,wiejska,kujawsko-pomorskie,golubsko-dobrzyński,3779
+0405032,Golub-Dobrzyń,wiejska,kujawsko-pomorskie,golubsko-dobrzyński,8892
+0405043,Kowalewo Pomorskie,miejsko-wiejska,kujawsko-pomorskie,golubsko-dobrzyński,11018
+0405052,Radomin,wiejska,kujawsko-pomorskie,golubsko-dobrzyński,3902
+0405062,Zbójno,wiejska,kujawsko-pomorskie,golubsko-dobrzyński,4100
+0406012,Grudziądz,wiejska,kujawsko-pomorskie,grudziądzki,14111
+0406022,Gruta,wiejska,kujawsko-pomorskie,grudziądzki,5873
+0406033,Łasin,miejsko-wiejska,kujawsko-pomorskie,grudziądzki,7068
+0406043,Radzyń Chełmiński,miejsko-wiejska,kujawsko-pomorskie,grudziądzki,4308
+0406052,Rogóźno,wiejska,kujawsko-pomorskie,grudziądzki,3917
+0406062,Świecie nad Osą,wiejska,kujawsko-pomorskie,grudziądzki,3619
+0407011,Inowrocław,miejska,kujawsko-pomorskie,inowrocławski,65329
+0407022,Dąbrowa Biskupia,wiejska,kujawsko-pomorskie,inowrocławski,4809
+0407033,Gniewkowo,miejsko-wiejska,kujawsko-pomorskie,inowrocławski,13252
+0407042,Inowrocław,wiejska,kujawsko-pomorskie,inowrocławski,11912
+0407053,Janikowo,miejsko-wiejska,kujawsko-pomorskie,inowrocławski,12102
+0407063,Kruszwica,miejsko-wiejska,kujawsko-pomorskie,inowrocławski,17222
+0407073,Pakość,miejsko-wiejska,kujawsko-pomorskie,inowrocławski,8921
+0407082,Rojewo,wiejska,kujawsko-pomorskie,inowrocławski,4320
+0407092,Złotniki Kujawskie,wiejska,kujawsko-pomorskie,inowrocławski,8766
+0408011,Lipno,miejska,kujawsko-pomorskie,lipnowski,13210
+0408023,Bobrowniki,miejsko-wiejska,kujawsko-pomorskie,lipnowski,2935
+0408032,Chrostkowo,wiejska,kujawsko-pomorskie,lipnowski,2670
+0408043,Dobrzyń nad Wisłą,miejsko-wiejska,kujawsko-pomorskie,lipnowski,6873
+0408053,Kikół,miejsko-wiejska,kujawsko-pomorskie,lipnowski,6478
+0408062,Lipno,wiejska,kujawsko-pomorskie,lipnowski,11312
+0408073,Skępe,miejsko-wiejska,kujawsko-pomorskie,lipnowski,6895
+0408082,Tłuchowo,wiejska,kujawsko-pomorskie,lipnowski,4352
+0408092,Wielgie,wiejska,kujawsko-pomorskie,lipnowski,6565
+0409012,Dąbrowa,wiejska,kujawsko-pomorskie,mogileński,4205
+0409022,Jeziora Wielkie,wiejska,kujawsko-pomorskie,mogileński,4439
+0409033,Mogilno,miejsko-wiejska,kujawsko-pomorskie,mogileński,23426
+0409043,Strzelno,miejsko-wiejska,kujawsko-pomorskie,mogileński,10592
+0410013,Kcynia,miejsko-wiejska,kujawsko-pomorskie,nakielski,11768
+0410023,Mrocza,miejsko-wiejska,kujawsko-pomorskie,nakielski,8644
+0410033,Nakło nad Notecią,miejsko-wiejska,kujawsko-pomorskie,nakielski,29120
+0410042,Sadki,wiejska,kujawsko-pomorskie,nakielski,6823
+0410053,Szubin,miejsko-wiejska,kujawsko-pomorskie,nakielski,25243
+0411011,Radziejów,miejska,kujawsko-pomorskie,radziejowski,4896
+0411022,Bytoń,wiejska,kujawsko-pomorskie,radziejowski,3198
+0411032,Dobre,wiejska,kujawsko-pomorskie,radziejowski,4721
+0411042,Osięciny,wiejska,kujawsko-pomorskie,radziejowski,6941
+0411053,Piotrków Kujawski,miejsko-wiejska,kujawsko-pomorskie,radziejowski,8379
+0411062,Radziejów,wiejska,kujawsko-pomorskie,radziejowski,4120
+0411072,Topólka,wiejska,kujawsko-pomorskie,radziejowski,4371
+0412011,Rypin,miejska,kujawsko-pomorskie,rypiński,15047
+0412022,Brzuze,wiejska,kujawsko-pomorskie,rypiński,4735
+0412032,Rogowo,wiejska,kujawsko-pomorskie,rypiński,4488
+0412042,Rypin,wiejska,kujawsko-pomorskie,rypiński,7232
+0412052,Skrwilno,wiejska,kujawsko-pomorskie,rypiński,5175
+0412062,Wąpielsk,wiejska,kujawsko-pomorskie,rypiński,3585
+0413013,Kamień Krajeński,miejsko-wiejska,kujawsko-pomorskie,sępoleński,6402
+0413023,Sępólno Krajeńskie,miejsko-wiejska,kujawsko-pomorskie,sępoleński,14743
+0413032,Sośno,wiejska,kujawsko-pomorskie,sępoleński,4333
+0413043,Więcbork,miejsko-wiejska,kujawsko-pomorskie,sępoleński,12660
+0414012,Bukowiec,wiejska,kujawsko-pomorskie,świecki,4820
+0414022,Dragacz,wiejska,kujawsko-pomorskie,świecki,6709
+0414032,Drzycim,wiejska,kujawsko-pomorskie,świecki,4685
+0414042,Jeżewo,wiejska,kujawsko-pomorskie,świecki,7539
+0414052,Lniano,wiejska,kujawsko-pomorskie,świecki,3962
+0414063,Nowe,miejsko-wiejska,kujawsko-pomorskie,świecki,9375
+0414072,Osie,wiejska,kujawsko-pomorskie,świecki,5345
+0414083,Pruszcz,miejsko-wiejska,kujawsko-pomorskie,świecki,9115
+0414093,Świecie,miejsko-wiejska,kujawsko-pomorskie,świecki,32305
+0414102,Świekatowo,wiejska,kujawsko-pomorskie,świecki,3480
+0414112,Warlubie,wiejska,kujawsko-pomorskie,świecki,5934
+0415011,Chełmża,miejska,kujawsko-pomorskie,toruński,13300
+0415022,Chełmża,wiejska,kujawsko-pomorskie,toruński,9366
+0415032,Czernikowo,wiejska,kujawsko-pomorskie,toruński,8765
+0415042,Lubicz,wiejska,kujawsko-pomorskie,toruński,21344
+0415052,Łubianka,wiejska,kujawsko-pomorskie,toruński,8435
+0415062,Łysomice,wiejska,kujawsko-pomorskie,toruński,11230
+0415072,Obrowo,wiejska,kujawsko-pomorskie,toruński,21233
+0415082,Wielka Nieszawka,wiejska,kujawsko-pomorskie,toruński,5255
+0415092,Zławieś Wielka,wiejska,kujawsko-pomorskie,toruński,16667
+0416012,Cekcyn,wiejska,kujawsko-pomorskie,tucholski,6784
+0416022,Gostycyn,wiejska,kujawsko-pomorskie,tucholski,4831
+0416032,Kęsowo,wiejska,kujawsko-pomorskie,tucholski,4201
+0416042,Lubiewo,wiejska,kujawsko-pomorskie,tucholski,5792
+0416052,Śliwice,wiejska,kujawsko-pomorskie,tucholski,5616
+0416063,Tuchola,miejsko-wiejska,kujawsko-pomorskie,tucholski,19218
+0417011,Wąbrzeźno,miejska,kujawsko-pomorskie,wąbrzeski,12543
+0417022,Dębowa Łąka,wiejska,kujawsko-pomorskie,wąbrzeski,2905
+0417032,Książki,wiejska,kujawsko-pomorskie,wąbrzeski,3681
+0417042,Płużnica,wiejska,kujawsko-pomorskie,wąbrzeski,4366
+0417052,Ryńsk,wiejska,kujawsko-pomorskie,wąbrzeski,8204
+0418011,Kowal,miejska,kujawsko-pomorskie,włocławski,3193
+0418022,Baruchowo,wiejska,kujawsko-pomorskie,włocławski,3250
+0418032,Boniewo,wiejska,kujawsko-pomorskie,włocławski,3078
+0418043,Brześć Kujawski,miejsko-wiejska,kujawsko-pomorskie,włocławski,10964
+0418052,Choceń,wiejska,kujawsko-pomorskie,włocławski,7345
+0418063,Chodecz,miejsko-wiejska,kujawsko-pomorskie,włocławski,5258
+0418072,Fabianki,wiejska,kujawsko-pomorskie,włocławski,10356
+0418083,Izbica Kujawska,miejsko-wiejska,kujawsko-pomorskie,włocławski,6965
+0418092,Kowal,wiejska,kujawsko-pomorskie,włocławski,3808
+0418102,Lubanie,wiejska,kujawsko-pomorskie,włocławski,4265
+0418113,Lubień Kujawski,miejsko-wiejska,kujawsko-pomorskie,włocławski,6485
+0418123,Lubraniec,miejsko-wiejska,kujawsko-pomorskie,włocławski,8181
+0418132,Włocławek,wiejska,kujawsko-pomorskie,włocławski,7485
+0419013,Barcin,miejsko-wiejska,kujawsko-pomorskie,żniński,13932
+0419023,Gąsawa,miejsko-wiejska,kujawsko-pomorskie,żniński,4773
+0419033,Janowiec Wielkopolski,miejsko-wiejska,kujawsko-pomorskie,żniński,8299
+0419043,Łabiszyn,miejsko-wiejska,kujawsko-pomorskie,żniński,10721
+0419052,Rogowo,wiejska,kujawsko-pomorskie,żniński,6436
+0419063,Żnin,miejsko-wiejska,kujawsko-pomorskie,żniński,22276
+0461011,Bydgoszcz,miejska,kujawsko-pomorskie,Bydgoszcz,319528
+0462011,Grudziądz,miejska,kujawsko-pomorskie,Grudziądz,86425
+0463011,Toruń,miejska,kujawsko-pomorskie,Toruń,192159
+0464011,Włocławek,miejska,kujawsko-pomorskie,Włocławek,97435
+0601011,Międzyrzec Podlaski,miejska,lubelskie,bialski,15001
+0601021,Terespol,miejska,lubelskie,bialski,4967
+0601032,Biała Podlaska,wiejska,lubelskie,bialski,15904
+0601042,Drelów,wiejska,lubelskie,bialski,4920
+0601053,Janów Podlaski,miejsko-wiejska,lubelskie,bialski,4801
+0601062,Kodeń,wiejska,lubelskie,bialski,3143
+0601072,Konstantynów,wiejska,lubelskie,bialski,3668
+0601082,Leśna Podlaska,wiejska,lubelskie,bialski,4056
+0601092,Łomazy,wiejska,lubelskie,bialski,4403
+0601102,Międzyrzec Podlaski,wiejska,lubelskie,bialski,10147
+0601113,Piszczac,miejsko-wiejska,lubelskie,bialski,6503
+0601122,Rokitno,wiejska,lubelskie,bialski,2599
+0601132,Rossosz,wiejska,lubelskie,bialski,2019
+0601142,Sławatycze,wiejska,lubelskie,bialski,2181
+0601152,Sosnówka,wiejska,lubelskie,bialski,2003
+0601162,Terespol,wiejska,lubelskie,bialski,5791
+0601172,Tuczna,wiejska,lubelskie,bialski,2635
+0601182,Wisznice,wiejska,lubelskie,bialski,4351
+0601192,Zalesie,wiejska,lubelskie,bialski,3934
+0602011,Biłgoraj,miejska,lubelskie,biłgorajski,24181
+0602022,Aleksandrów,wiejska,lubelskie,biłgorajski,3112
+0602032,Biłgoraj,wiejska,lubelskie,biłgorajski,13310
+0602042,Biszcza,wiejska,lubelskie,biłgorajski,3623
+0602053,Frampol,miejsko-wiejska,lubelskie,biłgorajski,5470
+0602063,Goraj,miejsko-wiejska,lubelskie,biłgorajski,3747
+0602073,Józefów,miejsko-wiejska,lubelskie,biłgorajski,6142
+0602082,Księżpol,wiejska,lubelskie,biłgorajski,6553
+0602092,Łukowa,wiejska,lubelskie,biłgorajski,3787
+0602102,Obsza,wiejska,lubelskie,biłgorajski,3938
+0602112,Potok Górny,wiejska,lubelskie,biłgorajski,4839
+0602123,Tarnogród,miejsko-wiejska,lubelskie,biłgorajski,6004
+0602132,Tereszpol,wiejska,lubelskie,biłgorajski,3712
+0602143,Turobin,miejsko-wiejska,lubelskie,biłgorajski,5268
+0603011,Rejowiec Fabryczny,miejska,lubelskie,chełmski,3885
+0603022,Białopole,wiejska,lubelskie,chełmski,2741
+0603032,Chełm,wiejska,lubelskie,chełmski,15390
+0603042,Dorohusk,wiejska,lubelskie,chełmski,5660
+0603052,Dubienka,wiejska,lubelskie,chełmski,1970
+0603062,Kamień,wiejska,lubelskie,chełmski,3979
+0603072,Leśniowice,wiejska,lubelskie,chełmski,3179
+0603082,Rejowiec Fabryczny,wiejska,lubelskie,chełmski,3786
+0603092,Ruda-Huta,wiejska,lubelskie,chełmski,4002
+0603102,Sawin,wiejska,lubelskie,chełmski,5006
+0603113,Siedliszcze,miejsko-wiejska,lubelskie,chełmski,6250
+0603122,Wierzbica,wiejska,lubelskie,chełmski,4533
+0603132,Wojsławice,wiejska,lubelskie,chełmski,3286
+0603142,Żmudź,wiejska,lubelskie,chełmski,2688
+0603153,Rejowiec,miejsko-wiejska,lubelskie,chełmski,5874
+0604011,Hrubieszów,miejska,lubelskie,hrubieszowski,15309
+0604022,Dołhobyczów,wiejska,lubelskie,hrubieszowski,4417
+0604032,Horodło,wiejska,lubelskie,hrubieszowski,4584
+0604042,Hrubieszów,wiejska,lubelskie,hrubieszowski,8917
+0604052,Mircze,wiejska,lubelskie,hrubieszowski,5860
+0604062,Trzeszczany,wiejska,lubelskie,hrubieszowski,3577
+0604072,Uchanie,wiejska,lubelskie,hrubieszowski,3860
+0604082,Werbkowice,wiejska,lubelskie,hrubieszowski,8013
+0605012,Batorz,wiejska,lubelskie,janowski,3022
+0605022,Chrzanów,wiejska,lubelskie,janowski,2574
+0605032,Dzwola,wiejska,lubelskie,janowski,5727
+0605042,Godziszów,wiejska,lubelskie,janowski,5335
+0605053,Janów Lubelski,miejsko-wiejska,lubelskie,janowski,14143
+0605063,Modliborzyce,miejsko-wiejska,lubelskie,janowski,6510
+0605072,Potok Wielki,wiejska,lubelskie,janowski,4398
+0606011,Krasnystaw,miejska,lubelskie,krasnostawski,16732
+0606022,Fajsławice,wiejska,lubelskie,krasnostawski,4338
+0606032,Gorzków,wiejska,lubelskie,krasnostawski,3104
+0606043,Izbica,miejsko-wiejska,lubelskie,krasnostawski,7464
+0606052,Krasnystaw,wiejska,lubelskie,krasnostawski,7920
+0606062,Kraśniczyn,wiejska,lubelskie,krasnostawski,3302
+0606072,Łopiennik Górny,wiejska,lubelskie,krasnostawski,3463
+0606092,Rudnik,wiejska,lubelskie,krasnostawski,2601
+0606102,Siennica Różana,wiejska,lubelskie,krasnostawski,3690
+0606112,Żółkiewka,wiejska,lubelskie,krasnostawski,4655
+0607011,Kraśnik,miejska,lubelskie,kraśnicki,30443
+0607023,Annopol,miejsko-wiejska,lubelskie,kraśnicki,7791
+0607032,Dzierzkowice,wiejska,lubelskie,kraśnicki,5164
+0607042,Gościeradów,wiejska,lubelskie,kraśnicki,6589
+0607052,Kraśnik,wiejska,lubelskie,kraśnicki,6701
+0607062,Szastarka,wiejska,lubelskie,kraśnicki,5272
+0607072,Trzydnik Duży,wiejska,lubelskie,kraśnicki,5773
+0607083,Urzędów,miejsko-wiejska,lubelskie,kraśnicki,7969
+0607092,Wilkołaz,wiejska,lubelskie,kraśnicki,5226
+0607102,Zakrzówek,wiejska,lubelskie,kraśnicki,5918
+0608011,Lubartów,miejska,lubelskie,lubartowski,19273
+0608022,Abramów,wiejska,lubelskie,lubartowski,3740
+0608032,Firlej,wiejska,lubelskie,lubartowski,5503
+0608042,Jeziorzany,wiejska,lubelskie,lubartowski,2385
+0608053,Kamionka,miejsko-wiejska,lubelskie,lubartowski,6539
+0608063,Kock,miejsko-wiejska,lubelskie,lubartowski,5549
+0608072,Lubartów,wiejska,lubelskie,lubartowski,12102
+0608082,Michów,wiejska,lubelskie,lubartowski,5221
+0608092,Niedźwiada,wiejska,lubelskie,lubartowski,6113
+0608103,Ostrów Lubelski,miejsko-wiejska,lubelskie,lubartowski,4807
+0608112,Ostrówek,wiejska,lubelskie,lubartowski,3577
+0608122,Serniki,wiejska,lubelskie,lubartowski,4709
+0608132,Uścimów,wiejska,lubelskie,lubartowski,2939
+0609013,Bełżyce,miejsko-wiejska,lubelskie,lubelski,12377
+0609022,Borzechów,wiejska,lubelskie,lubelski,3694
+0609033,Bychawa,miejsko-wiejska,lubelskie,lubelski,10540
+0609042,Garbów,wiejska,lubelskie,lubelski,8933
+0609052,Głusk,wiejska,lubelskie,lubelski,15851
+0609062,Jabłonna,wiejska,lubelskie,lubelski,8390
+0609072,Jastków,wiejska,lubelskie,lubelski,15805
+0609082,Konopnica,wiejska,lubelskie,lubelski,16241
+0609092,Krzczonów,wiejska,lubelskie,lubelski,3961
+0609102,Niedrzwica Duża,wiejska,lubelskie,lubelski,12142
+0609112,Niemce,wiejska,lubelskie,lubelski,22785
+0609122,Strzyżewice,wiejska,lubelskie,lubelski,8177
+0609132,Wojciechów,wiejska,lubelskie,lubelski,5965
+0609142,Wólka,wiejska,lubelskie,lubelski,14929
+0609152,Wysokie,wiejska,lubelskie,lubelski,3914
+0609162,Zakrzew,wiejska,lubelskie,lubelski,2573
+0610012,Cyców,wiejska,lubelskie,łęczyński,7625
+0610022,Ludwin,wiejska,lubelskie,łęczyński,5586
+0610033,Łęczna,miejsko-wiejska,lubelskie,łęczyński,21998
+0610042,Milejów,wiejska,lubelskie,łęczyński,8456
+0610052,Puchaczów,wiejska,lubelskie,łęczyński,5587
+0610062,Spiczyn,wiejska,lubelskie,łęczyński,5977
+0611011,Łuków,miejska,lubelskie,łukowski,26532
+0611021,Stoczek Łukowski,miejska,lubelskie,łukowski,2269
+0611032,Adamów,wiejska,lubelskie,łukowski,4968
+0611042,Krzywda,wiejska,lubelskie,łukowski,9593
+0611052,Łuków,wiejska,lubelskie,łukowski,18502
+0611062,Serokomla,wiejska,lubelskie,łukowski,3596
+0611072,Stanin,wiejska,lubelskie,łukowski,8953
+0611082,Stoczek Łukowski,wiejska,lubelskie,łukowski,7015
+0611092,Trzebieszów,wiejska,lubelskie,łukowski,6990
+0611102,Wojcieszków,wiejska,lubelskie,łukowski,6354
+0611112,Wola Mysłowska,wiejska,lubelskie,łukowski,4246
+0612012,Chodel,wiejska,lubelskie,opolski,6125
+0612023,Józefów nad Wisłą,miejsko-wiejska,lubelskie,opolski,5896
+0612032,Karczmiska,wiejska,lubelskie,opolski,5218
+0612042,Łaziska,wiejska,lubelskie,opolski,4395
+0612053,Opole Lubelskie,miejsko-wiejska,lubelskie,opolski,15773
+0612063,Poniatowa,miejsko-wiejska,lubelskie,opolski,12720
+0612072,Wilków,wiejska,lubelskie,opolski,4023
+0613012,Dębowa Kłoda,wiejska,lubelskie,parczewski,3481
+0613022,Jabłoń,wiejska,lubelskie,parczewski,3380
+0613032,Milanów,wiejska,lubelskie,parczewski,3275
+0613043,Parczew,miejsko-wiejska,lubelskie,parczewski,13372
+0613052,Podedwórze,wiejska,lubelskie,parczewski,1416
+0613062,Siemień,wiejska,lubelskie,parczewski,4111
+0613072,Sosnowica,wiejska,lubelskie,parczewski,2230
+0614011,Puławy,miejska,lubelskie,puławski,42798
+0614022,Baranów,wiejska,lubelskie,puławski,3362
+0614032,Janowiec,wiejska,lubelskie,puławski,3519
+0614043,Kazimierz Dolny,miejsko-wiejska,lubelskie,puławski,6094
+0614053,Końskowola,miejsko-wiejska,lubelskie,puławski,8198
+0614063,Kurów,miejsko-wiejska,lubelskie,puławski,7243
+0614072,Markuszów,wiejska,lubelskie,puławski,2793
+0614083,Nałęczów,miejsko-wiejska,lubelskie,puławski,8318
+0614092,Puławy,wiejska,lubelskie,puławski,12163
+0614103,Wąwolnica,miejsko-wiejska,lubelskie,puławski,3996
+0614112,Żyrzyn,wiejska,lubelskie,puławski,5982
+0615011,Radzyń Podlaski,miejska,lubelskie,radzyński,13781
+0615022,Borki,wiejska,lubelskie,radzyński,5662
+0615033,Czemierniki,miejsko-wiejska,lubelskie,radzyński,3977
+0615042,Kąkolewnica,wiejska,lubelskie,radzyński,7340
+0615052,Komarówka Podlaska,wiejska,lubelskie,radzyński,3687
+0615062,Radzyń Podlaski,wiejska,lubelskie,radzyński,7856
+0615072,Ulan-Majorat,wiejska,lubelskie,radzyński,5389
+0615082,Wohyń,wiejska,lubelskie,radzyński,5999
+0616011,Dęblin,miejska,lubelskie,rycki,13581
+0616022,Kłoczew,wiejska,lubelskie,rycki,6699
+0616032,Nowodwór,wiejska,lubelskie,rycki,3815
+0616043,Ryki,miejsko-wiejska,lubelskie,rycki,18777
+0616052,Stężyca,wiejska,lubelskie,rycki,4617
+0616062,Ułęż,wiejska,lubelskie,rycki,2705
+0617011,Świdnik,miejska,lubelskie,świdnicki,36028
+0617022,Mełgiew,wiejska,lubelskie,świdnicki,10961
+0617033,Piaski,miejsko-wiejska,lubelskie,świdnicki,9930
+0617042,Rybczewice,wiejska,lubelskie,świdnicki,3129
+0617052,Trawniki,wiejska,lubelskie,świdnicki,8294
+0618011,Tomaszów Lubelski,miejska,lubelskie,tomaszowski,17154
+0618022,Bełżec,wiejska,lubelskie,tomaszowski,3032
+0618032,Jarczów,wiejska,lubelskie,tomaszowski,3040
+0618042,Krynice,wiejska,lubelskie,tomaszowski,2875
+0618053,Lubycza Królewska,miejsko-wiejska,lubelskie,tomaszowski,5258
+0618063,Łaszczów,miejsko-wiejska,lubelskie,tomaszowski,5266
+0618072,Rachanie,wiejska,lubelskie,tomaszowski,4454
+0618082,Susiec,wiejska,lubelskie,tomaszowski,6696
+0618092,Tarnawatka,wiejska,lubelskie,tomaszowski,3700
+0618102,Telatyn,wiejska,lubelskie,tomaszowski,3368
+0618112,Tomaszów Lubelski,wiejska,lubelskie,tomaszowski,10964
+0618123,Tyszowce,miejsko-wiejska,lubelskie,tomaszowski,4890
+0618132,Ulhówek,wiejska,lubelskie,tomaszowski,3825
+0619011,Włodawa,miejska,lubelskie,włodawski,11675
+0619022,Hanna,wiejska,lubelskie,włodawski,2366
+0619032,Hańsk,wiejska,lubelskie,włodawski,3302
+0619042,Stary Brus,wiejska,lubelskie,włodawski,1740
+0619052,Urszulin,wiejska,lubelskie,włodawski,3990
+0619062,Włodawa,wiejska,lubelskie,włodawski,5585
+0619072,Wola Uhruska,wiejska,lubelskie,włodawski,3485
+0619082,Wyryki,wiejska,lubelskie,włodawski,2109
+0620012,Adamów,wiejska,lubelskie,zamojski,4267
+0620022,Grabowiec,wiejska,lubelskie,zamojski,3430
+0620032,Komarów-Osada,wiejska,lubelskie,zamojski,4309
+0620043,Krasnobród,miejsko-wiejska,lubelskie,zamojski,6529
+0620052,Łabunie,wiejska,lubelskie,zamojski,5749
+0620062,Miączyn,wiejska,lubelskie,zamojski,4762
+0620072,Nielisz,wiejska,lubelskie,zamojski,4935
+0620082,Radecznica,wiejska,lubelskie,zamojski,4843
+0620092,Sitno,wiejska,lubelskie,zamojski,6526
+0620102,Skierbieszów,wiejska,lubelskie,zamojski,4537
+0620112,Stary Zamość,wiejska,lubelskie,zamojski,4699
+0620122,Sułów,wiejska,lubelskie,zamojski,3888
+0620133,Szczebrzeszyn,miejsko-wiejska,lubelskie,zamojski,10272
+0620142,Zamość,wiejska,lubelskie,zamojski,23983
+0620153,Zwierzyniec,miejsko-wiejska,lubelskie,zamojski,5852
+0661011,Biała Podlaska,miejska,lubelskie,Biała Podlaska,53266
+0662011,Chełm,miejska,lubelskie,Chełm,55319
+0663011,Lublin,miejska,lubelskie,Lublin,325745
+0664011,Zamość,miejska,lubelskie,Zamość,56521
+0801011,Kostrzyn nad Odrą,miejska,lubuskie,gorzowski,17222
+0801022,Bogdaniec,wiejska,lubuskie,gorzowski,7125
+0801032,Deszczno,wiejska,lubuskie,gorzowski,11324
+0801042,Kłodawa,wiejska,lubuskie,gorzowski,9499
+0801052,Lubiszyn,wiejska,lubuskie,gorzowski,7201
+0801062,Santok,wiejska,lubuskie,gorzowski,9888
+0801073,Witnica,miejsko-wiejska,lubuskie,gorzowski,11982
+0802011,Gubin,miejska,lubuskie,krośnieński,15128
+0802022,Bobrowice,wiejska,lubuskie,krośnieński,2988
+0802032,Bytnica,wiejska,lubuskie,krośnieński,2208
+0802042,Dąbie,wiejska,lubuskie,krośnieński,4898
+0802052,Gubin,wiejska,lubuskie,krośnieński,7090
+0802063,Krosno Odrzańskie,miejsko-wiejska,lubuskie,krośnieński,16461
+0802072,Maszewo,wiejska,lubuskie,krośnieński,2715
+0803012,Bledzew,wiejska,lubuskie,międzyrzecki,3782
+0803023,Międzyrzecz,miejsko-wiejska,lubuskie,międzyrzecki,23222
+0803032,Przytoczna,wiejska,lubuskie,międzyrzecki,5118
+0803042,Pszczew,wiejska,lubuskie,międzyrzecki,4104
+0803053,Skwierzyna,miejsko-wiejska,lubuskie,międzyrzecki,11228
+0803063,Trzciel,miejsko-wiejska,lubuskie,międzyrzecki,6115
+0804011,Nowa Sól,miejska,lubuskie,nowosolski,35112
+0804023,Bytom Odrzański,miejsko-wiejska,lubuskie,nowosolski,5051
+0804032,Kolsko,wiejska,lubuskie,nowosolski,3172
+0804043,Kożuchów,miejsko-wiejska,lubuskie,nowosolski,15002
+0804052,Nowa Sól,wiejska,lubuskie,nowosolski,7539
+0804063,Nowe Miasteczko,miejsko-wiejska,lubuskie,nowosolski,4932
+0804073,Otyń,miejsko-wiejska,lubuskie,nowosolski,7166
+0804082,Siedlisko,wiejska,lubuskie,nowosolski,3273
+0805013,Cybinka,miejsko-wiejska,lubuskie,słubicki,6034
+0805022,Górzyca,wiejska,lubuskie,słubicki,4053
+0805033,Ośno Lubuskie,miejsko-wiejska,lubuskie,słubicki,6052
+0805043,Rzepin,miejsko-wiejska,lubuskie,słubicki,9295
+0805053,Słubice,miejsko-wiejska,lubuskie,słubicki,19926
+0806013,Dobiegniew,miejsko-wiejska,lubuskie,strzelecko-drezdenecki,6025
+0806023,Drezdenko,miejsko-wiejska,lubuskie,strzelecko-drezdenecki,15908
+0806032,Stare Kurowo,wiejska,lubuskie,strzelecko-drezdenecki,3829
+0806043,Strzelce Krajeńskie,miejsko-wiejska,lubuskie,strzelecko-drezdenecki,15678
+0806052,Zwierzyn,wiejska,lubuskie,strzelecko-drezdenecki,4065
+0807012,Krzeszyce,wiejska,lubuskie,sulęciński,4559
+0807023,Lubniewice,miejsko-wiejska,lubuskie,sulęciński,2979
+0807032,Słońsk,wiejska,lubuskie,sulęciński,4536
+0807043,Sulęcin,miejsko-wiejska,lubuskie,sulęciński,14647
+0807053,Torzym,miejsko-wiejska,lubuskie,sulęciński,6115
+0808012,Lubrza,wiejska,lubuskie,świebodziński,3584
+0808022,Łagów,wiejska,lubuskie,świebodziński,4653
+0808032,Skąpe,wiejska,lubuskie,świebodziński,4777
+0808042,Szczaniec,wiejska,lubuskie,świebodziński,3639
+0808053,Świebodzin,miejsko-wiejska,lubuskie,świebodziński,28635
+0808063,Zbąszynek,miejsko-wiejska,lubuskie,świebodziński,7940
+0809013,Babimost,miejsko-wiejska,lubuskie,zielonogórski,5976
+0809022,Bojadła,wiejska,lubuskie,zielonogórski,3072
+0809033,Czerwieńsk,miejsko-wiejska,lubuskie,zielonogórski,10166
+0809043,Kargowa,miejsko-wiejska,lubuskie,zielonogórski,5860
+0809053,Nowogród Bobrzański,miejsko-wiejska,lubuskie,zielonogórski,8727
+0809063,Sulechów,miejsko-wiejska,lubuskie,zielonogórski,25784
+0809072,Świdnica,wiejska,lubuskie,zielonogórski,6933
+0809082,Trzebiechów,wiejska,lubuskie,zielonogórski,3033
+0809092,Zabór,wiejska,lubuskie,zielonogórski,4865
+0810011,Gozdnica,miejska,lubuskie,żagański,2603
+0810021,Żagań,miejska,lubuskie,żagański,22648
+0810032,Brzeźnica,wiejska,lubuskie,żagański,3385
+0810043,Iłowa,miejsko-wiejska,lubuskie,żagański,6169
+0810053,Małomice,miejsko-wiejska,lubuskie,żagański,5126
+0810062,Niegosławice,wiejska,lubuskie,żagański,4191
+0810073,Szprotawa,miejsko-wiejska,lubuskie,żagański,18452
+0810082,Wymiarki,wiejska,lubuskie,żagański,2024
+0810092,Żagań,wiejska,lubuskie,żagański,7138
+0811011,Łęknica,miejska,lubuskie,żarski,2150
+0811021,Żary,miejska,lubuskie,żarski,33712
+0811033,Brody,miejsko-wiejska,lubuskie,żarski,3027
+0811043,Jasień,miejsko-wiejska,lubuskie,żarski,6511
+0811052,Lipinki Łużyckie,wiejska,lubuskie,żarski,3234
+0811063,Lubsko,miejsko-wiejska,lubuskie,żarski,16815
+0811072,Przewóz,wiejska,lubuskie,żarski,2928
+0811082,Trzebiel,wiejska,lubuskie,żarski,5299
+0811092,Tuplice,wiejska,lubuskie,żarski,2806
+0811102,Żary,wiejska,lubuskie,żarski,12436
+0812013,Sława,miejsko-wiejska,lubuskie,wschowski,12277
+0812023,Szlichtyngowa,miejsko-wiejska,lubuskie,wschowski,4700
+0812033,Wschowa,miejsko-wiejska,lubuskie,wschowski,19627
+0861011,Gorzów Wielkopolski,miejska,lubuskie,Gorzów Wielkopolski,113032
+0862011,Zielona Góra,miejska,lubuskie,Zielona Góra,138312
+1001011,Bełchatów,miejska,łódzkie,bełchatowski,50593
+1001022,Bełchatów,wiejska,łódzkie,bełchatowski,13396
+1001032,Drużbice,wiejska,łódzkie,bełchatowski,5281
+1001042,Kleszczów,wiejska,łódzkie,bełchatowski,6532
+1001052,Kluki,wiejska,łódzkie,bełchatowski,4292
+1001062,Rusiec,wiejska,łódzkie,bełchatowski,4697
+1001072,Szczerców,wiejska,łódzkie,bełchatowski,8087
+1001083,Zelów,miejsko-wiejska,łódzkie,bełchatowski,14051
+1002011,Kutno,miejska,łódzkie,kutnowski,39790
+1002022,Bedlno,wiejska,łódzkie,kutnowski,4866
+1002033,Dąbrowice,miejsko-wiejska,łódzkie,kutnowski,1710
+1002043,Krośniewice,miejsko-wiejska,łódzkie,kutnowski,7447
+1002052,Krzyżanów,wiejska,łódzkie,kutnowski,3947
+1002062,Kutno,wiejska,łódzkie,kutnowski,8808
+1002072,Łanięta,wiejska,łódzkie,kutnowski,2086
+1002082,Nowe Ostrowy,wiejska,łódzkie,kutnowski,3119
+1002092,Oporów,wiejska,łódzkie,kutnowski,2352
+1002102,Strzelce,wiejska,łódzkie,kutnowski,3623
+1002113,Żychlin,miejsko-wiejska,łódzkie,kutnowski,10472
+1003012,Buczek,wiejska,łódzkie,łaski,4973
+1003023,Łask,miejsko-wiejska,łódzkie,łaski,26519
+1003032,Sędziejowice,wiejska,łódzkie,łaski,6128
+1003042,Widawa,wiejska,łódzkie,łaski,6686
+1003052,Wodzierady,wiejska,łódzkie,łaski,3804
+1004011,Łęczyca,miejska,łódzkie,łęczycki,12571
+1004022,Daszyna,wiejska,łódzkie,łęczycki,3514
+1004032,Góra Świętej Małgorzaty,wiejska,łódzkie,łęczycki,4175
+1004043,Grabów,miejsko-wiejska,łódzkie,łęczycki,5181
+1004052,Łęczyca,wiejska,łódzkie,łęczycki,8062
+1004063,Piątek,miejsko-wiejska,łódzkie,łęczycki,5402
+1004072,Świnice Warckie,wiejska,łódzkie,łęczycki,3546
+1004082,Witonia,wiejska,łódzkie,łęczycki,2912
+1005011,Łowicz,miejska,łódzkie,łowicki,25141
+1005022,Bielawy,wiejska,łódzkie,łowicki,4801
+1005032,Chąśno,wiejska,łódzkie,łowicki,2848
+1005042,Domaniewice,wiejska,łódzkie,łowicki,4489
+1005053,Kiernozia,miejsko-wiejska,łódzkie,łowicki,2986
+1005062,Kocierzew Południowy,wiejska,łódzkie,łowicki,3900
+1005072,Łowicz,wiejska,łódzkie,łowicki,7719
+1005082,Łyszkowice,wiejska,łódzkie,łowicki,6282
+1005092,Nieborów,wiejska,łódzkie,łowicki,9117
+1005102,Zduny,wiejska,łódzkie,łowicki,5015
+1006022,Andrespol,wiejska,łódzkie,łódzki wschodni,14921
+1006032,Brójce,wiejska,łódzkie,łódzki wschodni,7414
+1006073,Koluszki,miejsko-wiejska,łódzkie,łódzki wschodni,22654
+1006082,Nowosolna,wiejska,łódzkie,łódzki wschodni,5916
+1006103,Rzgów,miejsko-wiejska,łódzkie,łódzki wschodni,11736
+1006113,Tuszyn,miejsko-wiejska,łódzkie,łódzki wschodni,12938
+1007013,Białaczów,miejsko-wiejska,łódzkie,opoczyński,5383
+1007023,Drzewica,miejsko-wiejska,łódzkie,opoczyński,9508
+1007032,Mniszków,wiejska,łódzkie,opoczyński,4648
+1007043,Opoczno,miejsko-wiejska,łódzkie,opoczyński,30872
+1007052,Paradyż,wiejska,łódzkie,opoczyński,4100
+1007062,Poświętne,wiejska,łódzkie,opoczyński,2827
+1007072,Sławno,wiejska,łódzkie,opoczyński,7441
+1007083,Żarnów,miejsko-wiejska,łódzkie,opoczyński,5425
+1008011,Konstantynów Łódzki,miejska,łódzkie,pabianicki,19233
+1008021,Pabianice,miejska,łódzkie,pabianicki,58883
+1008032,Dłutów,wiejska,łódzkie,pabianicki,5032
+1008042,Dobroń,wiejska,łódzkie,pabianicki,8189
+1008052,Ksawerów,wiejska,łódzkie,pabianicki,7674
+1008063,Lutomiersk,miejsko-wiejska,łódzkie,pabianicki,9772
+1008072,Pabianice,wiejska,łódzkie,pabianicki,9352
+1009013,Działoszyn,miejsko-wiejska,łódzkie,pajęczański,11184
+1009022,Kiełczygłów,wiejska,łódzkie,pajęczański,3689
+1009032,Nowa Brzeźnica,wiejska,łódzkie,pajęczański,4207
+1009043,Pajęczno,miejsko-wiejska,łódzkie,pajęczański,10705
+1009052,Rząśnia,wiejska,łódzkie,pajęczański,4861
+1009062,Siemkowice,wiejska,łódzkie,pajęczański,4315
+1009072,Strzelce Wielkie,wiejska,łódzkie,pajęczański,4049
+1009082,Sulmierzyce,wiejska,łódzkie,pajęczański,4343
+1010012,Aleksandrów,wiejska,łódzkie,piotrkowski,4149
+1010022,Czarnocin,wiejska,łódzkie,piotrkowski,3971
+1010032,Gorzkowice,wiejska,łódzkie,piotrkowski,8032
+1010042,Grabica,wiejska,łódzkie,piotrkowski,6053
+1010052,Łęki Szlacheckie,wiejska,łódzkie,piotrkowski,3097
+1010062,Moszczenica,wiejska,łódzkie,piotrkowski,12315
+1010072,Ręczno,wiejska,łódzkie,piotrkowski,3229
+1010083,Rozprza,miejsko-wiejska,łódzkie,piotrkowski,12095
+1010093,Sulejów,miejsko-wiejska,łódzkie,piotrkowski,16369
+1010102,Wola Krzysztoporska,wiejska,łódzkie,piotrkowski,11754
+1010113,Wolbórz,miejsko-wiejska,łódzkie,piotrkowski,7745
+1011012,Dalików,wiejska,łódzkie,poddębicki,4074
+1011022,Pęczniew,wiejska,łódzkie,poddębicki,3279
+1011033,Poddębice,miejsko-wiejska,łódzkie,poddębicki,14196
+1011043,Uniejów,miejsko-wiejska,łódzkie,poddębicki,6619
+1011052,Wartkowice,wiejska,łódzkie,poddębicki,6023
+1011062,Zadzim,wiejska,łódzkie,poddębicki,4532
+1012011,Radomsko,miejska,łódzkie,radomszczański,41639
+1012022,Dobryszyce,wiejska,łódzkie,radomszczański,4687
+1012032,Gidle,wiejska,łódzkie,radomszczański,5573
+1012042,Gomunice,wiejska,łódzkie,radomszczański,5553
+1012053,Kamieńsk,miejsko-wiejska,łódzkie,radomszczański,5472
+1012062,Kobiele Wielkie,wiejska,łódzkie,radomszczański,4141
+1012072,Kodrąb,wiejska,łódzkie,radomszczański,4171
+1012082,Lgota Wielka,wiejska,łódzkie,radomszczański,4017
+1012092,Ładzice,wiejska,łódzkie,radomszczański,4569
+1012102,Masłowice,wiejska,łódzkie,radomszczański,3774
+1012113,Przedbórz,miejsko-wiejska,łódzkie,radomszczański,6251
+1012122,Radomsko,wiejska,łódzkie,radomszczański,5370
+1012132,Wielgomłyny,wiejska,łódzkie,radomszczański,4161
+1012142,Żytno,wiejska,łódzkie,radomszczański,4632
+1013011,Rawa Mazowiecka,miejska,łódzkie,rawski,15427
+1013023,Biała Rawska,miejsko-wiejska,łódzkie,rawski,10516
+1013032,Cielądz,wiejska,łódzkie,rawski,3832
+1013042,Rawa Mazowiecka,wiejska,łódzkie,rawski,8569
+1013052,Regnów,wiejska,łódzkie,rawski,1679
+1013062,Sadkowice,wiejska,łódzkie,rawski,5013
+1014011,Sieradz,miejska,łódzkie,sieradzki,37514
+1014023,Błaszki,miejsko-wiejska,łódzkie,sieradzki,13590
+1014032,Brąszewice,wiejska,łódzkie,sieradzki,4262
+1014042,Brzeźnio,wiejska,łódzkie,sieradzki,6105
+1014052,Burzenin,wiejska,łódzkie,sieradzki,5162
+1014062,Goszczanów,wiejska,łódzkie,sieradzki,4905
+1014072,Klonowa,wiejska,łódzkie,sieradzki,2686
+1014082,Sieradz,wiejska,łódzkie,sieradzki,10869
+1014093,Warta,miejsko-wiejska,łódzkie,sieradzki,11579
+1014102,Wróblew,wiejska,łódzkie,sieradzki,5754
+1014113,Złoczew,miejsko-wiejska,łódzkie,sieradzki,6659
+1015013,Bolimów,miejsko-wiejska,łódzkie,skierniewicki,3807
+1015022,Głuchów,wiejska,łódzkie,skierniewicki,5323
+1015032,Godzianów,wiejska,łódzkie,skierniewicki,2558
+1015042,Kowiesy,wiejska,łódzkie,skierniewicki,2732
+1015052,Lipce Reymontowskie,wiejska,łódzkie,skierniewicki,3005
+1015062,Maków,wiejska,łódzkie,skierniewicki,5894
+1015072,Nowy Kawęczyn,wiejska,łódzkie,skierniewicki,3397
+1015082,Skierniewice,wiejska,łódzkie,skierniewicki,8252
+1015092,Słupia,wiejska,łódzkie,skierniewicki,2483
+1016011,Tomaszów Mazowiecki,miejska,łódzkie,tomaszowski,55696
+1016022,Będków,wiejska,łódzkie,tomaszowski,3095
+1016032,Budziszewice,wiejska,łódzkie,tomaszowski,2061
+1016042,Czerniewice,wiejska,łódzkie,tomaszowski,4768
+1016053,Inowłódz,miejsko-wiejska,łódzkie,tomaszowski,3604
+1016062,Lubochnia,wiejska,łódzkie,tomaszowski,7062
+1016072,Rokiciny,wiejska,łódzkie,tomaszowski,5842
+1016082,Rzeczyca,wiejska,łódzkie,tomaszowski,4352
+1016092,Tomaszów Mazowiecki,wiejska,łódzkie,tomaszowski,11511
+1016103,Ujazd,miejsko-wiejska,łódzkie,tomaszowski,7137
+1016112,Żelechlinek,wiejska,łódzkie,tomaszowski,3041
+1017012,Biała,wiejska,łódzkie,wieluński,5226
+1017022,Czarnożyły,wiejska,łódzkie,wieluński,4349
+1017032,Konopnica,wiejska,łódzkie,wieluński,3465
+1017042,Mokrsko,wiejska,łódzkie,wieluński,4990
+1017053,Osjaków,miejsko-wiejska,łódzkie,wieluński,4622
+1017062,Ostrówek,wiejska,łódzkie,wieluński,4277
+1017072,Pątnów,wiejska,łódzkie,wieluński,6028
+1017082,Skomlin,wiejska,łódzkie,wieluński,3130
+1017093,Wieluń,miejsko-wiejska,łódzkie,wieluński,28714
+1017102,Wierzchlas,wiejska,łódzkie,wieluński,6317
+1018013,Bolesławiec,miejsko-wiejska,łódzkie,wieruszowski,3768
+1018022,Czastary,wiejska,łódzkie,wieruszowski,3892
+1018032,Galewice,wiejska,łódzkie,wieruszowski,6117
+1018043,Lututów,miejsko-wiejska,łódzkie,wieruszowski,4481
+1018052,Łubnice,wiejska,łódzkie,wieruszowski,3781
+1018062,Sokolniki,wiejska,łódzkie,wieruszowski,5271
+1018073,Wieruszów,miejsko-wiejska,łódzkie,wieruszowski,13873
+1019011,Zduńska Wola,miejska,łódzkie,zduńskowolski,37325
+1019023,Szadek,miejsko-wiejska,łódzkie,zduńskowolski,6962
+1019032,Zapolice,wiejska,łódzkie,zduńskowolski,5570
+1019042,Zduńska Wola,wiejska,łódzkie,zduńskowolski,12406
+1020011,Głowno,miejska,łódzkie,zgierski,12753
+1020021,Ozorków,miejska,łódzkie,zgierski,17536
+1020031,Zgierz,miejska,łódzkie,zgierski,52137
+1020043,Aleksandrów Łódzki,miejsko-wiejska,łódzkie,zgierski,35803
+1020052,Głowno,wiejska,łódzkie,zgierski,4561
+1020062,Ozorków,wiejska,łódzkie,zgierski,7301
+1020073,Parzęczew,miejsko-wiejska,łódzkie,zgierski,5370
+1020083,Stryków,miejsko-wiejska,łódzkie,zgierski,12969
+1020092,Zgierz,wiejska,łódzkie,zgierski,16729
+1021011,Brzeziny,miejska,łódzkie,brzeziński,11649
+1021022,Brzeziny,wiejska,łódzkie,brzeziński,6245
+1021032,Dmosin,wiejska,łódzkie,brzeziński,4304
+1021043,Jeżów,miejsko-wiejska,łódzkie,brzeziński,3120
+1021052,Rogów,wiejska,łódzkie,brzeziński,4559
+1061011,Łódź,miejska,łódzkie,Łódź,636753
+1062011,Piotrków Trybunalski,miejska,łódzkie,Piotrków Trybunalski,65064
+1063011,Skierniewice,miejska,łódzkie,Skierniewice,44646
+1201011,Bochnia,miejska,małopolskie,bocheński,28126
+1201022,Bochnia,wiejska,małopolskie,bocheński,20952
+1201032,Drwinia,wiejska,małopolskie,bocheński,6199
+1201042,Lipnica Murowana,wiejska,małopolskie,bocheński,5490
+1201052,Łapanów,wiejska,małopolskie,bocheński,8696
+1201063,Nowy Wiśnicz,miejsko-wiejska,małopolskie,bocheński,14546
+1201072,Rzezawa,wiejska,małopolskie,bocheński,11619
+1201082,Trzciana,wiejska,małopolskie,bocheński,5726
+1201092,Żegocina,wiejska,małopolskie,bocheński,5520
+1202012,Borzęcin,wiejska,małopolskie,brzeski,8062
+1202023,Brzesko,miejsko-wiejska,małopolskie,brzeski,35037
+1202033,Czchów,miejsko-wiejska,małopolskie,brzeski,9558
+1202042,Dębno,wiejska,małopolskie,brzeski,14445
+1202052,Gnojnik,wiejska,małopolskie,brzeski,8052
+1202062,Iwkowa,wiejska,małopolskie,brzeski,6654
+1202072,Szczurowa,wiejska,małopolskie,brzeski,8934
+1203013,Alwernia,miejsko-wiejska,małopolskie,chrzanowski,12100
+1203022,Babice,wiejska,małopolskie,chrzanowski,8927
+1203033,Chrzanów,miejsko-wiejska,małopolskie,chrzanowski,42889
+1203043,Libiąż,miejsko-wiejska,małopolskie,chrzanowski,20639
+1203053,Trzebinia,miejsko-wiejska,małopolskie,chrzanowski,31706
+1204012,Bolesław,wiejska,małopolskie,dąbrowski,2588
+1204023,Dąbrowa Tarnowska,miejsko-wiejska,małopolskie,dąbrowski,20797
+1204032,Gręboszów,wiejska,małopolskie,dąbrowski,3096
+1204042,Mędrzechów,wiejska,małopolskie,dąbrowski,3178
+1204052,Olesno,wiejska,małopolskie,dąbrowski,7566
+1204062,Radgoszcz,wiejska,małopolskie,dąbrowski,7358
+1204073,Szczucin,miejsko-wiejska,małopolskie,dąbrowski,12223
+1205011,Gorlice,miejska,małopolskie,gorlicki,24670
+1205023,Biecz,miejsko-wiejska,małopolskie,gorlicki,15756
+1205033,Bobowa,miejsko-wiejska,małopolskie,gorlicki,9483
+1205042,Gorlice,wiejska,małopolskie,gorlicki,16816
+1205052,Lipinki,wiejska,małopolskie,gorlicki,6614
+1205062,Łużna,wiejska,małopolskie,gorlicki,8247
+1205072,Moszczenica,wiejska,małopolskie,gorlicki,4882
+1205082,Ropa,wiejska,małopolskie,gorlicki,5518
+1205092,Sękowa,wiejska,małopolskie,gorlicki,4826
+1205102,Uście Gorlickie,wiejska,małopolskie,gorlicki,6595
+1206012,Czernichów,wiejska,małopolskie,krakowski,15523
+1206022,Igołomia-Wawrzeńczyce,wiejska,małopolskie,krakowski,7805
+1206032,Iwanowice,wiejska,małopolskie,krakowski,9860
+1206042,Jerzmanowice-Przeginia,wiejska,małopolskie,krakowski,11096
+1206052,Kocmyrzów-Luborzyca,wiejska,małopolskie,krakowski,18889
+1206063,Krzeszowice,miejsko-wiejska,małopolskie,krakowski,31542
+1206072,Liszki,wiejska,małopolskie,krakowski,18925
+1206082,Michałowice,wiejska,małopolskie,krakowski,13758
+1206092,Mogilany,wiejska,małopolskie,krakowski,16655
+1206103,Skała,miejsko-wiejska,małopolskie,krakowski,10867
+1206113,Skawina,miejsko-wiejska,małopolskie,krakowski,43900
+1206123,Słomniki,miejsko-wiejska,małopolskie,krakowski,13601
+1206132,Sułoszowa,wiejska,małopolskie,krakowski,5567
+1206143,Świątniki Górne,miejsko-wiejska,małopolskie,krakowski,11140
+1206152,Wielka Wieś,wiejska,małopolskie,krakowski,17674
+1206162,Zabierzów,wiejska,małopolskie,krakowski,30167
+1206172,Zielonki,wiejska,małopolskie,krakowski,28363
+1207011,Limanowa,miejska,małopolskie,limanowski,14191
+1207021,Mszana Dolna,miejska,małopolskie,limanowski,7788
+1207032,Dobra,wiejska,małopolskie,limanowski,10099
+1207042,Jodłownik,wiejska,małopolskie,limanowski,8769
+1207052,Kamienica,wiejska,małopolskie,limanowski,5943
+1207062,Laskowa,wiejska,małopolskie,limanowski,8124
+1207072,Limanowa,wiejska,małopolskie,limanowski,26191
+1207082,Łukowica,wiejska,małopolskie,limanowski,10215
+1207092,Mszana Dolna,wiejska,małopolskie,limanowski,17640
+1207102,Niedźwiedź,wiejska,małopolskie,limanowski,7304
+1207112,Słopnice,wiejska,małopolskie,limanowski,7083
+1207122,Tymbark,wiejska,małopolskie,limanowski,6304
+1207132,Szczawa,wiejska,małopolskie,limanowski,1791
+1208012,Charsznica,wiejska,małopolskie,miechowski,6914
+1208022,Gołcza,wiejska,małopolskie,miechowski,5803
+1208032,Kozłów,wiejska,małopolskie,miechowski,4315
+1208043,Książ Wielki,miejsko-wiejska,małopolskie,miechowski,4707
+1208053,Miechów,miejsko-wiejska,małopolskie,miechowski,18340
+1208062,Racławice,wiejska,małopolskie,miechowski,2361
+1208072,Słaboszów,wiejska,małopolskie,miechowski,3224
+1209013,Dobczyce,miejsko-wiejska,małopolskie,myślenicki,15601
+1209022,Lubień,wiejska,małopolskie,myślenicki,10089
+1209033,Myślenice,miejsko-wiejska,małopolskie,myślenicki,45393
+1209042,Pcim,wiejska,małopolskie,myślenicki,11000
+1209052,Raciechowice,wiejska,małopolskie,myślenicki,6458
+1209062,Siepraw,wiejska,małopolskie,myślenicki,9879
+1209073,Sułkowice,miejsko-wiejska,małopolskie,myślenicki,15266
+1209082,Tokarnia,wiejska,małopolskie,myślenicki,8754
+1209092,Wiśniowa,wiejska,małopolskie,myślenicki,7539
+1210011,Grybów,miejska,małopolskie,nowosądecki,5824
+1210022,Chełmiec,wiejska,małopolskie,nowosądecki,29965
+1210032,Gródek nad Dunajcem,wiejska,małopolskie,nowosądecki,8821
+1210042,Grybów,wiejska,małopolskie,nowosądecki,25442
+1210052,Kamionka Wielka,wiejska,małopolskie,nowosądecki,10509
+1210062,Korzenna,wiejska,małopolskie,nowosądecki,14479
+1210073,Krynica-Zdrój,miejsko-wiejska,małopolskie,nowosądecki,15177
+1210082,Łabowa,wiejska,małopolskie,nowosądecki,6014
+1210092,Łącko,wiejska,małopolskie,nowosądecki,16728
+1210102,Łososina Dolna,wiejska,małopolskie,nowosądecki,11183
+1210113,Muszyna,miejsko-wiejska,małopolskie,nowosądecki,10995
+1210122,Nawojowa,wiejska,małopolskie,nowosądecki,8846
+1210133,Piwniczna-Zdrój,miejsko-wiejska,małopolskie,nowosądecki,9674
+1210142,Podegrodzie,wiejska,małopolskie,nowosądecki,13756
+1210152,Rytro,wiejska,małopolskie,nowosądecki,3578
+1210163,Stary Sącz,miejsko-wiejska,małopolskie,nowosądecki,23377
+1211011,Nowy Targ,miejska,małopolskie,nowotarski,32917
+1211023,Szczawnica,miejsko-wiejska,małopolskie,nowotarski,6538
+1211033,Czarny Dunajec,miejsko-wiejska,małopolskie,nowotarski,22137
+1211042,Czorsztyn,wiejska,małopolskie,nowotarski,7510
+1211052,Jabłonka,wiejska,małopolskie,nowotarski,19321
+1211062,Krościenko nad Dunajcem,wiejska,małopolskie,nowotarski,6576
+1211072,Lipnica Wielka,wiejska,małopolskie,nowotarski,6045
+1211082,Łapsze Niżne,wiejska,małopolskie,nowotarski,9209
+1211092,Nowy Targ,wiejska,małopolskie,nowotarski,24060
+1211102,Ochotnica Dolna,wiejska,małopolskie,nowotarski,8460
+1211112,Raba Wyżna,wiejska,małopolskie,nowotarski,14338
+1211123,Rabka-Zdrój,miejsko-wiejska,małopolskie,nowotarski,16359
+1211132,Spytkowice,wiejska,małopolskie,nowotarski,4694
+1211142,Szaflary,wiejska,małopolskie,nowotarski,11344
+1212011,Bukowno,miejska,małopolskie,olkuski,9071
+1212032,Bolesław,wiejska,małopolskie,olkuski,7314
+1212042,Klucze,wiejska,małopolskie,olkuski,14138
+1212053,Olkusz,miejsko-wiejska,małopolskie,olkuski,44498
+1212062,Trzyciąż,wiejska,małopolskie,olkuski,6880
+1212073,Wolbrom,miejsko-wiejska,małopolskie,olkuski,21478
+1213011,Oświęcim,miejska,małopolskie,oświęcimski,34918
+1213023,Brzeszcze,miejsko-wiejska,małopolskie,oświęcimski,20033
+1213033,Chełmek,miejsko-wiejska,małopolskie,oświęcimski,12021
+1213043,Kęty,miejsko-wiejska,małopolskie,oświęcimski,32926
+1213052,Osiek,wiejska,małopolskie,oświęcimski,8100
+1213062,Oświęcim,wiejska,małopolskie,oświęcimski,18872
+1213072,Polanka Wielka,wiejska,małopolskie,oświęcimski,4288
+1213082,Przeciszów,wiejska,małopolskie,oświęcimski,6233
+1213093,Zator,miejsko-wiejska,małopolskie,oświęcimski,8983
+1214012,Koniusza,wiejska,małopolskie,proszowicki,9125
+1214023,Koszyce,miejsko-wiejska,małopolskie,proszowicki,5134
+1214033,Nowe Brzesko,miejsko-wiejska,małopolskie,proszowicki,5577
+1214042,Pałecznica,wiejska,małopolskie,proszowicki,3382
+1214053,Proszowice,miejsko-wiejska,małopolskie,proszowicki,15189
+1214062,Radziemice,wiejska,małopolskie,proszowicki,3126
+1215011,Jordanów,miejska,małopolskie,suski,5355
+1215021,Sucha Beskidzka,miejska,małopolskie,suski,8650
+1215032,Budzów,wiejska,małopolskie,suski,8763
+1215042,Bystra-Sidzina,wiejska,małopolskie,suski,6836
+1215052,Jordanów,wiejska,małopolskie,suski,11108
+1215063,Maków Podhalański,miejsko-wiejska,małopolskie,suski,15523
+1215072,Stryszawa,wiejska,małopolskie,suski,11840
+1215082,Zawoja,wiejska,małopolskie,suski,8666
+1215092,Zembrzyce,wiejska,małopolskie,suski,5317
+1216013,Ciężkowice,miejsko-wiejska,małopolskie,tarnowski,10899
+1216022,Gromnik,wiejska,małopolskie,tarnowski,8742
+1216032,Lisia Góra,wiejska,małopolskie,tarnowski,15723
+1216042,Pleśna,wiejska,małopolskie,tarnowski,11707
+1216053,Radłów,miejsko-wiejska,małopolskie,tarnowski,9263
+1216063,Ryglice,miejsko-wiejska,małopolskie,tarnowski,11101
+1216072,Rzepiennik Strzyżewski,wiejska,małopolskie,tarnowski,6466
+1216082,Skrzyszów,wiejska,małopolskie,tarnowski,14236
+1216092,Tarnów,wiejska,małopolskie,tarnowski,26561
+1216103,Tuchów,miejsko-wiejska,małopolskie,tarnowski,16644
+1216112,Wierzchosławice,wiejska,małopolskie,tarnowski,10449
+1216122,Wietrzychowice,wiejska,małopolskie,tarnowski,3652
+1216133,Wojnicz,miejsko-wiejska,małopolskie,tarnowski,12990
+1216143,Zakliczyn,miejsko-wiejska,małopolskie,tarnowski,12269
+1216153,Żabno,miejsko-wiejska,małopolskie,tarnowski,18136
+1216162,Szerzyny,wiejska,małopolskie,tarnowski,7394
+1217011,Zakopane,miejska,małopolskie,tatrzański,24805
+1217022,Biały Dunajec,wiejska,małopolskie,tatrzański,6792
+1217032,Bukowina Tatrzańska,wiejska,małopolskie,tatrzański,13569
+1217042,Kościelisko,wiejska,małopolskie,tatrzański,9074
+1217052,Poronin,wiejska,małopolskie,tatrzański,11792
+1218013,Andrychów,miejsko-wiejska,małopolskie,wadowicki,41368
+1218022,Brzeźnica,wiejska,małopolskie,wadowicki,10891
+1218033,Kalwaria Zebrzydowska,miejsko-wiejska,małopolskie,wadowicki,19732
+1218042,Lanckorona,wiejska,małopolskie,wadowicki,6203
+1218052,Mucharz,wiejska,małopolskie,wadowicki,4155
+1218062,Spytkowice,wiejska,małopolskie,wadowicki,9961
+1218072,Stryszów,wiejska,małopolskie,wadowicki,6735
+1218082,Tomice,wiejska,małopolskie,wadowicki,8359
+1218093,Wadowice,miejsko-wiejska,małopolskie,wadowicki,35904
+1218102,Wieprz,wiejska,małopolskie,wadowicki,12867
+1219012,Biskupice,wiejska,małopolskie,wielicki,12013
+1219022,Gdów,wiejska,małopolskie,wielicki,18788
+1219032,Kłaj,wiejska,małopolskie,wielicki,11481
+1219043,Niepołomice,miejsko-wiejska,małopolskie,wielicki,34138
+1219053,Wieliczka,miejsko-wiejska,małopolskie,wielicki,70773
+1261011,Kraków,miejska,małopolskie,Kraków,819493
+1262011,Nowy Sącz,miejska,małopolskie,Nowy Sącz,79139
+1263011,Tarnów,miejska,małopolskie,Tarnów,100686
+1401013,Białobrzegi,miejsko-wiejska,mazowieckie,białobrzeski,9609
+1401022,Promna,wiejska,mazowieckie,białobrzeski,5408
+1401032,Radzanów,wiejska,mazowieckie,białobrzeski,3755
+1401042,Stara Błotnica,wiejska,mazowieckie,białobrzeski,5351
+1401052,Stromiec,wiejska,mazowieckie,białobrzeski,5334
+1401063,Wyśmierzyce,miejsko-wiejska,mazowieckie,białobrzeski,2634
+1402011,Ciechanów,miejska,mazowieckie,ciechanowski,41109
+1402022,Ciechanów,wiejska,mazowieckie,ciechanowski,7602
+1402033,Glinojeck,miejsko-wiejska,mazowieckie,ciechanowski,6885
+1402042,Gołymin-Ośrodek,wiejska,mazowieckie,ciechanowski,3363
+1402052,Grudusk,wiejska,mazowieckie,ciechanowski,3193
+1402062,Ojrzeń,wiejska,mazowieckie,ciechanowski,3958
+1402072,Opinogóra Górna,wiejska,mazowieckie,ciechanowski,5760
+1402082,Regimin,wiejska,mazowieckie,ciechanowski,4639
+1402092,Sońsk,wiejska,mazowieckie,ciechanowski,7188
+1403011,Garwolin,miejska,mazowieckie,garwoliński,17240
+1403021,Łaskarzew,miejska,mazowieckie,garwoliński,4384
+1403032,Borowie,wiejska,mazowieckie,garwoliński,4882
+1403042,Garwolin,wiejska,mazowieckie,garwoliński,13459
+1403052,Górzno,wiejska,mazowieckie,garwoliński,6786
+1403062,Łaskarzew,wiejska,mazowieckie,garwoliński,5219
+1403073,Maciejowice,miejsko-wiejska,mazowieckie,garwoliński,6192
+1403082,Miastków Kościelny,wiejska,mazowieckie,garwoliński,4550
+1403092,Parysów,wiejska,mazowieckie,garwoliński,4076
+1403103,Pilawa,miejsko-wiejska,mazowieckie,garwoliński,10556
+1403112,Sobolew,wiejska,mazowieckie,garwoliński,7693
+1403122,Trojanów,wiejska,mazowieckie,garwoliński,6991
+1403132,Wilga,wiejska,mazowieckie,garwoliński,5042
+1403143,Żelechów,miejsko-wiejska,mazowieckie,garwoliński,7618
+1404011,Gostynin,miejska,mazowieckie,gostyniński,16348
+1404022,Gostynin,wiejska,mazowieckie,gostyniński,11584
+1404032,Pacyna,wiejska,mazowieckie,gostyniński,3070
+1404043,Sanniki,miejsko-wiejska,mazowieckie,gostyniński,5476
+1404052,Szczawin Kościelny,wiejska,mazowieckie,gostyniński,4620
+1405011,Milanówek,miejska,mazowieckie,grodziski,16219
+1405021,Podkowa Leśna,miejska,mazowieckie,grodziski,3697
+1405032,Baranów,wiejska,mazowieckie,grodziski,5268
+1405043,Grodzisk Mazowiecki,miejsko-wiejska,mazowieckie,grodziski,57790
+1405052,Jaktorów,wiejska,mazowieckie,grodziski,13871
+1405062,Żabia Wola,wiejska,mazowieckie,grodziski,12042
+1406012,Belsk Duży,wiejska,mazowieckie,grójecki,6068
+1406022,Błędów,wiejska,mazowieckie,grójecki,6906
+1406032,Chynów,wiejska,mazowieckie,grójecki,10126
+1406042,Goszczyn,wiejska,mazowieckie,grójecki,2838
+1406053,Grójec,miejsko-wiejska,mazowieckie,grójecki,26120
+1406062,Jasieniec,wiejska,mazowieckie,grójecki,5299
+1406073,Mogielnica,miejsko-wiejska,mazowieckie,grójecki,7974
+1406083,Nowe Miasto nad Pilicą,miejsko-wiejska,mazowieckie,grójecki,6929
+1406092,Pniewy,wiejska,mazowieckie,grójecki,4903
+1406113,Warka,miejsko-wiejska,mazowieckie,grójecki,18944
+1407012,Garbatka-Letnisko,wiejska,mazowieckie,kozienicki,4711
+1407023,Głowaczów,miejsko-wiejska,mazowieckie,kozienicki,6538
+1407032,Gniewoszów,wiejska,mazowieckie,kozienicki,3678
+1407042,Grabów nad Pilicą,wiejska,mazowieckie,kozienicki,4077
+1407053,Kozienice,miejsko-wiejska,mazowieckie,kozienicki,27049
+1407063,Magnuszew,miejsko-wiejska,mazowieckie,kozienicki,6300
+1407072,Sieciechów,wiejska,mazowieckie,kozienicki,3671
+1408011,Legionowo,miejska,mazowieckie,legionowski,51732
+1408022,Jabłonna,wiejska,mazowieckie,legionowski,24114
+1408032,Nieporęt,wiejska,mazowieckie,legionowski,17599
+1408043,Serock,miejsko-wiejska,mazowieckie,legionowski,18895
+1408052,Wieliszew,wiejska,mazowieckie,legionowski,22372
+1409012,Chotcza,wiejska,mazowieckie,lipski,2075
+1409023,Ciepielów,miejsko-wiejska,mazowieckie,lipski,5051
+1409033,Lipsko,miejsko-wiejska,mazowieckie,lipski,9744
+1409042,Rzeczniów,wiejska,mazowieckie,lipski,3949
+1409053,Sienno,miejsko-wiejska,mazowieckie,lipski,5356
+1409063,Solec nad Wisłą,miejsko-wiejska,mazowieckie,lipski,4396
+1410012,Huszlew,wiejska,mazowieckie,łosicki,2578
+1410023,Łosice,miejsko-wiejska,mazowieckie,łosicki,10194
+1410032,Olszanka,wiejska,mazowieckie,łosicki,2661
+1410042,Platerów,wiejska,mazowieckie,łosicki,4258
+1410052,Sarnaki,wiejska,mazowieckie,łosicki,3956
+1410062,Stara Kornica,wiejska,mazowieckie,łosicki,4269
+1411011,Maków Mazowiecki,miejska,mazowieckie,makowski,8636
+1411022,Czerwonka,wiejska,mazowieckie,makowski,2525
+1411032,Karniewo,wiejska,mazowieckie,makowski,4769
+1411042,Krasnosielc,wiejska,mazowieckie,makowski,5726
+1411052,Młynarze,wiejska,mazowieckie,makowski,1572
+1411062,Płoniawy-Bramura,wiejska,mazowieckie,makowski,4632
+1411073,Różan,miejsko-wiejska,mazowieckie,makowski,4169
+1411082,Rzewnie,wiejska,mazowieckie,makowski,2383
+1411092,Sypniewo,wiejska,mazowieckie,makowski,2820
+1411102,Szelków,wiejska,mazowieckie,makowski,3468
+1412011,Mińsk Mazowiecki,miejska,mazowieckie,miński,39352
+1412043,Cegłów,miejsko-wiejska,mazowieckie,miński,6019
+1412052,Dębe Wielkie,wiejska,mazowieckie,miński,12121
+1412063,Dobre,miejsko-wiejska,mazowieckie,miński,5821
+1412073,Halinów,miejsko-wiejska,mazowieckie,miński,18435
+1412082,Jakubów,wiejska,mazowieckie,miński,5076
+1412093,Kałuszyn,miejsko-wiejska,mazowieckie,miński,5387
+1412103,Latowicz,miejsko-wiejska,mazowieckie,miński,5053
+1412112,Mińsk Mazowiecki,wiejska,mazowieckie,miński,17392
+1412123,Mrozy,miejsko-wiejska,mazowieckie,miński,8578
+1412133,Siennica,miejsko-wiejska,mazowieckie,miński,7680
+1412143,Stanisławów,miejsko-wiejska,mazowieckie,miński,7040
+1412151,Sulejówek,miejska,mazowieckie,miński,21720
+1413011,Mława,miejska,mazowieckie,mławski,30535
+1413022,Dzierzgowo,wiejska,mazowieckie,mławski,2629
+1413032,Lipowiec Kościelny,wiejska,mazowieckie,mławski,4377
+1413042,Radzanów,wiejska,mazowieckie,mławski,2816
+1413052,Strzegowo,wiejska,mazowieckie,mławski,6829
+1413062,Stupsk,wiejska,mazowieckie,mławski,4265
+1413072,Szreńsk,wiejska,mazowieckie,mławski,3686
+1413082,Szydłowo,wiejska,mazowieckie,mławski,4070
+1413092,Wieczfnia Kościelna,wiejska,mazowieckie,mławski,3530
+1413102,Wiśniewo,wiejska,mazowieckie,mławski,5008
+1414011,Nowy Dwór Mazowiecki,miejska,mazowieckie,nowodworski,28344
+1414022,Czosnów,wiejska,mazowieckie,nowodworski,11058
+1414032,Leoncin,wiejska,mazowieckie,nowodworski,5593
+1414043,Nasielsk,miejsko-wiejska,mazowieckie,nowodworski,19065
+1414052,Pomiechówek,wiejska,mazowieckie,nowodworski,9218
+1414063,Zakroczym,miejsko-wiejska,mazowieckie,nowodworski,5734
+1415012,Baranowo,wiejska,mazowieckie,ostrołęcki,5791
+1415022,Czarnia,wiejska,mazowieckie,ostrołęcki,2174
+1415032,Czerwin,wiejska,mazowieckie,ostrołęcki,4638
+1415042,Goworowo,wiejska,mazowieckie,ostrołęcki,7723
+1415052,Kadzidło,wiejska,mazowieckie,ostrołęcki,10904
+1415062,Lelis,wiejska,mazowieckie,ostrołęcki,9882
+1415072,Łyse,wiejska,mazowieckie,ostrołęcki,8091
+1415083,Myszyniec,miejsko-wiejska,mazowieckie,ostrołęcki,9777
+1415092,Olszewo-Borki,wiejska,mazowieckie,ostrołęcki,11043
+1415102,Rzekuń,wiejska,mazowieckie,ostrołęcki,12476
+1415112,Troszyn,wiejska,mazowieckie,ostrołęcki,4383
+1416011,Ostrów Mazowiecka,miejska,mazowieckie,ostrowski,21164
+1416022,Andrzejewo,wiejska,mazowieckie,ostrowski,3658
+1416032,Boguty-Pianki,wiejska,mazowieckie,ostrowski,2293
+1416043,Brok,miejsko-wiejska,mazowieckie,ostrowski,2499
+1416053,Małkinia Górna,miejsko-wiejska,mazowieckie,ostrowski,10558
+1416062,Nur,wiejska,mazowieckie,ostrowski,2321
+1416072,Ostrów Mazowiecka,wiejska,mazowieckie,ostrowski,12445
+1416082,Stary Lubotyń,wiejska,mazowieckie,ostrowski,3507
+1416092,Szulborze Wielkie,wiejska,mazowieckie,ostrowski,1436
+1416102,Wąsewo,wiejska,mazowieckie,ostrowski,3864
+1416112,Zaręby Kościelne,wiejska,mazowieckie,ostrowski,3211
+1417011,Józefów,miejska,mazowieckie,otwocki,21105
+1417021,Otwock,miejska,mazowieckie,otwocki,42902
+1417032,Celestynów,wiejska,mazowieckie,otwocki,11645
+1417043,Karczew,miejsko-wiejska,mazowieckie,otwocki,15737
+1417052,Kołbiel,wiejska,mazowieckie,otwocki,8288
+1417063,Osieck,miejsko-wiejska,mazowieckie,otwocki,3633
+1417072,Sobienie-Jeziory,wiejska,mazowieckie,otwocki,6145
+1417082,Wiązowna,wiejska,mazowieckie,otwocki,16626
+1418013,Góra Kalwaria,miejsko-wiejska,mazowieckie,piaseczyński,28918
+1418023,Konstancin-Jeziorna,miejsko-wiejska,mazowieckie,piaseczyński,24819
+1418032,Lesznowola,wiejska,mazowieckie,piaseczyński,42262
+1418043,Piaseczno,miejsko-wiejska,mazowieckie,piaseczyński,98585
+1418052,Prażmów,wiejska,mazowieckie,piaseczyński,14122
+1418063,Tarczyn,miejsko-wiejska,mazowieckie,piaseczyński,12912
+1419012,Bielsk,wiejska,mazowieckie,płocki,8714
+1419023,Bodzanów,miejsko-wiejska,mazowieckie,płocki,7602
+1419032,Brudzeń Duży,wiejska,mazowieckie,płocki,8026
+1419042,Bulkowo,wiejska,mazowieckie,płocki,5063
+1419053,Drobin,miejsko-wiejska,mazowieckie,płocki,7090
+1419063,Gąbin,miejsko-wiejska,mazowieckie,płocki,11012
+1419072,Łąck,wiejska,mazowieckie,płocki,5433
+1419082,Mała Wieś,wiejska,mazowieckie,płocki,5511
+1419092,Nowy Duninów,wiejska,mazowieckie,płocki,3905
+1419102,Radzanowo,wiejska,mazowieckie,płocki,8847
+1419112,Słubice,wiejska,mazowieckie,płocki,3999
+1419122,Słupno,wiejska,mazowieckie,płocki,9198
+1419132,Stara Biała,wiejska,mazowieckie,płocki,12236
+1419143,Staroźreby,miejsko-wiejska,mazowieckie,płocki,6560
+1419153,Wyszogród,miejsko-wiejska,mazowieckie,płocki,5056
+1420011,Płońsk,miejska,mazowieckie,płoński,21220
+1420021,Raciąż,miejska,mazowieckie,płoński,3834
+1420032,Baboszewo,wiejska,mazowieckie,płoński,7253
+1420043,Czerwińsk nad Wisłą,miejsko-wiejska,mazowieckie,płoński,6945
+1420052,Dzierzążnia,wiejska,mazowieckie,płoński,3290
+1420062,Joniec,wiejska,mazowieckie,płoński,2799
+1420072,Naruszewo,wiejska,mazowieckie,płoński,5761
+1420083,Nowe Miasto,miejsko-wiejska,mazowieckie,płoński,4540
+1420092,Płońsk,wiejska,mazowieckie,płoński,8453
+1420102,Raciąż,wiejska,mazowieckie,płoński,7571
+1420113,Sochocin,miejsko-wiejska,mazowieckie,płoński,5484
+1420122,Załuski,wiejska,mazowieckie,płoński,5384
+1421011,Piastów,miejska,mazowieckie,pruszkowski,22504
+1421021,Pruszków,miejska,mazowieckie,pruszkowski,65909
+1421033,Brwinów,miejsko-wiejska,mazowieckie,pruszkowski,30458
+1421042,Michałowice,wiejska,mazowieckie,pruszkowski,19627
+1421052,Nadarzyn,wiejska,mazowieckie,pruszkowski,19550
+1421062,Raszyn,wiejska,mazowieckie,pruszkowski,25256
+1422011,Przasnysz,miejska,mazowieckie,przasnyski,15988
+1422023,Chorzele,miejsko-wiejska,mazowieckie,przasnyski,9058
+1422032,Czernice Borowe,wiejska,mazowieckie,przasnyski,3388
+1422042,Jednorożec,wiejska,mazowieckie,przasnyski,6451
+1422052,Krasne,wiejska,mazowieckie,przasnyski,3165
+1422062,Krzynowłoga Mała,wiejska,mazowieckie,przasnyski,3116
+1422072,Przasnysz,wiejska,mazowieckie,przasnyski,6739
+1423012,Borkowice,wiejska,mazowieckie,przysuski,3921
+1423023,Gielniów,miejsko-wiejska,mazowieckie,przysuski,4154
+1423032,Klwów,wiejska,mazowieckie,przysuski,3054
+1423043,Odrzywół,miejsko-wiejska,mazowieckie,przysuski,3288
+1423052,Potworów,wiejska,mazowieckie,przysuski,3936
+1423063,Przysucha,miejsko-wiejska,mazowieckie,przysuski,10422
+1423072,Rusinów,wiejska,mazowieckie,przysuski,3908
+1423082,Wieniawa,wiejska,mazowieckie,przysuski,4952
+1424012,Gzy,wiejska,mazowieckie,pułtuski,3426
+1424022,Obryte,wiejska,mazowieckie,pułtuski,4281
+1424032,Pokrzywnica,wiejska,mazowieckie,pułtuski,5111
+1424043,Pułtusk,miejsko-wiejska,mazowieckie,pułtuski,23943
+1424052,Świercze,wiejska,mazowieckie,pułtuski,4424
+1424062,Winnica,wiejska,mazowieckie,pułtuski,3927
+1424072,Zatory,wiejska,mazowieckie,pułtuski,4660
+1425011,Pionki,miejska,mazowieckie,radomski,15473
+1425022,Gózd,wiejska,mazowieckie,radomski,9792
+1425033,Iłża,miejsko-wiejska,mazowieckie,radomski,13149
+1425042,Jastrzębia,wiejska,mazowieckie,radomski,7166
+1425052,Jedlińsk,wiejska,mazowieckie,radomski,14472
+1425063,Jedlnia-Letnisko,miejsko-wiejska,mazowieckie,radomski,13593
+1425072,Kowala,wiejska,mazowieckie,radomski,12461
+1425082,Pionki,wiejska,mazowieckie,radomski,9596
+1425093,Przytyk,miejsko-wiejska,mazowieckie,radomski,7022
+1425103,Skaryszew,miejsko-wiejska,mazowieckie,radomski,15674
+1425112,Wierzbica,wiejska,mazowieckie,radomski,9027
+1425122,Wolanów,wiejska,mazowieckie,radomski,9068
+1425132,Zakrzew,wiejska,mazowieckie,radomski,14295
+1426012,Domanice,wiejska,mazowieckie,siedlecki,2469
+1426022,Korczew,wiejska,mazowieckie,siedlecki,2275
+1426032,Kotuń,wiejska,mazowieckie,siedlecki,8051
+1426042,Mokobody,wiejska,mazowieckie,siedlecki,4723
+1426053,Mordy,miejsko-wiejska,mazowieckie,siedlecki,5212
+1426062,Paprotnia,wiejska,mazowieckie,siedlecki,2353
+1426072,Przesmyki,wiejska,mazowieckie,siedlecki,2678
+1426082,Siedlce,wiejska,mazowieckie,siedlecki,20132
+1426092,Skórzec,wiejska,mazowieckie,siedlecki,8278
+1426102,Suchożebry,wiejska,mazowieckie,siedlecki,4751
+1426112,Wiśniew,wiejska,mazowieckie,siedlecki,5743
+1426122,Wodynie,wiejska,mazowieckie,siedlecki,3993
+1426132,Zbuczyn,wiejska,mazowieckie,siedlecki,9784
+1427011,Sierpc,miejska,mazowieckie,sierpecki,16435
+1427022,Gozdowo,wiejska,mazowieckie,sierpecki,5586
+1427032,Mochowo,wiejska,mazowieckie,sierpecki,5443
+1427042,Rościszewo,wiejska,mazowieckie,sierpecki,3651
+1427052,Sierpc,wiejska,mazowieckie,sierpecki,6468
+1427062,Szczutowo,wiejska,mazowieckie,sierpecki,3886
+1427072,Zawidz,wiejska,mazowieckie,sierpecki,5614
+1428011,Sochaczew,miejska,mazowieckie,sochaczewski,32593
+1428022,Brochów,wiejska,mazowieckie,sochaczewski,4405
+1428032,Iłów,wiejska,mazowieckie,sochaczewski,5750
+1428042,Młodzieszyn,wiejska,mazowieckie,sochaczewski,5579
+1428052,Nowa Sucha,wiejska,mazowieckie,sochaczewski,6928
+1428062,Rybno,wiejska,mazowieckie,sochaczewski,3413
+1428072,Sochaczew,wiejska,mazowieckie,sochaczewski,12177
+1428082,Teresin,wiejska,mazowieckie,sochaczewski,11468
+1429011,Sokołów Podlaski,miejska,mazowieckie,sokołowski,18032
+1429022,Bielany,wiejska,mazowieckie,sokołowski,3404
+1429032,Ceranów,wiejska,mazowieckie,sokołowski,1741
+1429042,Jabłonna Lacka,wiejska,mazowieckie,sokołowski,3894
+1429053,Kosów Lacki,miejsko-wiejska,mazowieckie,sokołowski,5206
+1429062,Repki,wiejska,mazowieckie,sokołowski,4427
+1429072,Sabnie,wiejska,mazowieckie,sokołowski,3162
+1429082,Sokołów Podlaski,wiejska,mazowieckie,sokołowski,5761
+1429092,Sterdyń,wiejska,mazowieckie,sokołowski,3243
+1430012,Chlewiska,wiejska,mazowieckie,szydłowiecki,5342
+1430023,Jastrząb,miejsko-wiejska,mazowieckie,szydłowiecki,5089
+1430032,Mirów,wiejska,mazowieckie,szydłowiecki,3688
+1430042,Orońsko,wiejska,mazowieckie,szydłowiecki,5867
+1430053,Szydłowiec,miejsko-wiejska,mazowieckie,szydłowiecki,16729
+1432013,Błonie,miejsko-wiejska,mazowieckie,warszawski zachodni,22738
+1432022,Izabelin,wiejska,mazowieckie,warszawski zachodni,10639
+1432032,Kampinos,wiejska,mazowieckie,warszawski zachodni,4511
+1432042,Leszno,wiejska,mazowieckie,warszawski zachodni,11228
+1432053,Łomianki,miejsko-wiejska,mazowieckie,warszawski zachodni,32456
+1432063,Ożarów Mazowiecki,miejsko-wiejska,mazowieckie,warszawski zachodni,32928
+1432072,Stare Babice,wiejska,mazowieckie,warszawski zachodni,23619
+1433011,Węgrów,miejska,mazowieckie,węgrowski,11631
+1433022,Grębków,wiejska,mazowieckie,węgrowski,4207
+1433032,Korytnica,wiejska,mazowieckie,węgrowski,5376
+1433042,Liw,wiejska,mazowieckie,węgrowski,6982
+1433053,Łochów,miejsko-wiejska,mazowieckie,węgrowski,17092
+1433062,Miedzna,wiejska,mazowieckie,węgrowski,3455
+1433072,Sadowne,wiejska,mazowieckie,węgrowski,5323
+1433082,Stoczek,wiejska,mazowieckie,węgrowski,4372
+1433092,Wierzbno,wiejska,mazowieckie,węgrowski,2370
+1434011,Kobyłka,miejska,mazowieckie,wołomiński,28948
+1434021,Marki,miejska,mazowieckie,wołomiński,47267
+1434031,Ząbki,miejska,mazowieckie,wołomiński,45701
+1434041,Zielonka,miejska,mazowieckie,wołomiński,17910
+1434052,Dąbrówka,wiejska,mazowieckie,wołomiński,8757
+1434063,Jadów,miejsko-wiejska,mazowieckie,wołomiński,6865
+1434072,Klembów,wiejska,mazowieckie,wołomiński,12007
+1434082,Poświętne,wiejska,mazowieckie,wołomiński,6598
+1434093,Radzymin,miejsko-wiejska,mazowieckie,wołomiński,33095
+1434102,Strachówka,wiejska,mazowieckie,wołomiński,2541
+1434113,Tłuszcz,miejsko-wiejska,mazowieckie,wołomiński,20216
+1434123,Wołomin,miejsko-wiejska,mazowieckie,wołomiński,50546
+1435012,Brańszczyk,wiejska,mazowieckie,wyszkowski,7918
+1435022,Długosiodło,wiejska,mazowieckie,wyszkowski,7297
+1435032,Rząśnik,wiejska,mazowieckie,wyszkowski,6726
+1435042,Somianka,wiejska,mazowieckie,wyszkowski,5595
+1435053,Wyszków,miejsko-wiejska,mazowieckie,wyszkowski,38995
+1435062,Zabrodzie,wiejska,mazowieckie,wyszkowski,6248
+1436013,Kazanów,miejsko-wiejska,mazowieckie,zwoleński,4173
+1436022,Policzna,wiejska,mazowieckie,zwoleński,5003
+1436032,Przyłęk,wiejska,mazowieckie,zwoleński,5642
+1436042,Tczów,wiejska,mazowieckie,zwoleński,4729
+1436053,Zwoleń,miejsko-wiejska,mazowieckie,zwoleński,14067
+1437013,Bieżuń,miejsko-wiejska,mazowieckie,żuromiński,4374
+1437022,Kuczbork-Osada,wiejska,mazowieckie,żuromiński,4119
+1437033,Lubowidz,miejsko-wiejska,mazowieckie,żuromiński,6097
+1437042,Lutocin,wiejska,mazowieckie,żuromiński,3821
+1437052,Siemiątkowo,wiejska,mazowieckie,żuromiński,3092
+1437063,Żuromin,miejsko-wiejska,mazowieckie,żuromiński,12961
+1438011,Żyrardów,miejska,mazowieckie,żyrardowski,38163
+1438023,Mszczonów,miejsko-wiejska,mazowieckie,żyrardowski,11230
+1438032,Puszcza Mariańska,wiejska,mazowieckie,żyrardowski,8783
+1438042,Radziejowice,wiejska,mazowieckie,żyrardowski,6661
+1438053,Wiskitki,miejsko-wiejska,mazowieckie,żyrardowski,9842
+1461011,Ostrołęka,miejska,mazowieckie,Ostrołęka,47086
+1462011,Płock,miejska,mazowieckie,Płock,108167
+1463011,Radom,miejska,mazowieckie,Radom,190909
+1464011,Siedlce,miejska,mazowieckie,Siedlce,73966
+1465011,Warszawa,miejska,mazowieckie,Warszawa,1866929
+1601011,Brzeg,miejska,opolskie,brzeski,32572
+1601022,Skarbimierz,wiejska,opolskie,brzeski,8856
+1601033,Grodków,miejsko-wiejska,opolskie,brzeski,17416
+1601043,Lewin Brzeski,miejsko-wiejska,opolskie,brzeski,12135
+1601052,Lubsza,wiejska,opolskie,brzeski,9029
+1601062,Olszanka,wiejska,opolskie,brzeski,4665
+1602013,Baborów,miejsko-wiejska,opolskie,głubczycki,5389
+1602023,Branice,miejsko-wiejska,opolskie,głubczycki,6049
+1602033,Głubczyce,miejsko-wiejska,opolskie,głubczycki,20120
+1602043,Kietrz,miejsko-wiejska,opolskie,głubczycki,9615
+1603011,Kędzierzyn-Koźle,miejska,opolskie,kędzierzyńsko-kozielski,52774
+1603022,Bierawa,wiejska,opolskie,kędzierzyńsko-kozielski,7453
+1603032,Cisek,wiejska,opolskie,kędzierzyńsko-kozielski,5202
+1603042,Pawłowiczki,wiejska,opolskie,kędzierzyńsko-kozielski,6859
+1603052,Polska Cerekiew,wiejska,opolskie,kędzierzyńsko-kozielski,3657
+1603062,Reńska Wieś,wiejska,opolskie,kędzierzyńsko-kozielski,8192
+1604013,Byczyna,miejsko-wiejska,opolskie,kluczborski,8312
+1604023,Kluczbork,miejsko-wiejska,opolskie,kluczborski,32991
+1604032,Lasowice Wielkie,wiejska,opolskie,kluczborski,6315
+1604043,Wołczyn,miejsko-wiejska,opolskie,kluczborski,11817
+1605013,Gogolin,miejsko-wiejska,opolskie,krapkowicki,11527
+1605023,Krapkowice,miejsko-wiejska,opolskie,krapkowicki,21163
+1605033,Strzeleczki,miejsko-wiejska,opolskie,krapkowicki,7147
+1605042,Walce,wiejska,opolskie,krapkowicki,5091
+1605053,Zdzieszowice,miejsko-wiejska,opolskie,krapkowicki,13744
+1606012,Domaszowice,wiejska,opolskie,namysłowski,3329
+1606023,Namysłów,miejsko-wiejska,opolskie,namysłowski,26185
+1606032,Pokój,wiejska,opolskie,namysłowski,4846
+1606042,Świerczów,wiejska,opolskie,namysłowski,2980
+1606052,Wilków,wiejska,opolskie,namysłowski,4129
+1607013,Głuchołazy,miejsko-wiejska,opolskie,nyski,21645
+1607022,Kamiennik,wiejska,opolskie,nyski,3043
+1607033,Korfantów,miejsko-wiejska,opolskie,nyski,8195
+1607042,Łambinowice,wiejska,opolskie,nyski,7061
+1607053,Nysa,miejsko-wiejska,opolskie,nyski,52703
+1607063,Otmuchów,miejsko-wiejska,opolskie,nyski,12492
+1607073,Paczków,miejsko-wiejska,opolskie,nyski,11048
+1607082,Pakosławice,wiejska,opolskie,nyski,3235
+1607092,Skoroszyce,wiejska,opolskie,nyski,5722
+1608013,Dobrodzień,miejsko-wiejska,opolskie,oleski,9027
+1608023,Gorzów Śląski,miejsko-wiejska,opolskie,oleski,6793
+1608033,Olesno,miejsko-wiejska,opolskie,oleski,16932
+1608043,Praszka,miejsko-wiejska,opolskie,oleski,12530
+1608052,Radłów,wiejska,opolskie,oleski,3924
+1608062,Rudniki,wiejska,opolskie,oleski,7512
+1608072,Zębowice,wiejska,opolskie,oleski,3373
+1609012,Chrząstowice,wiejska,opolskie,opolski,7250
+1609022,Dąbrowa,wiejska,opolskie,opolski,8308
+1609032,Dobrzeń Wielki,wiejska,opolskie,opolski,9171
+1609042,Komprachcice,wiejska,opolskie,opolski,9369
+1609052,Łubniany,wiejska,opolskie,opolski,10194
+1609062,Murów,wiejska,opolskie,opolski,4991
+1609073,Niemodlin,miejsko-wiejska,opolskie,opolski,12211
+1609083,Ozimek,miejsko-wiejska,opolskie,opolski,18196
+1609092,Popielów,wiejska,opolskie,opolski,7510
+1609103,Prószków,miejsko-wiejska,opolskie,opolski,9083
+1609112,Tarnów Opolski,wiejska,opolskie,opolski,9334
+1609123,Tułowice,miejsko-wiejska,opolskie,opolski,4838
+1609132,Turawa,wiejska,opolskie,opolski,10151
+1610013,Biała,miejsko-wiejska,opolskie,prudnicki,9617
+1610023,Głogówek,miejsko-wiejska,opolskie,prudnicki,12263
+1610032,Lubrza,wiejska,opolskie,prudnicki,4069
+1610043,Prudnik,miejsko-wiejska,opolskie,prudnicki,24148
+1611012,Izbicko,wiejska,opolskie,strzelecki,5306
+1611022,Jemielnica,wiejska,opolskie,strzelecki,7043
+1611033,Kolonowskie,miejsko-wiejska,opolskie,strzelecki,5542
+1611043,Leśnica,miejsko-wiejska,opolskie,strzelecki,7260
+1611053,Strzelce Opolskie,miejsko-wiejska,opolskie,strzelecki,28319
+1611063,Ujazd,miejsko-wiejska,opolskie,strzelecki,6343
+1611073,Zawadzkie,miejsko-wiejska,opolskie,strzelecki,10196
+1661011,Opole,miejska,opolskie,Opole,124260
+1801032,Czarna,wiejska,podkarpackie,bieszczadzki,2324
+1801052,Lutowiska,wiejska,podkarpackie,bieszczadzki,1913
+1801083,Ustrzyki Dolne,miejsko-wiejska,podkarpackie,bieszczadzki,15884
+1802013,Brzozów,miejsko-wiejska,podkarpackie,brzozowski,25558
+1802022,Domaradz,wiejska,podkarpackie,brzozowski,5725
+1802032,Dydnia,wiejska,podkarpackie,brzozowski,7382
+1802042,Haczów,wiejska,podkarpackie,brzozowski,8858
+1802052,Jasienica Rosielna,wiejska,podkarpackie,brzozowski,7383
+1802062,Nozdrzec,wiejska,podkarpackie,brzozowski,7267
+1803011,Dębica,miejska,podkarpackie,dębicki,41985
+1803023,Brzostek,miejsko-wiejska,podkarpackie,dębicki,12508
+1803032,Czarna,wiejska,podkarpackie,dębicki,13353
+1803042,Dębica,wiejska,podkarpackie,dębicki,25529
+1803052,Jodłowa,wiejska,podkarpackie,dębicki,5135
+1803063,Pilzno,miejsko-wiejska,podkarpackie,dębicki,18169
+1803072,Żyraków,wiejska,podkarpackie,dębicki,14528
+1804011,Jarosław,miejska,podkarpackie,jarosławski,34484
+1804021,Radymno,miejska,podkarpackie,jarosławski,4794
+1804032,Chłopice,wiejska,podkarpackie,jarosławski,5165
+1804042,Jarosław,wiejska,podkarpackie,jarosławski,13014
+1804052,Laszki,wiejska,podkarpackie,jarosławski,6381
+1804062,Pawłosiów,wiejska,podkarpackie,jarosławski,8319
+1804073,Pruchnik,miejsko-wiejska,podkarpackie,jarosławski,9164
+1804082,Radymno,wiejska,podkarpackie,jarosławski,10714
+1804092,Rokietnica,wiejska,podkarpackie,jarosławski,4062
+1804102,Roźwienica,wiejska,podkarpackie,jarosławski,6066
+1804112,Wiązownica,wiejska,podkarpackie,jarosławski,11745
+1805011,Jasło,miejska,podkarpackie,jasielski,31797
+1805022,Brzyska,wiejska,podkarpackie,jasielski,6246
+1805032,Dębowiec,wiejska,podkarpackie,jasielski,8670
+1805042,Jasło,wiejska,podkarpackie,jasielski,15764
+1805053,Kołaczyce,miejsko-wiejska,podkarpackie,jasielski,8479
+1805062,Krempna,wiejska,podkarpackie,jasielski,1631
+1805072,Nowy Żmigród,wiejska,podkarpackie,jasielski,8416
+1805082,Osiek Jasielski,wiejska,podkarpackie,jasielski,5110
+1805092,Skołyszyn,wiejska,podkarpackie,jasielski,11759
+1805112,Tarnowiec,wiejska,podkarpackie,jasielski,8858
+1806012,Cmolas,wiejska,podkarpackie,kolbuszowski,7874
+1806023,Kolbuszowa,miejsko-wiejska,podkarpackie,kolbuszowski,23958
+1806032,Majdan Królewski,wiejska,podkarpackie,kolbuszowski,9470
+1806042,Niwiska,wiejska,podkarpackie,kolbuszowski,6210
+1806052,Raniżów,wiejska,podkarpackie,kolbuszowski,6783
+1806062,Dzikowiec,wiejska,podkarpackie,kolbuszowski,6210
+1807012,Chorkówka,wiejska,podkarpackie,krośnieński,13382
+1807023,Dukla,miejsko-wiejska,podkarpackie,krośnieński,13514
+1807033,Iwonicz-Zdrój,miejsko-wiejska,podkarpackie,krośnieński,10008
+1807043,Jedlicze,miejsko-wiejska,podkarpackie,krośnieński,14706
+1807052,Korczyna,wiejska,podkarpackie,krośnieński,10990
+1807062,Krościenko Wyżne,wiejska,podkarpackie,krośnieński,5233
+1807072,Miejsce Piastowe,wiejska,podkarpackie,krośnieński,13123
+1807083,Rymanów,miejsko-wiejska,podkarpackie,krośnieński,14841
+1807092,Wojaszówka,wiejska,podkarpackie,krośnieński,9108
+1807102,Jaśliska,wiejska,podkarpackie,krośnieński,1976
+1808011,Leżajsk,miejska,podkarpackie,leżajski,12348
+1808022,Grodzisko Dolne,wiejska,podkarpackie,leżajski,7630
+1808032,Kuryłówka,wiejska,podkarpackie,leżajski,5376
+1808042,Leżajsk,wiejska,podkarpackie,leżajski,19634
+1808053,Nowa Sarzyna,miejsko-wiejska,podkarpackie,leżajski,20632
+1809011,Lubaczów,miejska,podkarpackie,lubaczowski,11062
+1809023,Cieszanów,miejsko-wiejska,podkarpackie,lubaczowski,6512
+1809032,Horyniec-Zdrój,wiejska,podkarpackie,lubaczowski,4014
+1809042,Lubaczów,wiejska,podkarpackie,lubaczowski,8800
+1809053,Narol,miejsko-wiejska,podkarpackie,lubaczowski,7339
+1809063,Oleszyce,miejsko-wiejska,podkarpackie,lubaczowski,5917
+1809072,Stary Dzików,wiejska,podkarpackie,lubaczowski,3801
+1809082,Wielkie Oczy,wiejska,podkarpackie,lubaczowski,3604
+1810011,Łańcut,miejska,podkarpackie,łańcucki,17832
+1810022,Białobrzegi,wiejska,podkarpackie,łańcucki,8663
+1810032,Czarna,wiejska,podkarpackie,łańcucki,12095
+1810042,Łańcut,wiejska,podkarpackie,łańcucki,21678
+1810052,Markowa,wiejska,podkarpackie,łańcucki,6247
+1810062,Rakszawa,wiejska,podkarpackie,łańcucki,7190
+1810072,Żołynia,wiejska,podkarpackie,łańcucki,6753
+1811011,Mielec,miejska,podkarpackie,mielecki,55847
+1811022,Borowa,wiejska,podkarpackie,mielecki,5143
+1811032,Czermin,wiejska,podkarpackie,mielecki,7040
+1811042,Gawłuszowice,wiejska,podkarpackie,mielecki,2702
+1811052,Mielec,wiejska,podkarpackie,mielecki,13626
+1811062,Padew Narodowa,wiejska,podkarpackie,mielecki,5043
+1811073,Przecław,miejsko-wiejska,podkarpackie,mielecki,12031
+1811083,Radomyśl Wielki,miejsko-wiejska,podkarpackie,mielecki,14228
+1811092,Tuszów Narodowy,wiejska,podkarpackie,mielecki,8261
+1811102,Wadowice Górne,wiejska,podkarpackie,mielecki,7650
+1812012,Harasiuki,wiejska,podkarpackie,niżański,5572
+1812022,Jarocin,wiejska,podkarpackie,niżański,5001
+1812032,Jeżowe,wiejska,podkarpackie,niżański,9764
+1812042,Krzeszów,wiejska,podkarpackie,niżański,4033
+1812053,Nisko,miejsko-wiejska,podkarpackie,niżański,20781
+1812063,Rudnik nad Sanem,miejsko-wiejska,podkarpackie,niżański,9618
+1812073,Ulanów,miejsko-wiejska,podkarpackie,niżański,7657
+1813013,Bircza,miejsko-wiejska,podkarpackie,przemyski,5703
+1813023,Dubiecko,miejsko-wiejska,podkarpackie,przemyski,8455
+1813032,Fredropol,wiejska,podkarpackie,przemyski,5048
+1813042,Krasiczyn,wiejska,podkarpackie,przemyski,5049
+1813052,Krzywcza,wiejska,podkarpackie,przemyski,4392
+1813062,Medyka,wiejska,podkarpackie,przemyski,6209
+1813072,Orły,wiejska,podkarpackie,przemyski,8445
+1813082,Przemyśl,wiejska,podkarpackie,przemyski,10605
+1813092,Stubno,wiejska,podkarpackie,przemyski,3592
+1813102,Żurawica,wiejska,podkarpackie,przemyski,12360
+1814011,Przeworsk,miejska,podkarpackie,przeworski,14319
+1814022,Adamówka,wiejska,podkarpackie,przeworski,3909
+1814032,Gać,wiejska,podkarpackie,przeworski,4464
+1814043,Jawornik Polski,miejsko-wiejska,podkarpackie,przeworski,4118
+1814053,Kańczuga,miejsko-wiejska,podkarpackie,przeworski,11445
+1814062,Przeworsk,wiejska,podkarpackie,przeworski,14378
+1814073,Sieniawa,miejsko-wiejska,podkarpackie,przeworski,6670
+1814082,Tryńcza,wiejska,podkarpackie,przeworski,8504
+1814092,Zarzecze,wiejska,podkarpackie,przeworski,6818
+1815012,Iwierzyce,wiejska,podkarpackie,ropczycko-sędziszowski,7732
+1815022,Ostrów,wiejska,podkarpackie,ropczycko-sędziszowski,7558
+1815033,Ropczyce,miejsko-wiejska,podkarpackie,ropczycko-sędziszowski,27196
+1815043,Sędziszów Małopolski,miejsko-wiejska,podkarpackie,ropczycko-sędziszowski,23827
+1815052,Wielopole Skrzyńskie,wiejska,podkarpackie,ropczycko-sędziszowski,7628
+1816011,Dynów,miejska,podkarpackie,rzeszowski,5896
+1816023,Błażowa,miejsko-wiejska,podkarpackie,rzeszowski,10649
+1816033,Boguchwała,miejsko-wiejska,podkarpackie,rzeszowski,22562
+1816042,Chmielnik,wiejska,podkarpackie,rzeszowski,7383
+1816052,Dynów,wiejska,podkarpackie,rzeszowski,6480
+1816063,Głogów Małopolski,miejsko-wiejska,podkarpackie,rzeszowski,20606
+1816072,Hyżne,wiejska,podkarpackie,rzeszowski,6924
+1816082,Kamień,wiejska,podkarpackie,rzeszowski,6792
+1816092,Krasne,wiejska,podkarpackie,rzeszowski,13516
+1816102,Lubenia,wiejska,podkarpackie,rzeszowski,6496
+1816113,Sokołów Małopolski,miejsko-wiejska,podkarpackie,rzeszowski,17365
+1816122,Świlcza,wiejska,podkarpackie,rzeszowski,16782
+1816132,Trzebownisko,wiejska,podkarpackie,rzeszowski,25008
+1816143,Tyczyn,miejsko-wiejska,podkarpackie,rzeszowski,11761
+1817011,Sanok,miejska,podkarpackie,sanocki,33328
+1817022,Besko,wiejska,podkarpackie,sanocki,4291
+1817032,Bukowsko,wiejska,podkarpackie,sanocki,5227
+1817042,Komańcza,wiejska,podkarpackie,sanocki,3980
+1817052,Sanok,wiejska,podkarpackie,sanocki,17945
+1817062,Tyrawa Wołoska,wiejska,podkarpackie,sanocki,1911
+1817073,Zagórz,miejsko-wiejska,podkarpackie,sanocki,12456
+1817082,Zarszyn,wiejska,podkarpackie,sanocki,8825
+1818011,Stalowa Wola,miejska,podkarpackie,stalowowolski,53213
+1818022,Bojanów,wiejska,podkarpackie,stalowowolski,7623
+1818032,Pysznica,wiejska,podkarpackie,stalowowolski,12139
+1818042,Radomyśl nad Sanem,wiejska,podkarpackie,stalowowolski,7131
+1818053,Zaklików,miejsko-wiejska,podkarpackie,stalowowolski,7863
+1818062,Zaleszany,wiejska,podkarpackie,stalowowolski,10846
+1819012,Czudec,wiejska,podkarpackie,strzyżowski,11422
+1819022,Frysztak,wiejska,podkarpackie,strzyżowski,9871
+1819032,Niebylec,wiejska,podkarpackie,strzyżowski,10149
+1819043,Strzyżów,miejsko-wiejska,podkarpackie,strzyżowski,19332
+1819052,Wiśniowa,wiejska,podkarpackie,strzyżowski,7410
+1820013,Baranów Sandomierski,miejsko-wiejska,podkarpackie,tarnobrzeski,11097
+1820022,Gorzyce,wiejska,podkarpackie,tarnobrzeski,12381
+1820032,Grębów,wiejska,podkarpackie,tarnobrzeski,9887
+1820043,Nowa Dęba,miejsko-wiejska,podkarpackie,tarnobrzeski,16549
+1821012,Baligród,wiejska,podkarpackie,leski,2986
+1821022,Cisna,wiejska,podkarpackie,leski,1675
+1821033,Lesko,miejsko-wiejska,podkarpackie,leski,10551
+1821042,Olszanica,wiejska,podkarpackie,leski,4568
+1821052,Solina,wiejska,podkarpackie,leski,5131
+1861011,Krosno,miejska,podkarpackie,Krosno,43136
+1862011,Przemyśl,miejska,podkarpackie,Przemyśl,53941
+1863011,Rzeszów,miejska,podkarpackie,Rzeszów,199604
+1864011,Tarnobrzeg,miejska,podkarpackie,Tarnobrzeg,42488
+2001011,Augustów,miejska,podlaskie,augustowski,28425
+2001022,Augustów,wiejska,podlaskie,augustowski,6324
+2001032,Bargłów Kościelny,wiejska,podlaskie,augustowski,4868
+2001043,Lipsk,miejsko-wiejska,podlaskie,augustowski,4162
+2001052,Nowinka,wiejska,podlaskie,augustowski,2826
+2001062,Płaska,wiejska,podlaskie,augustowski,2279
+2001072,Sztabin,wiejska,podlaskie,augustowski,4343
+2002013,Choroszcz,miejsko-wiejska,podlaskie,białostocki,19384
+2002023,Czarna Białostocka,miejsko-wiejska,podlaskie,białostocki,10396
+2002032,Dobrzyniewo Duże,wiejska,podlaskie,białostocki,10881
+2002042,Gródek,wiejska,podlaskie,białostocki,4722
+2002052,Juchnowiec Kościelny,wiejska,podlaskie,białostocki,19066
+2002063,Łapy,miejsko-wiejska,podlaskie,białostocki,19707
+2002073,Michałowo,miejsko-wiejska,podlaskie,białostocki,5675
+2002082,Poświętne,wiejska,podlaskie,białostocki,2969
+2002093,Supraśl,miejsko-wiejska,podlaskie,białostocki,8222
+2002103,Suraż,miejsko-wiejska,podlaskie,białostocki,1880
+2002112,Turośń Kościelna,wiejska,podlaskie,białostocki,7301
+2002123,Tykocin,miejsko-wiejska,podlaskie,białostocki,5573
+2002133,Wasilków,miejsko-wiejska,podlaskie,białostocki,21886
+2002143,Zabłudów,miejsko-wiejska,podlaskie,białostocki,10410
+2002152,Zawady,wiejska,podlaskie,białostocki,2392
+2002162,Grabówka,wiejska,podlaskie,białostocki,11065
+2003011,Bielsk Podlaski,miejska,podlaskie,bielski,23096
+2003021,Brańsk,miejska,podlaskie,bielski,3386
+2003032,Bielsk Podlaski,wiejska,podlaskie,bielski,6217
+2003042,Boćki,wiejska,podlaskie,bielski,3653
+2003052,Brańsk,wiejska,podlaskie,bielski,4858
+2003062,Orla,wiejska,podlaskie,bielski,2345
+2003072,Rudka,wiejska,podlaskie,bielski,1606
+2003082,Wyszki,wiejska,podlaskie,bielski,3781
+2004011,Grajewo,miejska,podlaskie,grajewski,20438
+2004022,Grajewo,wiejska,podlaskie,grajewski,5349
+2004032,Radziłów,wiejska,podlaskie,grajewski,4177
+2004043,Rajgród,miejsko-wiejska,podlaskie,grajewski,4445
+2004053,Szczuczyn,miejsko-wiejska,podlaskie,grajewski,5539
+2004062,Wąsosz,wiejska,podlaskie,grajewski,3188
+2005011,Hajnówka,miejska,podlaskie,hajnowski,18294
+2005022,Białowieża,wiejska,podlaskie,hajnowski,1911
+2005032,Czeremcha,wiejska,podlaskie,hajnowski,2542
+2005042,Czyże,wiejska,podlaskie,hajnowski,1687
+2005052,Dubicze Cerkiewne,wiejska,podlaskie,hajnowski,1237
+2005062,Hajnówka,wiejska,podlaskie,hajnowski,3564
+2005073,Kleszczele,miejsko-wiejska,podlaskie,hajnowski,1999
+2005082,Narew,wiejska,podlaskie,hajnowski,3082
+2005092,Narewka,wiejska,podlaskie,hajnowski,2993
+2006011,Kolno,miejska,podlaskie,kolneński,9631
+2006022,Grabowo,wiejska,podlaskie,kolneński,3115
+2006032,Kolno,wiejska,podlaskie,kolneński,7744
+2006042,Mały Płock,wiejska,podlaskie,kolneński,4266
+2006053,Stawiski,miejsko-wiejska,podlaskie,kolneński,5395
+2006062,Turośl,wiejska,podlaskie,kolneński,4714
+2007013,Jedwabne,miejsko-wiejska,podlaskie,łomżyński,4730
+2007022,Łomża,wiejska,podlaskie,łomżyński,12427
+2007032,Miastkowo,wiejska,podlaskie,łomżyński,3932
+2007043,Nowogród,miejsko-wiejska,podlaskie,łomżyński,3841
+2007052,Piątnica,wiejska,podlaskie,łomżyński,10081
+2007062,Przytuły,wiejska,podlaskie,łomżyński,1866
+2007072,Śniadowo,wiejska,podlaskie,łomżyński,4895
+2007082,Wizna,wiejska,podlaskie,łomżyński,3517
+2007092,Zbójna,wiejska,podlaskie,łomżyński,3857
+2008013,Goniądz,miejsko-wiejska,podlaskie,moniecki,4427
+2008022,Jasionówka,wiejska,podlaskie,moniecki,2367
+2008032,Jaświły,wiejska,podlaskie,moniecki,4052
+2008043,Knyszyn,miejsko-wiejska,podlaskie,moniecki,4384
+2008052,Krypno,wiejska,podlaskie,moniecki,3653
+2008063,Mońki,miejsko-wiejska,podlaskie,moniecki,13631
+2008072,Trzcianne,wiejska,podlaskie,moniecki,3813
+2009011,Sejny,miejska,podlaskie,sejneński,4712
+2009022,Giby,wiejska,podlaskie,sejneński,2355
+2009032,Krasnopol,wiejska,podlaskie,sejneński,3449
+2009042,Puńsk,wiejska,podlaskie,sejneński,3857
+2009052,Sejny,wiejska,podlaskie,sejneński,3744
+2010011,Siemiatycze,miejska,podlaskie,siemiatycki,13107
+2010023,Drohiczyn,miejsko-wiejska,podlaskie,siemiatycki,5462
+2010032,Dziadkowice,wiejska,podlaskie,siemiatycki,2427
+2010042,Grodzisk,wiejska,podlaskie,siemiatycki,3618
+2010052,Mielnik,wiejska,podlaskie,siemiatycki,1955
+2010062,Milejczyce,wiejska,podlaskie,siemiatycki,1523
+2010072,Nurzec-Stacja,wiejska,podlaskie,siemiatycki,3300
+2010082,Perlejewo,wiejska,podlaskie,siemiatycki,2422
+2010092,Siemiatycze,wiejska,podlaskie,siemiatycki,5585
+2011013,Dąbrowa Białostocka,miejsko-wiejska,podlaskie,sokólski,9756
+2011022,Janów,wiejska,podlaskie,sokólski,3568
+2011032,Korycin,wiejska,podlaskie,sokólski,3001
+2011043,Krynki,miejsko-wiejska,podlaskie,sokólski,2610
+2011052,Kuźnica,wiejska,podlaskie,sokólski,3497
+2011062,Nowy Dwór,wiejska,podlaskie,sokólski,2071
+2011072,Sidra,wiejska,podlaskie,sokólski,2959
+2011083,Sokółka,miejsko-wiejska,podlaskie,sokólski,23252
+2011093,Suchowola,miejsko-wiejska,podlaskie,sokólski,6065
+2011102,Szudziałowo,wiejska,podlaskie,sokólski,2650
+2012012,Bakałarzewo,wiejska,podlaskie,suwalski,2980
+2012022,Filipów,wiejska,podlaskie,suwalski,3974
+2012032,Jeleniewo,wiejska,podlaskie,suwalski,3114
+2012042,Przerośl,wiejska,podlaskie,suwalski,2645
+2012052,Raczki,wiejska,podlaskie,suwalski,5558
+2012062,Rutka-Tartak,wiejska,podlaskie,suwalski,2121
+2012072,Suwałki,wiejska,podlaskie,suwalski,8217
+2012082,Szypliszki,wiejska,podlaskie,suwalski,3826
+2012092,Wiżajny,wiejska,podlaskie,suwalski,1885
+2013011,Wysokie Mazowieckie,miejska,podlaskie,wysokomazowiecki,8894
+2013023,Ciechanowiec,miejsko-wiejska,podlaskie,wysokomazowiecki,7777
+2013033,Czyżew,miejsko-wiejska,podlaskie,wysokomazowiecki,5844
+2013042,Klukowo,wiejska,podlaskie,wysokomazowiecki,3811
+2013052,Kobylin-Borzymy,wiejska,podlaskie,wysokomazowiecki,2842
+2013062,Kulesze Kościelne,wiejska,podlaskie,wysokomazowiecki,2827
+2013072,Nowe Piekuty,wiejska,podlaskie,wysokomazowiecki,3481
+2013082,Sokoły,wiejska,podlaskie,wysokomazowiecki,5090
+2013093,Szepietowo,miejsko-wiejska,podlaskie,wysokomazowiecki,6216
+2013102,Wysokie Mazowieckie,wiejska,podlaskie,wysokomazowiecki,5459
+2014011,Zambrów,miejska,podlaskie,zambrowski,20402
+2014022,Kołaki Kościelne,wiejska,podlaskie,zambrowski,2133
+2014032,Rutki,wiejska,podlaskie,zambrowski,4922
+2014042,Szumowo,wiejska,podlaskie,zambrowski,4454
+2014052,Zambrów,wiejska,podlaskie,zambrowski,8753
+2061011,Białystok,miejska,podlaskie,Białystok,288476
+2062011,Łomża,miejska,podlaskie,Łomża,58706
+2063011,Suwałki,miejska,podlaskie,Suwałki,67726
+2201012,Borzytuchom,wiejska,pomorskie,bytowski,3690
+2201023,Bytów,miejsko-wiejska,pomorskie,bytowski,24596
+2201032,Czarna Dąbrówka,wiejska,pomorskie,bytowski,5649
+2201042,Kołczygłowy,wiejska,pomorskie,bytowski,4037
+2201052,Lipnica,wiejska,pomorskie,bytowski,5183
+2201063,Miastko,miejsko-wiejska,pomorskie,bytowski,17284
+2201072,Parchowo,wiejska,pomorskie,bytowski,3807
+2201082,Studzienice,wiejska,pomorskie,bytowski,3702
+2201092,Trzebielino,wiejska,pomorskie,bytowski,3455
+2201102,Tuchomie,wiejska,pomorskie,bytowski,4155
+2202011,Chojnice,miejska,pomorskie,chojnicki,37906
+2202023,Brusy,miejsko-wiejska,pomorskie,chojnicki,14100
+2202032,Chojnice,wiejska,pomorskie,chojnicki,19696
+2202043,Czersk,miejsko-wiejska,pomorskie,chojnicki,21051
+2202052,Konarzyny,wiejska,pomorskie,chojnicki,2213
+2203011,Człuchów,miejska,pomorskie,człuchowski,12701
+2203023,Czarne,miejsko-wiejska,pomorskie,człuchowski,8278
+2203032,Człuchów,wiejska,pomorskie,człuchowski,10806
+2203043,Debrzno,miejsko-wiejska,pomorskie,człuchowski,8354
+2203052,Koczała,wiejska,pomorskie,człuchowski,3044
+2203062,Przechlewo,wiejska,pomorskie,człuchowski,5669
+2203072,Rzeczenica,wiejska,pomorskie,człuchowski,3245
+2204011,Pruszcz Gdański,miejska,pomorskie,gdański,32364
+2204022,Cedry Wielkie,wiejska,pomorskie,gdański,6816
+2204032,Kolbudy,wiejska,pomorskie,gdański,22513
+2204042,Pruszcz Gdański,wiejska,pomorskie,gdański,39283
+2204052,Przywidz,wiejska,pomorskie,gdański,6200
+2204062,Pszczółki,wiejska,pomorskie,gdański,11619
+2204072,Suchy Dąb,wiejska,pomorskie,gdański,4282
+2204082,Trąbki Wielkie,wiejska,pomorskie,gdański,12867
+2205012,Chmielno,wiejska,pomorskie,kartuski,7731
+2205023,Kartuzy,miejsko-wiejska,pomorskie,kartuski,34209
+2205032,Przodkowo,wiejska,pomorskie,kartuski,12070
+2205042,Sierakowice,wiejska,pomorskie,kartuski,21271
+2205052,Somonino,wiejska,pomorskie,kartuski,11443
+2205062,Stężyca,wiejska,pomorskie,kartuski,11576
+2205072,Sulęczyno,wiejska,pomorskie,kartuski,5765
+2205083,Żukowo,miejsko-wiejska,pomorskie,kartuski,53430
+2206011,Kościerzyna,miejska,pomorskie,kościerski,23115
+2206022,Dziemiany,wiejska,pomorskie,kościerski,4442
+2206032,Karsin,wiejska,pomorskie,kościerski,6060
+2206042,Kościerzyna,wiejska,pomorskie,kościerski,16041
+2206052,Liniewo,wiejska,pomorskie,kościerski,4445
+2206062,Lipusz,wiejska,pomorskie,kościerski,3729
+2206072,Nowa Karczma,wiejska,pomorskie,kościerski,7423
+2206082,Stara Kiszewa,wiejska,pomorskie,kościerski,6730
+2207011,Kwidzyn,miejska,pomorskie,kwidzyński,36007
+2207022,Gardeja,wiejska,pomorskie,kwidzyński,8019
+2207032,Kwidzyn,wiejska,pomorskie,kwidzyński,11463
+2207043,Prabuty,miejsko-wiejska,pomorskie,kwidzyński,11929
+2207052,Ryjewo,wiejska,pomorskie,kwidzyński,5448
+2207062,Sadlinki,wiejska,pomorskie,kwidzyński,5929
+2208011,Lębork,miejska,pomorskie,lęborski,33538
+2208021,Łeba,miejska,pomorskie,lęborski,2934
+2208032,Cewice,wiejska,pomorskie,lęborski,7435
+2208042,Nowa Wieś Lęborska,wiejska,pomorskie,lęborski,13787
+2208052,Wicko,wiejska,pomorskie,lęborski,5388
+2209011,Malbork,miejska,pomorskie,malborski,35949
+2209032,Lichnowy,wiejska,pomorskie,malborski,4225
+2209042,Malbork,wiejska,pomorskie,malborski,5291
+2209062,Miłoradz,wiejska,pomorskie,malborski,3165
+2209073,Nowy Staw,miejsko-wiejska,pomorskie,malborski,6891
+2209082,Stare Pole,wiejska,pomorskie,malborski,4236
+2210011,Krynica Morska,miejska,pomorskie,nowodworski,1116
+2210023,Nowy Dwór Gdański,miejsko-wiejska,pomorskie,nowodworski,16551
+2210032,Ostaszewo,wiejska,pomorskie,nowodworski,2859
+2210042,Stegna,wiejska,pomorskie,nowodworski,9013
+2210052,Sztutowo,wiejska,pomorskie,nowodworski,3350
+2211011,Hel,miejska,pomorskie,pucki,2664
+2211023,Jastarnia,miejsko-wiejska,pomorskie,pucki,3349
+2211031,Puck,miejska,pomorskie,pucki,10188
+2211043,Władysławowo,miejsko-wiejska,pomorskie,pucki,13762
+2211052,Kosakowo,wiejska,pomorskie,pucki,23255
+2211062,Krokowa,wiejska,pomorskie,pucki,10451
+2211072,Puck,wiejska,pomorskie,pucki,29430
+2212011,Ustka,miejska,pomorskie,słupski,13750
+2212022,Damnica,wiejska,pomorskie,słupski,5452
+2212032,Dębnica Kaszubska,wiejska,pomorskie,słupski,8834
+2212042,Główczyce,wiejska,pomorskie,słupski,8021
+2212053,Kępice,miejsko-wiejska,pomorskie,słupski,7816
+2212063,Kobylnica,miejsko-wiejska,pomorskie,słupski,13050
+2212072,Potęgowo,wiejska,pomorskie,słupski,6324
+2212082,Redzikowo,wiejska,pomorskie,słupski,20041
+2212092,Smołdzino,wiejska,pomorskie,słupski,3028
+2212102,Ustka,wiejska,pomorskie,słupski,7245
+2213013,Czarna Woda,miejsko-wiejska,pomorskie,starogardzki,2968
+2213021,Skórcz,miejska,pomorskie,starogardzki,3381
+2213031,Starogard Gdański,miejska,pomorskie,starogardzki,44493
+2213042,Bobowo,wiejska,pomorskie,starogardzki,3205
+2213052,Kaliska,wiejska,pomorskie,starogardzki,5207
+2213062,Lubichowo,wiejska,pomorskie,starogardzki,6971
+2213072,Osieczna,wiejska,pomorskie,starogardzki,2606
+2213082,Osiek,wiejska,pomorskie,starogardzki,2209
+2213093,Skarszewy,miejsko-wiejska,pomorskie,starogardzki,14442
+2213102,Skórcz,wiejska,pomorskie,starogardzki,4203
+2213112,Smętowo Graniczne,wiejska,pomorskie,starogardzki,4694
+2213122,Starogard Gdański,wiejska,pomorskie,starogardzki,17381
+2213132,Zblewo,wiejska,pomorskie,starogardzki,12318
+2214011,Tczew,miejska,pomorskie,tczewski,55678
+2214023,Gniew,miejsko-wiejska,pomorskie,tczewski,13912
+2214032,Morzeszczyn,wiejska,pomorskie,tczewski,3198
+2214043,Pelplin,miejsko-wiejska,pomorskie,tczewski,14748
+2214052,Subkowy,wiejska,pomorskie,tczewski,5324
+2214062,Tczew,wiejska,pomorskie,tczewski,16725
+2215011,Reda,miejska,pomorskie,wejherowski,29117
+2215021,Rumia,miejska,pomorskie,wejherowski,54286
+2215031,Wejherowo,miejska,pomorskie,wejherowski,44739
+2215042,Choczewo,wiejska,pomorskie,wejherowski,4768
+2215052,Gniewino,wiejska,pomorskie,wejherowski,7390
+2215062,Linia,wiejska,pomorskie,wejherowski,6500
+2215072,Luzino,wiejska,pomorskie,wejherowski,18524
+2215082,Łęczyce,wiejska,pomorskie,wejherowski,11815
+2215092,Szemud,wiejska,pomorskie,wejherowski,23080
+2215102,Wejherowo,wiejska,pomorskie,wejherowski,32627
+2216013,Dzierzgoń,miejsko-wiejska,pomorskie,sztumski,8366
+2216022,Mikołajki Pomorskie,wiejska,pomorskie,sztumski,3269
+2216032,Stary Dzierzgoń,wiejska,pomorskie,sztumski,3331
+2216042,Stary Targ,wiejska,pomorskie,sztumski,5727
+2216053,Sztum,miejsko-wiejska,pomorskie,sztumski,16432
+2261011,Gdańsk,miejska,pomorskie,Gdańsk,489050
+2262011,Gdynia,miejska,pomorskie,Gdynia,238014
+2263011,Słupsk,miejska,pomorskie,Słupsk,85436
+2264011,Sopot,miejska,pomorskie,Sopot,31032
+2401011,Będzin,miejska,śląskie,będziński,52240
+2401021,Czeladź,miejska,śląskie,będziński,29235
+2401031,Wojkowice,miejska,śląskie,będziński,8293
+2401042,Bobrowniki,wiejska,śląskie,będziński,12508
+2401052,Mierzęcice,wiejska,śląskie,będziński,7977
+2401062,Psary,wiejska,śląskie,będziński,12374
+2401073,Siewierz,miejsko-wiejska,śląskie,będziński,12747
+2401081,Sławków,miejska,śląskie,będziński,6757
+2402011,Szczyrk,miejska,śląskie,bielski,5090
+2402022,Bestwina,wiejska,śląskie,bielski,12290
+2402032,Buczkowice,wiejska,śląskie,bielski,11122
+2402043,Czechowice-Dziedzice,miejsko-wiejska,śląskie,bielski,44178
+2402052,Jasienica,wiejska,śląskie,bielski,25319
+2402062,Jaworze,wiejska,śląskie,bielski,7433
+2402072,Kozy,wiejska,śląskie,bielski,13336
+2402082,Porąbka,wiejska,śląskie,bielski,15314
+2402093,Wilamowice,miejsko-wiejska,śląskie,bielski,18350
+2402102,Wilkowice,wiejska,śląskie,bielski,13174
+2403011,Cieszyn,miejska,śląskie,cieszyński,32074
+2403021,Ustroń,miejska,śląskie,cieszyński,15818
+2403031,Wisła,miejska,śląskie,cieszyński,10347
+2403042,Brenna,wiejska,śląskie,cieszyński,11534
+2403052,Chybie,wiejska,śląskie,cieszyński,9571
+2403062,Dębowiec,wiejska,śląskie,cieszyński,5754
+2403072,Goleszów,wiejska,śląskie,cieszyński,13013
+2403082,Hażlach,wiejska,śląskie,cieszyński,10750
+2403092,Istebna,wiejska,śląskie,cieszyński,12161
+2403103,Skoczów,miejsko-wiejska,śląskie,cieszyński,25804
+2403113,Strumień,miejsko-wiejska,śląskie,cieszyński,13081
+2403122,Zebrzydowice,wiejska,śląskie,cieszyński,12425
+2404013,Blachownia,miejsko-wiejska,śląskie,częstochowski,12187
+2404022,Dąbrowa Zielona,wiejska,śląskie,częstochowski,3543
+2404033,Janów,miejsko-wiejska,śląskie,częstochowski,5746
+2404042,Kamienica Polska,wiejska,śląskie,częstochowski,5333
+2404052,Kłomnice,wiejska,śląskie,częstochowski,12555
+2404063,Koniecpol,miejsko-wiejska,śląskie,częstochowski,8317
+2404072,Konopiska,wiejska,śląskie,częstochowski,10861
+2404082,Kruszyna,wiejska,śląskie,częstochowski,4622
+2404092,Lelów,wiejska,śląskie,częstochowski,4346
+2404102,Mstów,wiejska,śląskie,częstochowski,10842
+2404112,Mykanów,wiejska,śląskie,częstochowski,15483
+2404123,Olsztyn,miejsko-wiejska,śląskie,częstochowski,8170
+2404132,Poczesna,wiejska,śląskie,częstochowski,12277
+2404143,Przyrów,miejsko-wiejska,śląskie,częstochowski,3434
+2404152,Rędziny,wiejska,śląskie,częstochowski,9341
+2404162,Starcza,wiejska,śląskie,częstochowski,3017
+2405011,Knurów,miejska,śląskie,gliwicki,34791
+2405021,Pyskowice,miejska,śląskie,gliwicki,17107
+2405032,Gierałtowice,wiejska,śląskie,gliwicki,12870
+2405042,Pilchowice,wiejska,śląskie,gliwicki,12919
+2405052,Rudziniec,wiejska,śląskie,gliwicki,10816
+2405063,Sośnicowice,miejsko-wiejska,śląskie,gliwicki,9185
+2405073,Toszek,miejsko-wiejska,śląskie,gliwicki,9226
+2405082,Wielowieś,wiejska,śląskie,gliwicki,5596
+2406013,Kłobuck,miejsko-wiejska,śląskie,kłobucki,19291
+2406023,Krzepice,miejsko-wiejska,śląskie,kłobucki,8297
+2406032,Lipie,wiejska,śląskie,kłobucki,5823
+2406042,Miedźno,wiejska,śląskie,kłobucki,7350
+2406052,Opatów,wiejska,śląskie,kłobucki,6482
+2406062,Panki,wiejska,śląskie,kłobucki,4742
+2406072,Popów,wiejska,śląskie,kłobucki,5589
+2406082,Przystajń,wiejska,śląskie,kłobucki,5602
+2406092,Wręczyca Wielka,wiejska,śląskie,kłobucki,17425
+2407011,Lubliniec,miejska,śląskie,lubliniecki,22847
+2407022,Boronów,wiejska,śląskie,lubliniecki,3288
+2407032,Ciasna,wiejska,śląskie,lubliniecki,7128
+2407042,Herby,wiejska,śląskie,lubliniecki,6274
+2407052,Kochanowice,wiejska,śląskie,lubliniecki,6937
+2407062,Koszęcin,wiejska,śląskie,lubliniecki,11672
+2407072,Pawonków,wiejska,śląskie,lubliniecki,6417
+2407083,Woźniki,miejsko-wiejska,śląskie,lubliniecki,9194
+2408011,Łaziska Górne,miejska,śląskie,mikołowski,20789
+2408021,Mikołów,miejska,śląskie,mikołowski,41487
+2408031,Orzesze,miejska,śląskie,mikołowski,22305
+2408042,Ornontowice,wiejska,śląskie,mikołowski,6230
+2408052,Wyry,wiejska,śląskie,mikołowski,9270
+2409011,Myszków,miejska,śląskie,myszkowski,28493
+2409023,Koziegłowy,miejsko-wiejska,śląskie,myszkowski,13951
+2409032,Niegowa,wiejska,śląskie,myszkowski,5317
+2409042,Poraj,wiejska,śląskie,myszkowski,10316
+2409053,Żarki,miejsko-wiejska,śląskie,myszkowski,8089
+2410012,Goczałkowice-Zdrój,wiejska,śląskie,pszczyński,6662
+2410022,Kobiór,wiejska,śląskie,pszczyński,5067
+2410032,Miedźna,wiejska,śląskie,pszczyński,15991
+2410042,Pawłowice,wiejska,śląskie,pszczyński,17336
+2410053,Pszczyna,miejsko-wiejska,śląskie,pszczyński,52495
+2410062,Suszec,wiejska,śląskie,pszczyński,12900
+2411011,Racibórz,miejska,śląskie,raciborski,48530
+2411022,Kornowac,wiejska,śląskie,raciborski,5189
+2411033,Krzanowice,miejsko-wiejska,śląskie,raciborski,5154
+2411042,Krzyżanowice,wiejska,śląskie,raciborski,10545
+2411053,Kuźnia Raciborska,miejsko-wiejska,śląskie,raciborski,10351
+2411062,Nędza,wiejska,śląskie,raciborski,6583
+2411072,Pietrowice Wielkie,wiejska,śląskie,raciborski,6483
+2411082,Rudnik,wiejska,śląskie,raciborski,4769
+2412013,Czerwionka-Leszczyny,miejsko-wiejska,śląskie,rybnicki,39418
+2412022,Gaszowice,wiejska,śląskie,rybnicki,9953
+2412032,Jejkowice,wiejska,śląskie,rybnicki,4175
+2412042,Lyski,wiejska,śląskie,rybnicki,9745
+2412052,Świerklany,wiejska,śląskie,rybnicki,12685
+2413011,Kalety,miejska,śląskie,tarnogórski,7985
+2413021,Miasteczko Śląskie,miejska,śląskie,tarnogórski,6802
+2413031,Radzionków,miejska,śląskie,tarnogórski,15874
+2413041,Tarnowskie Góry,miejska,śląskie,tarnogórski,60876
+2413052,Krupski Młyn,wiejska,śląskie,tarnogórski,2896
+2413062,Ożarowice,wiejska,śląskie,tarnogórski,5876
+2413072,Świerklaniec,wiejska,śląskie,tarnogórski,13248
+2413082,Tworóg,wiejska,śląskie,tarnogórski,8109
+2413092,Zbrosławice,wiejska,śląskie,tarnogórski,16428
+2414011,Bieruń,miejska,śląskie,bieruńsko-lędziński,18551
+2414021,Imielin,miejska,śląskie,bieruńsko-lędziński,9503
+2414031,Lędziny,miejska,śląskie,bieruńsko-lędziński,16180
+2414042,Bojszowy,wiejska,śląskie,bieruńsko-lędziński,8744
+2414052,Chełm Śląski,wiejska,śląskie,bieruńsko-lędziński,6309
+2415011,Pszów,miejska,śląskie,wodzisławski,12679
+2415021,Radlin,miejska,śląskie,wodzisławski,16521
+2415031,Rydułtowy,miejska,śląskie,wodzisławski,19649
+2415041,Wodzisław Śląski,miejska,śląskie,wodzisławski,43826
+2415052,Godów,wiejska,śląskie,wodzisławski,13663
+2415062,Gorzyce,wiejska,śląskie,wodzisławski,21138
+2415072,Lubomia,wiejska,śląskie,wodzisławski,7535
+2415082,Marklowice,wiejska,śląskie,wodzisławski,5233
+2415092,Mszana,wiejska,śląskie,wodzisławski,7626
+2416011,Poręba,miejska,śląskie,zawierciański,7918
+2416021,Zawiercie,miejska,śląskie,zawierciański,44546
+2416032,Irządze,wiejska,śląskie,zawierciański,2456
+2416042,Kroczyce,wiejska,śląskie,zawierciański,5959
+2416053,Łazy,miejsko-wiejska,śląskie,zawierciański,15431
+2416063,Ogrodzieniec,miejsko-wiejska,śląskie,zawierciański,8227
+2416073,Pilica,miejsko-wiejska,śląskie,zawierciański,7768
+2416083,Szczekociny,miejsko-wiejska,śląskie,zawierciański,6588
+2416093,Włodowice,miejsko-wiejska,śląskie,zawierciański,5064
+2416102,Żarnowiec,wiejska,śląskie,zawierciański,4341
+2417011,Żywiec,miejska,śląskie,żywiecki,28963
+2417022,Czernichów,wiejska,śląskie,żywiecki,6124
+2417032,Gilowice,wiejska,śląskie,żywiecki,6325
+2417042,Jeleśnia,wiejska,śląskie,żywiecki,12412
+2417052,Koszarawa,wiejska,śląskie,żywiecki,2167
+2417062,Lipowa,wiejska,śląskie,żywiecki,11046
+2417072,Łękawica,wiejska,śląskie,żywiecki,4537
+2417082,Łodygowice,wiejska,śląskie,żywiecki,15466
+2417092,Milówka,wiejska,śląskie,żywiecki,9580
+2417102,Radziechowy-Wieprz,wiejska,śląskie,żywiecki,12850
+2417112,Rajcza,wiejska,śląskie,żywiecki,8110
+2417122,Ślemień,wiejska,śląskie,żywiecki,3467
+2417132,Świnna,wiejska,śląskie,żywiecki,7748
+2417142,Ujsoły,wiejska,śląskie,żywiecki,4076
+2417152,Węgierska Górka,wiejska,śląskie,żywiecki,14083
+2461011,Bielsko-Biała,miejska,śląskie,Bielsko-Biała,162517
+2462011,Bytom,miejska,śląskie,Bytom,143853
+2463011,Chorzów,miejska,śląskie,Chorzów,97859
+2464011,Częstochowa,miejska,śląskie,Częstochowa,200295
+2465011,Dąbrowa Górnicza,miejska,śląskie,Dąbrowa Górnicza,110674
+2466011,Gliwice,miejska,śląskie,Gliwice,166205
+2467011,Jastrzębie-Zdrój,miejska,śląskie,Jastrzębie-Zdrój,80119
+2468011,Jaworzno,miejska,śląskie,Jaworzno,84835
+2469011,Katowice,miejska,śląskie,Katowice,276563
+2470011,Mysłowice,miejska,śląskie,Mysłowice,69864
+2471011,Piekary Śląskie,miejska,śląskie,Piekary Śląskie,50913
+2472011,Ruda Śląska,miejska,śląskie,Ruda Śląska,126922
+2473011,Rybnik,miejska,śląskie,Rybnik,128360
+2474011,Siemianowice Śląskie,miejska,śląskie,Siemianowice Śląskie,62097
+2475011,Sosnowiec,miejska,śląskie,Sosnowiec,181983
+2476011,Świętochłowice,miejska,śląskie,Świętochłowice,44347
+2477011,Tychy,miejska,śląskie,Tychy,119592
+2478011,Zabrze,miejska,śląskie,Zabrze,150108
+2479011,Żory,miejska,śląskie,Żory,61804
+2601013,Busko-Zdrój,miejsko-wiejska,świętokrzyskie,buski,29985
+2601022,Gnojno,wiejska,świętokrzyskie,buski,4144
+2601033,Nowy Korczyn,miejsko-wiejska,świętokrzyskie,buski,5297
+2601043,Pacanów,miejsko-wiejska,świętokrzyskie,buski,6634
+2601052,Solec-Zdrój,wiejska,świętokrzyskie,buski,4767
+2601063,Stopnica,miejsko-wiejska,świętokrzyskie,buski,6892
+2601072,Tuczępy,wiejska,świętokrzyskie,buski,3491
+2601083,Wiślica,miejsko-wiejska,świętokrzyskie,buski,4963
+2602012,Imielno,wiejska,świętokrzyskie,jędrzejowski,4098
+2602023,Jędrzejów,miejsko-wiejska,świętokrzyskie,jędrzejowski,25877
+2602033,Małogoszcz,miejsko-wiejska,świętokrzyskie,jędrzejowski,10850
+2602042,Nagłowice,wiejska,świętokrzyskie,jędrzejowski,4569
+2602052,Oksa,wiejska,świętokrzyskie,jędrzejowski,4295
+2602063,Sędziszów,miejsko-wiejska,świętokrzyskie,jędrzejowski,11434
+2602072,Słupia,wiejska,świętokrzyskie,jędrzejowski,3819
+2602083,Sobków,miejsko-wiejska,świętokrzyskie,jędrzejowski,8232
+2602093,Wodzisław,miejsko-wiejska,świętokrzyskie,jędrzejowski,6167
+2603012,Bejsce,wiejska,świętokrzyskie,kazimierski,3764
+2603022,Czarnocin,wiejska,świętokrzyskie,kazimierski,3493
+2603033,Kazimierza Wielka,miejsko-wiejska,świętokrzyskie,kazimierski,14849
+2603043,Opatowiec,miejsko-wiejska,świętokrzyskie,kazimierski,2867
+2603053,Skalbmierz,miejsko-wiejska,świętokrzyskie,kazimierski,5949
+2604012,Bieliny,wiejska,świętokrzyskie,kielecki,9896
+2604023,Bodzentyn,miejsko-wiejska,świętokrzyskie,kielecki,10675
+2604033,Chęciny,miejsko-wiejska,świętokrzyskie,kielecki,14678
+2604043,Chmielnik,miejsko-wiejska,świętokrzyskie,kielecki,10488
+2604053,Daleszyce,miejsko-wiejska,świętokrzyskie,kielecki,16342
+2604062,Górno,wiejska,świętokrzyskie,kielecki,15280
+2604073,Łagów,miejsko-wiejska,świętokrzyskie,kielecki,6429
+2604083,Łopuszno,miejsko-wiejska,świętokrzyskie,kielecki,8694
+2604092,Masłów,wiejska,świętokrzyskie,kielecki,12105
+2604102,Miedziana Góra,wiejska,świętokrzyskie,kielecki,12669
+2604112,Mniów,wiejska,świętokrzyskie,kielecki,8941
+2604123,Morawica,miejsko-wiejska,świętokrzyskie,kielecki,18241
+2604133,Nowa Słupia,miejsko-wiejska,świętokrzyskie,kielecki,8574
+2604143,Piekoszów,miejsko-wiejska,świętokrzyskie,kielecki,16902
+2604153,Pierzchnica,miejsko-wiejska,świętokrzyskie,kielecki,4489
+2604162,Raków,wiejska,świętokrzyskie,kielecki,5148
+2604172,Nowiny,wiejska,świętokrzyskie,kielecki,8233
+2604182,Strawczyn,wiejska,świętokrzyskie,kielecki,11326
+2604192,Zagnańsk,wiejska,świętokrzyskie,kielecki,11927
+2605012,Fałków,wiejska,świętokrzyskie,konecki,3814
+2605023,Gowarczów,miejsko-wiejska,świętokrzyskie,konecki,4272
+2605033,Końskie,miejsko-wiejska,świętokrzyskie,konecki,31532
+2605043,Radoszyce,miejsko-wiejska,świętokrzyskie,konecki,7877
+2605052,Ruda Maleniecka,wiejska,świętokrzyskie,konecki,2765
+2605062,Słupia Konecka,wiejska,świętokrzyskie,konecki,2875
+2605072,Smyków,wiejska,świętokrzyskie,konecki,3606
+2605083,Stąporków,miejsko-wiejska,świętokrzyskie,konecki,14616
+2606012,Baćkowice,wiejska,świętokrzyskie,opatowski,4410
+2606023,Iwaniska,miejsko-wiejska,świętokrzyskie,opatowski,5906
+2606032,Lipnik,wiejska,świętokrzyskie,opatowski,4653
+2606043,Opatów,miejsko-wiejska,świętokrzyskie,opatowski,10363
+2606053,Ożarów,miejsko-wiejska,świętokrzyskie,opatowski,9710
+2606062,Sadowie,wiejska,świętokrzyskie,opatowski,3683
+2606072,Tarłów,wiejska,świętokrzyskie,opatowski,4466
+2606082,Wojciechowice,wiejska,świętokrzyskie,opatowski,3650
+2607011,Ostrowiec Świętokrzyski,miejska,świętokrzyskie,ostrowiecki,59825
+2607022,Bałtów,wiejska,świętokrzyskie,ostrowiecki,3021
+2607032,Bodzechów,wiejska,świętokrzyskie,ostrowiecki,12403
+2607043,Ćmielów,miejsko-wiejska,świętokrzyskie,ostrowiecki,6451
+2607053,Kunów,miejsko-wiejska,świętokrzyskie,ostrowiecki,8921
+2607062,Waśniów,wiejska,świętokrzyskie,ostrowiecki,6158
+2608013,Działoszyce,miejsko-wiejska,świętokrzyskie,pińczowski,4368
+2608022,Kije,wiejska,świętokrzyskie,pińczowski,4247
+2608032,Michałów,wiejska,świętokrzyskie,pińczowski,4264
+2608043,Pińczów,miejsko-wiejska,świętokrzyskie,pińczowski,18664
+2608052,Złota,wiejska,świętokrzyskie,pińczowski,4083
+2609011,Sandomierz,miejska,świętokrzyskie,sandomierski,20589
+2609022,Dwikozy,wiejska,świętokrzyskie,sandomierski,7925
+2609033,Klimontów,miejsko-wiejska,świętokrzyskie,sandomierski,7201
+2609043,Koprzywnica,miejsko-wiejska,świętokrzyskie,sandomierski,6056
+2609052,Łoniów,wiejska,świętokrzyskie,sandomierski,6951
+2609062,Obrazów,wiejska,świętokrzyskie,sandomierski,5968
+2609072,Samborzec,wiejska,świętokrzyskie,sandomierski,7840
+2609082,Wilczyce,wiejska,świętokrzyskie,sandomierski,3333
+2609093,Zawichost,miejsko-wiejska,świętokrzyskie,sandomierski,3876
+2610011,Skarżysko-Kamienna,miejska,świętokrzyskie,skarżyski,39772
+2610022,Bliżyn,wiejska,świętokrzyskie,skarżyski,7238
+2610032,Łączna,wiejska,świętokrzyskie,skarżyski,4601
+2610042,Skarżysko Kościelne,wiejska,świętokrzyskie,skarżyski,5332
+2610053,Suchedniów,miejsko-wiejska,świętokrzyskie,skarżyski,8810
+2611011,Starachowice,miejska,świętokrzyskie,starachowicki,43006
+2611022,Brody,wiejska,świętokrzyskie,starachowicki,9855
+2611032,Mirzec,wiejska,świętokrzyskie,starachowicki,7785
+2611042,Pawłów,wiejska,świętokrzyskie,starachowicki,14657
+2611053,Wąchock,miejsko-wiejska,świętokrzyskie,starachowicki,6077
+2612013,Bogoria,miejsko-wiejska,świętokrzyskie,staszowski,7256
+2612022,Łubnice,wiejska,świętokrzyskie,staszowski,3821
+2612033,Oleśnica,miejsko-wiejska,świętokrzyskie,staszowski,3699
+2612043,Osiek,miejsko-wiejska,świętokrzyskie,staszowski,7256
+2612053,Połaniec,miejsko-wiejska,świętokrzyskie,staszowski,10691
+2612062,Rytwiany,wiejska,świętokrzyskie,staszowski,6160
+2612073,Staszów,miejsko-wiejska,świętokrzyskie,staszowski,23639
+2612083,Szydłów,miejsko-wiejska,świętokrzyskie,staszowski,4272
+2613012,Kluczewsko,wiejska,świętokrzyskie,włoszczowski,4820
+2613022,Krasocin,wiejska,świętokrzyskie,włoszczowski,9873
+2613032,Moskorzew,wiejska,świętokrzyskie,włoszczowski,2460
+2613042,Radków,wiejska,świętokrzyskie,włoszczowski,2231
+2613052,Secemin,wiejska,świętokrzyskie,włoszczowski,4376
+2613063,Włoszczowa,miejsko-wiejska,świętokrzyskie,włoszczowski,18139
+2661011,Kielce,miejska,świętokrzyskie,Kielce,177980
+2801011,Bartoszyce,miejska,warmińsko-mazurskie,bartoszycki,20599
+2801021,Górowo Iławeckie,miejska,warmińsko-mazurskie,bartoszycki,3493
+2801032,Bartoszyce,wiejska,warmińsko-mazurskie,bartoszycki,10068
+2801043,Bisztynek,miejsko-wiejska,warmińsko-mazurskie,bartoszycki,5426
+2801052,Górowo Iławeckie,wiejska,warmińsko-mazurskie,bartoszycki,5923
+2801063,Sępopol,miejsko-wiejska,warmińsko-mazurskie,bartoszycki,5469
+2802011,Braniewo,miejska,warmińsko-mazurskie,braniewski,15601
+2802022,Braniewo,wiejska,warmińsko-mazurskie,braniewski,5255
+2802033,Frombork,miejsko-wiejska,warmińsko-mazurskie,braniewski,2940
+2802042,Lelkowo,wiejska,warmińsko-mazurskie,braniewski,2272
+2802053,Pieniężno,miejsko-wiejska,warmińsko-mazurskie,braniewski,5323
+2802062,Płoskinia,wiejska,warmińsko-mazurskie,braniewski,2271
+2802072,Wilczęta,wiejska,warmińsko-mazurskie,braniewski,2461
+2803011,Działdowo,miejska,warmińsko-mazurskie,działdowski,19666
+2803022,Działdowo,wiejska,warmińsko-mazurskie,działdowski,9546
+2803032,Iłowo-Osada,wiejska,warmińsko-mazurskie,działdowski,6541
+2803043,Lidzbark,miejsko-wiejska,warmińsko-mazurskie,działdowski,12830
+2803052,Płośnica,wiejska,warmińsko-mazurskie,działdowski,4953
+2803062,Rybno,wiejska,warmińsko-mazurskie,działdowski,6651
+2804012,Elbląg,wiejska,warmińsko-mazurskie,elbląski,7636
+2804022,Godkowo,wiejska,warmińsko-mazurskie,elbląski,2613
+2804032,Gronowo Elbląskie,wiejska,warmińsko-mazurskie,elbląski,4672
+2804042,Markusy,wiejska,warmińsko-mazurskie,elbląski,3812
+2804052,Milejewo,wiejska,warmińsko-mazurskie,elbląski,3240
+2804063,Młynary,miejsko-wiejska,warmińsko-mazurskie,elbląski,4036
+2804073,Pasłęk,miejsko-wiejska,warmińsko-mazurskie,elbląski,17823
+2804082,Rychliki,wiejska,warmińsko-mazurskie,elbląski,3368
+2804093,Tolkmicko,miejsko-wiejska,warmińsko-mazurskie,elbląski,5818
+2805011,Ełk,miejska,warmińsko-mazurskie,ełcki,58732
+2805022,Ełk,wiejska,warmińsko-mazurskie,ełcki,12904
+2805032,Kalinowo,wiejska,warmińsko-mazurskie,ełcki,5985
+2805042,Prostki,wiejska,warmińsko-mazurskie,ełcki,6559
+2805052,Stare Juchy,wiejska,warmińsko-mazurskie,ełcki,3267
+2806011,Giżycko,miejska,warmińsko-mazurskie,giżycki,26295
+2806042,Giżycko,wiejska,warmińsko-mazurskie,giżycki,9191
+2806052,Kruklanki,wiejska,warmińsko-mazurskie,giżycki,2854
+2806062,Miłki,wiejska,warmińsko-mazurskie,giżycki,3352
+2806083,Ryn,miejsko-wiejska,warmińsko-mazurskie,giżycki,5209
+2806102,Wydminy,wiejska,warmińsko-mazurskie,giżycki,5648
+2807011,Iława,miejska,warmińsko-mazurskie,iławski,31703
+2807021,Lubawa,miejska,warmińsko-mazurskie,iławski,10657
+2807032,Iława,wiejska,warmińsko-mazurskie,iławski,13328
+2807043,Kisielice,miejsko-wiejska,warmińsko-mazurskie,iławski,5333
+2807052,Lubawa,wiejska,warmińsko-mazurskie,iławski,10283
+2807063,Susz,miejsko-wiejska,warmińsko-mazurskie,iławski,11490
+2807073,Zalewo,miejsko-wiejska,warmińsko-mazurskie,iławski,5932
+2808011,Kętrzyn,miejska,warmińsko-mazurskie,kętrzyński,24263
+2808022,Barciany,wiejska,warmińsko-mazurskie,kętrzyński,5394
+2808032,Kętrzyn,wiejska,warmińsko-mazurskie,kętrzyński,7490
+2808043,Korsze,miejsko-wiejska,warmińsko-mazurskie,kętrzyński,8371
+2808053,Reszel,miejsko-wiejska,warmińsko-mazurskie,kętrzyński,6329
+2808062,Srokowo,wiejska,warmińsko-mazurskie,kętrzyński,3262
+2809011,Lidzbark Warmiński,miejska,warmińsko-mazurskie,lidzbarski,13969
+2809022,Kiwity,wiejska,warmińsko-mazurskie,lidzbarski,2932
+2809032,Lidzbark Warmiński,wiejska,warmińsko-mazurskie,lidzbarski,6328
+2809042,Lubomino,wiejska,warmińsko-mazurskie,lidzbarski,3188
+2809053,Orneta,miejsko-wiejska,warmińsko-mazurskie,lidzbarski,10623
+2810011,Mrągowo,miejska,warmińsko-mazurskie,mrągowski,19921
+2810023,Mikołajki,miejsko-wiejska,warmińsko-mazurskie,mrągowski,7139
+2810032,Mrągowo,wiejska,warmińsko-mazurskie,mrągowski,8122
+2810042,Piecki,wiejska,warmińsko-mazurskie,mrągowski,7019
+2810052,Sorkwity,wiejska,warmińsko-mazurskie,mrągowski,4275
+2811012,Janowiec Kościelny,wiejska,warmińsko-mazurskie,nidzicki,2850
+2811022,Janowo,wiejska,warmińsko-mazurskie,nidzicki,2450
+2811032,Kozłowo,wiejska,warmińsko-mazurskie,nidzicki,5131
+2811043,Nidzica,miejsko-wiejska,warmińsko-mazurskie,nidzicki,19313
+2812011,Nowe Miasto Lubawskie,miejska,warmińsko-mazurskie,nowomiejski,9820
+2812022,Biskupiec,wiejska,warmińsko-mazurskie,nowomiejski,8444
+2812032,Grodziczno,wiejska,warmińsko-mazurskie,nowomiejski,5701
+2812042,Kurzętnik,wiejska,warmińsko-mazurskie,nowomiejski,8884
+2812052,Bratian,wiejska,warmińsko-mazurskie,nowomiejski,8389
+2813032,Kowale Oleckie,wiejska,warmińsko-mazurskie,olecki,4379
+2813043,Olecko,miejsko-wiejska,warmińsko-mazurskie,olecki,20695
+2813052,Świętajno,wiejska,warmińsko-mazurskie,olecki,3209
+2813062,Wieliczki,wiejska,warmińsko-mazurskie,olecki,3058
+2814013,Barczewo,miejsko-wiejska,warmińsko-mazurskie,olsztyński,18454
+2814023,Biskupiec,miejsko-wiejska,warmińsko-mazurskie,olsztyński,17371
+2814033,Dobre Miasto,miejsko-wiejska,warmińsko-mazurskie,olsztyński,14811
+2814042,Dywity,wiejska,warmińsko-mazurskie,olsztyński,14242
+2814052,Gietrzwałd,wiejska,warmińsko-mazurskie,olsztyński,7046
+2814063,Jeziorany,miejsko-wiejska,warmińsko-mazurskie,olsztyński,6746
+2814072,Jonkowo,wiejska,warmińsko-mazurskie,olsztyński,8064
+2814082,Kolno,wiejska,warmińsko-mazurskie,olsztyński,2676
+2814093,Olsztynek,miejsko-wiejska,warmińsko-mazurskie,olsztyński,13037
+2814102,Purda,wiejska,warmińsko-mazurskie,olsztyński,9116
+2814112,Stawiguda,wiejska,warmińsko-mazurskie,olsztyński,15854
+2814122,Świątki,wiejska,warmińsko-mazurskie,olsztyński,3613
+2815011,Ostróda,miejska,warmińsko-mazurskie,ostródzki,30612
+2815022,Dąbrówno,wiejska,warmińsko-mazurskie,ostródzki,3672
+2815032,Grunwald,wiejska,warmińsko-mazurskie,ostródzki,4914
+2815042,Łukta,wiejska,warmińsko-mazurskie,ostródzki,4250
+2815052,Małdyty,wiejska,warmińsko-mazurskie,ostródzki,5627
+2815063,Miłakowo,miejsko-wiejska,warmińsko-mazurskie,ostródzki,4780
+2815073,Miłomłyn,miejsko-wiejska,warmińsko-mazurskie,ostródzki,4682
+2815083,Morąg,miejsko-wiejska,warmińsko-mazurskie,ostródzki,22467
+2815092,Ostróda,wiejska,warmińsko-mazurskie,ostródzki,15949
+2816013,Biała Piska,miejsko-wiejska,warmińsko-mazurskie,piski,10157
+2816023,Orzysz,miejsko-wiejska,warmińsko-mazurskie,piski,8205
+2816033,Pisz,miejsko-wiejska,warmińsko-mazurskie,piski,25439
+2816043,Ruciane-Nida,miejsko-wiejska,warmińsko-mazurskie,piski,7067
+2817011,Szczytno,miejska,warmińsko-mazurskie,szczycieński,21146
+2817022,Dźwierzuty,wiejska,warmińsko-mazurskie,szczycieński,5671
+2817032,Jedwabno,wiejska,warmińsko-mazurskie,szczycieński,3372
+2817043,Pasym,miejsko-wiejska,warmińsko-mazurskie,szczycieński,4994
+2817052,Rozogi,wiejska,warmińsko-mazurskie,szczycieński,5138
+2817062,Szczytno,wiejska,warmińsko-mazurskie,szczycieński,13808
+2817072,Świętajno,wiejska,warmińsko-mazurskie,szczycieński,5219
+2817083,Wielbark,miejsko-wiejska,warmińsko-mazurskie,szczycieński,6105
+2818012,Banie Mazurskie,wiejska,warmińsko-mazurskie,gołdapski,3101
+2818022,Dubeninki,wiejska,warmińsko-mazurskie,gołdapski,2481
+2818033,Gołdap,miejsko-wiejska,warmińsko-mazurskie,gołdapski,18703
+2819012,Budry,wiejska,warmińsko-mazurskie,węgorzewski,2437
+2819022,Pozezdrze,wiejska,warmińsko-mazurskie,węgorzewski,2899
+2819033,Węgorzewo,miejsko-wiejska,warmińsko-mazurskie,węgorzewski,14798
+2861011,Elbląg,miejska,warmińsko-mazurskie,Elbląg,110647
+2862011,Olsztyn,miejska,warmińsko-mazurskie,Olsztyn,164999
+3001011,Chodzież,miejska,wielkopolskie,chodzieski,16716
+3001023,Budzyń,miejsko-wiejska,wielkopolskie,chodzieski,8211
+3001032,Chodzież,wiejska,wielkopolskie,chodzieski,6192
+3001043,Margonin,miejsko-wiejska,wielkopolskie,chodzieski,6208
+3001053,Szamocin,miejsko-wiejska,wielkopolskie,chodzieski,7064
+3002011,Czarnków,miejska,wielkopolskie,czarnkowsko-trzcianecki,9572
+3002022,Czarnków,wiejska,wielkopolskie,czarnkowsko-trzcianecki,11066
+3002032,Drawsko,wiejska,wielkopolskie,czarnkowsko-trzcianecki,5460
+3002043,Krzyż Wielkopolski,miejsko-wiejska,wielkopolskie,czarnkowsko-trzcianecki,8073
+3002052,Lubasz,wiejska,wielkopolskie,czarnkowsko-trzcianecki,7421
+3002062,Połajewo,wiejska,wielkopolskie,czarnkowsko-trzcianecki,5885
+3002073,Trzcianka,miejsko-wiejska,wielkopolskie,czarnkowsko-trzcianecki,23078
+3002083,Wieleń,miejsko-wiejska,wielkopolskie,czarnkowsko-trzcianecki,11288
+3003011,Gniezno,miejska,wielkopolskie,gnieźnieński,61664
+3003023,Czerniejewo,miejsko-wiejska,wielkopolskie,gnieźnieński,7237
+3003032,Gniezno,wiejska,wielkopolskie,gnieźnieński,15360
+3003042,Kiszkowo,wiejska,wielkopolskie,gnieźnieński,5061
+3003053,Kłecko,miejsko-wiejska,wielkopolskie,gnieźnieński,6940
+3003062,Łubowo,wiejska,wielkopolskie,gnieźnieński,7586
+3003072,Mieleszyn,wiejska,wielkopolskie,gnieźnieński,3583
+3003082,Niechanowo,wiejska,wielkopolskie,gnieźnieński,5820
+3003093,Trzemeszno,miejsko-wiejska,wielkopolskie,gnieźnieński,13483
+3003103,Witkowo,miejsko-wiejska,wielkopolskie,gnieźnieński,12824
+3004013,Borek Wielkopolski,miejsko-wiejska,wielkopolskie,gostyński,6881
+3004023,Gostyń,miejsko-wiejska,wielkopolskie,gostyński,27413
+3004033,Krobia,miejsko-wiejska,wielkopolskie,gostyński,12412
+3004042,Pępowo,wiejska,wielkopolskie,gostyński,5620
+3004052,Piaski,wiejska,wielkopolskie,gostyński,8017
+3004063,Pogorzela,miejsko-wiejska,wielkopolskie,gostyński,4588
+3004073,Poniec,miejsko-wiejska,wielkopolskie,gostyński,7321
+3005012,Granowo,wiejska,wielkopolskie,grodziski,5011
+3005023,Grodzisk Wielkopolski,miejsko-wiejska,wielkopolskie,grodziski,20316
+3005032,Kamieniec,wiejska,wielkopolskie,grodziski,6136
+3005043,Rakoniewice,miejsko-wiejska,wielkopolskie,grodziski,13238
+3005053,Wielichowo,miejsko-wiejska,wielkopolskie,grodziski,6593
+3006013,Jaraczewo,miejsko-wiejska,wielkopolskie,jarociński,7466
+3006023,Jarocin,miejsko-wiejska,wielkopolskie,jarociński,45331
+3006032,Kotlin,wiejska,wielkopolskie,jarociński,6839
+3006043,Żerków,miejsko-wiejska,wielkopolskie,jarociński,9588
+3007012,Blizanów,wiejska,wielkopolskie,kaliski,10038
+3007022,Brzeziny,wiejska,wielkopolskie,kaliski,5723
+3007032,Ceków-Kolonia,wiejska,wielkopolskie,kaliski,4706
+3007042,Godziesze Wielkie,wiejska,wielkopolskie,kaliski,10240
+3007053,Koźminek,miejsko-wiejska,wielkopolskie,kaliski,7259
+3007062,Lisków,wiejska,wielkopolskie,kaliski,4947
+3007072,Mycielin,wiejska,wielkopolskie,kaliski,4580
+3007083,Opatówek,miejsko-wiejska,wielkopolskie,kaliski,10535
+3007093,Stawiszyn,miejsko-wiejska,wielkopolskie,kaliski,6426
+3007102,Szczytniki,wiejska,wielkopolskie,kaliski,7471
+3007112,Żelazków,wiejska,wielkopolskie,kaliski,9533
+3008012,Baranów,wiejska,wielkopolskie,kępiński,8343
+3008022,Bralin,wiejska,wielkopolskie,kępiński,6150
+3008033,Kępno,miejsko-wiejska,wielkopolskie,kępiński,23910
+3008042,Łęka Opatowska,wiejska,wielkopolskie,kępiński,5065
+3008052,Perzów,wiejska,wielkopolskie,kępiński,3727
+3008063,Rychtal,miejsko-wiejska,wielkopolskie,kępiński,3510
+3008072,Trzcinica,wiejska,wielkopolskie,kępiński,4834
+3009011,Koło,miejska,wielkopolskie,kolski,18662
+3009022,Babiak,wiejska,wielkopolskie,kolski,7174
+3009032,Chodów,wiejska,wielkopolskie,kolski,2705
+3009043,Dąbie,miejsko-wiejska,wielkopolskie,kolski,5573
+3009052,Grzegorzew,wiejska,wielkopolskie,kolski,5243
+3009063,Kłodawa,miejsko-wiejska,wielkopolskie,kolski,11503
+3009072,Koło,wiejska,wielkopolskie,kolski,7951
+3009082,Kościelec,wiejska,wielkopolskie,kolski,6724
+3009092,Olszówka,wiejska,wielkopolskie,kolski,3997
+3009102,Osiek Mały,wiejska,wielkopolskie,kolski,6286
+3009113,Przedecz,miejsko-wiejska,wielkopolskie,kolski,3779
+3010013,Golina,miejsko-wiejska,wielkopolskie,koniński,12480
+3010022,Grodziec,wiejska,wielkopolskie,koniński,4875
+3010032,Kazimierz Biskupi,wiejska,wielkopolskie,koniński,11494
+3010043,Kleczew,miejsko-wiejska,wielkopolskie,koniński,9484
+3010052,Kramsk,wiejska,wielkopolskie,koniński,11633
+3010062,Krzymów,wiejska,wielkopolskie,koniński,8325
+3010073,Rychwał,miejsko-wiejska,wielkopolskie,koniński,7890
+3010082,Rzgów,wiejska,wielkopolskie,koniński,7058
+3010092,Skulsk,wiejska,wielkopolskie,koniński,5605
+3010103,Sompolno,miejsko-wiejska,wielkopolskie,koniński,9925
+3010112,Stare Miasto,wiejska,wielkopolskie,koniński,13106
+3010123,Ślesin,miejsko-wiejska,wielkopolskie,koniński,13683
+3010132,Wierzbinek,wiejska,wielkopolskie,koniński,6784
+3010142,Wilczyn,wiejska,wielkopolskie,koniński,5666
+3011011,Kościan,miejska,wielkopolskie,kościański,22888
+3011023,Czempiń,miejsko-wiejska,wielkopolskie,kościański,11312
+3011032,Kościan,wiejska,wielkopolskie,kościański,15839
+3011043,Krzywiń,miejsko-wiejska,wielkopolskie,kościański,9342
+3011053,Śmigiel,miejsko-wiejska,wielkopolskie,kościański,16846
+3012011,Sulmierzyce,miejska,wielkopolskie,krotoszyński,2675
+3012023,Kobylin,miejsko-wiejska,wielkopolskie,krotoszyński,7589
+3012033,Koźmin Wielkopolski,miejsko-wiejska,wielkopolskie,krotoszyński,12274
+3012043,Krotoszyn,miejsko-wiejska,wielkopolskie,krotoszyński,38868
+3012052,Rozdrażew,wiejska,wielkopolskie,krotoszyński,4845
+3012063,Zduny,miejsko-wiejska,wielkopolskie,krotoszyński,7490
+3013012,Krzemieniewo,wiejska,wielkopolskie,leszczyński,7657
+3013022,Lipno,wiejska,wielkopolskie,leszczyński,10672
+3013033,Osieczna,miejsko-wiejska,wielkopolskie,leszczyński,9352
+3013043,Rydzyna,miejsko-wiejska,wielkopolskie,leszczyński,10795
+3013052,Święciechowa,wiejska,wielkopolskie,leszczyński,8971
+3013062,Wijewo,wiejska,wielkopolskie,leszczyński,3751
+3013072,Włoszakowice,wiejska,wielkopolskie,leszczyński,10106
+3014012,Chrzypsko Wielkie,wiejska,wielkopolskie,międzychodzki,3123
+3014022,Kwilcz,wiejska,wielkopolskie,międzychodzki,6066
+3014033,Międzychód,miejsko-wiejska,wielkopolskie,międzychodzki,17677
+3014043,Sieraków,miejsko-wiejska,wielkopolskie,międzychodzki,8326
+3015012,Kuślin,wiejska,wielkopolskie,nowotomyski,5002
+3015023,Lwówek,miejsko-wiejska,wielkopolskie,nowotomyski,8522
+3015032,Miedzichowo,wiejska,wielkopolskie,nowotomyski,3910
+3015043,Nowy Tomyśl,miejsko-wiejska,wielkopolskie,nowotomyski,27987
+3015053,Opalenica,miejsko-wiejska,wielkopolskie,nowotomyski,15770
+3015063,Zbąszyń,miejsko-wiejska,wielkopolskie,nowotomyski,13671
+3016013,Oborniki,miejsko-wiejska,wielkopolskie,obornicki,33745
+3016023,Rogoźno,miejsko-wiejska,wielkopolskie,obornicki,17936
+3016032,Ryczywół,wiejska,wielkopolskie,obornicki,6667
+3017011,Ostrów Wielkopolski,miejska,wielkopolskie,ostrowski,67850
+3017023,Nowe Skalmierzyce,miejsko-wiejska,wielkopolskie,ostrowski,15915
+3017033,Odolanów,miejsko-wiejska,wielkopolskie,ostrowski,14379
+3017042,Ostrów Wielkopolski,wiejska,wielkopolskie,ostrowski,19637
+3017052,Przygodzice,wiejska,wielkopolskie,ostrowski,12439
+3017063,Raszków,miejsko-wiejska,wielkopolskie,ostrowski,11237
+3017072,Sieroszewice,wiejska,wielkopolskie,ostrowski,9205
+3017082,Sośnie,wiejska,wielkopolskie,ostrowski,6129
+3018012,Czajków,wiejska,wielkopolskie,ostrzeszowski,2425
+3018022,Doruchów,wiejska,wielkopolskie,ostrzeszowski,4956
+3018033,Grabów nad Prosną,miejsko-wiejska,wielkopolskie,ostrzeszowski,7644
+3018042,Kobyla Góra,wiejska,wielkopolskie,ostrzeszowski,6294
+3018052,Kraszewice,wiejska,wielkopolskie,ostrzeszowski,3468
+3018063,Mikstat,miejsko-wiejska,wielkopolskie,ostrzeszowski,5679
+3018073,Ostrzeszów,miejsko-wiejska,wielkopolskie,ostrzeszowski,23435
+3019011,Piła,miejska,wielkopolskie,pilski,68432
+3019022,Białośliwie,wiejska,wielkopolskie,pilski,4502
+3019033,Kaczory,miejsko-wiejska,wielkopolskie,pilski,7377
+3019043,Łobżenica,miejsko-wiejska,wielkopolskie,pilski,8787
+3019053,Miasteczko Krajeńskie,miejsko-wiejska,wielkopolskie,pilski,2972
+3019062,Szydłowo,wiejska,wielkopolskie,pilski,9978
+3019073,Ujście,miejsko-wiejska,wielkopolskie,pilski,7415
+3019083,Wyrzysk,miejsko-wiejska,wielkopolskie,pilski,12761
+3019093,Wysoka,miejsko-wiejska,wielkopolskie,pilski,5851
+3020013,Chocz,miejsko-wiejska,wielkopolskie,pleszewski,4309
+3020022,Czermin,wiejska,wielkopolskie,pleszewski,4715
+3020033,Dobrzyca,miejsko-wiejska,wielkopolskie,pleszewski,7446
+3020042,Gizałki,wiejska,wielkopolskie,pleszewski,4349
+3020052,Gołuchów,wiejska,wielkopolskie,pleszewski,10956
+3020063,Pleszew,miejsko-wiejska,wielkopolskie,pleszewski,28520
+3021011,Luboń,miejska,wielkopolskie,poznański,32598
+3021021,Puszczykowo,miejska,wielkopolskie,poznański,9112
+3021033,Buk,miejsko-wiejska,wielkopolskie,poznański,13019
+3021042,Czerwonak,wiejska,wielkopolskie,poznański,28313
+3021052,Dopiewo,wiejska,wielkopolskie,poznański,37688
+3021062,Kleszczewo,wiejska,wielkopolskie,poznański,12559
+3021072,Komorniki,wiejska,wielkopolskie,poznański,37738
+3021083,Kostrzyn,miejsko-wiejska,wielkopolskie,poznański,21105
+3021093,Kórnik,miejsko-wiejska,wielkopolskie,poznański,39114
+3021103,Mosina,miejsko-wiejska,wielkopolskie,poznański,35991
+3021113,Murowana Goślina,miejsko-wiejska,wielkopolskie,poznański,17075
+3021123,Pobiedziska,miejsko-wiejska,wielkopolskie,poznański,21721
+3021132,Rokietnica,wiejska,wielkopolskie,poznański,25709
+3021143,Stęszew,miejsko-wiejska,wielkopolskie,poznański,15532
+3021152,Suchy Las,wiejska,wielkopolskie,poznański,21291
+3021163,Swarzędz,miejsko-wiejska,wielkopolskie,poznański,57666
+3021172,Tarnowo Podgórne,wiejska,wielkopolskie,poznański,35211
+3022013,Bojanowo,miejsko-wiejska,wielkopolskie,rawicki,8044
+3022023,Jutrosin,miejsko-wiejska,wielkopolskie,rawicki,6802
+3022033,Miejska Górka,miejsko-wiejska,wielkopolskie,rawicki,8633
+3022042,Pakosław,wiejska,wielkopolskie,rawicki,4764
+3022053,Rawicz,miejsko-wiejska,wielkopolskie,rawicki,29612
+3023011,Słupca,miejska,wielkopolskie,słupecki,12572
+3023022,Lądek,wiejska,wielkopolskie,słupecki,5370
+3023032,Orchowo,wiejska,wielkopolskie,słupecki,3507
+3023042,Ostrowite,wiejska,wielkopolskie,słupecki,4662
+3023052,Powidz,wiejska,wielkopolskie,słupecki,2231
+3023062,Słupca,wiejska,wielkopolskie,słupecki,10116
+3023072,Strzałkowo,wiejska,wielkopolskie,słupecki,9828
+3023083,Zagórów,miejsko-wiejska,wielkopolskie,słupecki,8261
+3024011,Obrzycko,miejska,wielkopolskie,szamotulski,2402
+3024022,Duszniki,wiejska,wielkopolskie,szamotulski,9786
+3024032,Kaźmierz,wiejska,wielkopolskie,szamotulski,9742
+3024042,Obrzycko,wiejska,wielkopolskie,szamotulski,4443
+3024053,Ostroróg,miejsko-wiejska,wielkopolskie,szamotulski,4688
+3024063,Pniewy,miejsko-wiejska,wielkopolskie,szamotulski,12188
+3024073,Szamotuły,miejsko-wiejska,wielkopolskie,szamotulski,29842
+3024083,Wronki,miejsko-wiejska,wielkopolskie,szamotulski,18467
+3025012,Dominowo,wiejska,wielkopolskie,średzki,3558
+3025022,Krzykosy,wiejska,wielkopolskie,średzki,7464
+3025032,Nowe Miasto nad Wartą,wiejska,wielkopolskie,średzki,8401
+3025043,Środa Wielkopolska,miejsko-wiejska,wielkopolskie,średzki,33791
+3025053,Zaniemyśl,miejsko-wiejska,wielkopolskie,średzki,6971
+3026012,Brodnica,wiejska,wielkopolskie,śremski,4672
+3026023,Dolsk,miejsko-wiejska,wielkopolskie,śremski,5763
+3026033,Książ Wielkopolski,miejsko-wiejska,wielkopolskie,śremski,7934
+3026043,Śrem,miejsko-wiejska,wielkopolskie,śremski,42281
+3027011,Turek,miejska,wielkopolskie,turecki,23661
+3027022,Brudzew,wiejska,wielkopolskie,turecki,5800
+3027033,Dobra,miejsko-wiejska,wielkopolskie,turecki,5635
+3027042,Kawęczyn,wiejska,wielkopolskie,turecki,4835
+3027052,Malanów,wiejska,wielkopolskie,turecki,6373
+3027062,Przykona,wiejska,wielkopolskie,turecki,4620
+3027073,Tuliszków,miejsko-wiejska,wielkopolskie,turecki,9998
+3027082,Turek,wiejska,wielkopolskie,turecki,10980
+3027092,Władysławów,wiejska,wielkopolskie,turecki,7834
+3028011,Wągrowiec,miejska,wielkopolskie,wągrowiecki,25137
+3028022,Damasławek,wiejska,wielkopolskie,wągrowiecki,4857
+3028033,Gołańcz,miejsko-wiejska,wielkopolskie,wągrowiecki,7548
+3028043,Mieścisko,miejsko-wiejska,wielkopolskie,wągrowiecki,5588
+3028053,Skoki,miejsko-wiejska,wielkopolskie,wągrowiecki,10354
+3028062,Wapno,wiejska,wielkopolskie,wągrowiecki,2643
+3028072,Wągrowiec,wiejska,wielkopolskie,wągrowiecki,12431
+3029012,Przemęt,wiejska,wielkopolskie,wolsztyński,13833
+3029022,Siedlec,wiejska,wielkopolskie,wolsztyński,12410
+3029033,Wolsztyn,miejsko-wiejska,wielkopolskie,wolsztyński,29955
+3030012,Kołaczkowo,wiejska,wielkopolskie,wrzesiński,5429
+3030023,Miłosław,miejsko-wiejska,wielkopolskie,wrzesiński,9630
+3030033,Nekla,miejsko-wiejska,wielkopolskie,wrzesiński,8071
+3030043,Pyzdry,miejsko-wiejska,wielkopolskie,wrzesiński,6383
+3030053,Września,miejsko-wiejska,wielkopolskie,wrzesiński,48415
+3031011,Złotów,miejska,wielkopolskie,złotowski,17715
+3031023,Jastrowie,miejsko-wiejska,wielkopolskie,złotowski,10550
+3031033,Krajenka,miejsko-wiejska,wielkopolskie,złotowski,7285
+3031042,Lipka,wiejska,wielkopolskie,złotowski,5203
+3031053,Okonek,miejsko-wiejska,wielkopolskie,złotowski,7670
+3031062,Tarnówka,wiejska,wielkopolskie,złotowski,2957
+3031072,Zakrzewo,wiejska,wielkopolskie,złotowski,4710
+3031082,Złotów,wiejska,wielkopolskie,złotowski,10105
+3061011,Kalisz,miejska,wielkopolskie,Kalisz,90574
+3062011,Konin,miejska,wielkopolskie,Konin,64756
+3063011,Leszno,miejska,wielkopolskie,Leszno,58457
+3064011,Poznań,miejska,wielkopolskie,Poznań,533110
+3201011,Białogard,miejska,zachodniopomorskie,białogardzki,21839
+3201022,Białogard,wiejska,zachodniopomorskie,białogardzki,7134
+3201033,Karlino,miejsko-wiejska,zachodniopomorskie,białogardzki,8310
+3201043,Tychowo,miejsko-wiejska,zachodniopomorskie,białogardzki,6014
+3202012,Bierzwnik,wiejska,zachodniopomorskie,choszczeński,4228
+3202023,Choszczno,miejsko-wiejska,zachodniopomorskie,choszczeński,19744
+3202033,Drawno,miejsko-wiejska,zachodniopomorskie,choszczeński,4476
+3202042,Krzęcin,wiejska,zachodniopomorskie,choszczeński,3127
+3202053,Pełczyce,miejsko-wiejska,zachodniopomorskie,choszczeński,6995
+3202063,Recz,miejsko-wiejska,zachodniopomorskie,choszczeński,4802
+3203013,Czaplinek,miejsko-wiejska,zachodniopomorskie,drawski,10917
+3203023,Drawsko Pomorskie,miejsko-wiejska,zachodniopomorskie,drawski,15946
+3203033,Kalisz Pomorski,miejsko-wiejska,zachodniopomorskie,drawski,6609
+3203052,Wierzchowo,wiejska,zachodniopomorskie,drawski,3933
+3203063,Złocieniec,miejsko-wiejska,zachodniopomorskie,drawski,14804
+3204023,Goleniów,miejsko-wiejska,zachodniopomorskie,goleniowski,37283
+3204033,Maszewo,miejsko-wiejska,zachodniopomorskie,goleniowski,8445
+3204043,Nowogard,miejsko-wiejska,zachodniopomorskie,goleniowski,22913
+3204052,Osina,wiejska,zachodniopomorskie,goleniowski,2863
+3204062,Przybiernów,wiejska,zachodniopomorskie,goleniowski,4789
+3204073,Stepnica,miejsko-wiejska,zachodniopomorskie,goleniowski,4607
+3205012,Brojce,wiejska,zachodniopomorskie,gryficki,3438
+3205023,Gryfice,miejsko-wiejska,zachodniopomorskie,gryficki,22278
+3205032,Karnice,wiejska,zachodniopomorskie,gryficki,3611
+3205043,Płoty,miejsko-wiejska,zachodniopomorskie,gryficki,7844
+3205072,Rewal,wiejska,zachodniopomorskie,gryficki,3588
+3205083,Trzebiatów,miejsko-wiejska,zachodniopomorskie,gryficki,14531
+3206012,Banie,wiejska,zachodniopomorskie,gryfiński,5633
+3206023,Cedynia,miejsko-wiejska,zachodniopomorskie,gryfiński,3861
+3206033,Chojna,miejsko-wiejska,zachodniopomorskie,gryfiński,12943
+3206043,Gryfino,miejsko-wiejska,zachodniopomorskie,gryfiński,29711
+3206053,Mieszkowice,miejsko-wiejska,zachodniopomorskie,gryfiński,6318
+3206063,Moryń,miejsko-wiejska,zachodniopomorskie,gryfiński,3982
+3206072,Stare Czarnowo,wiejska,zachodniopomorskie,gryfiński,3583
+3206083,Trzcińsko-Zdrój,miejsko-wiejska,zachodniopomorskie,gryfiński,4693
+3206092,Widuchowa,wiejska,zachodniopomorskie,gryfiński,4892
+3207013,Dziwnów,miejsko-wiejska,zachodniopomorskie,kamieński,3467
+3207023,Golczewo,miejsko-wiejska,zachodniopomorskie,kamieński,5397
+3207033,Kamień Pomorski,miejsko-wiejska,zachodniopomorskie,kamieński,13065
+3207043,Międzyzdroje,miejsko-wiejska,zachodniopomorskie,kamieński,5956
+3207052,Świerzno,wiejska,zachodniopomorskie,kamieński,3915
+3207063,Wolin,miejsko-wiejska,zachodniopomorskie,kamieński,11369
+3208011,Kołobrzeg,miejska,zachodniopomorskie,kołobrzeski,43367
+3208022,Dygowo,wiejska,zachodniopomorskie,kołobrzeski,5202
+3208033,Gościno,miejsko-wiejska,zachodniopomorskie,kołobrzeski,5357
+3208042,Kołobrzeg,wiejska,zachodniopomorskie,kołobrzeski,10974
+3208052,Rymań,wiejska,zachodniopomorskie,kołobrzeski,3538
+3208062,Siemyśl,wiejska,zachodniopomorskie,kołobrzeski,4026
+3208072,Ustronie Morskie,wiejska,zachodniopomorskie,kołobrzeski,3615
+3209012,Będzino,wiejska,zachodniopomorskie,koszaliński,8530
+3209022,Biesiekierz,wiejska,zachodniopomorskie,koszaliński,6927
+3209033,Bobolice,miejsko-wiejska,zachodniopomorskie,koszaliński,7930
+3209042,Manowo,wiejska,zachodniopomorskie,koszaliński,5676
+3209053,Mielno,miejsko-wiejska,zachodniopomorskie,koszaliński,4470
+3209063,Polanów,miejsko-wiejska,zachodniopomorskie,koszaliński,7753
+3209073,Sianów,miejsko-wiejska,zachodniopomorskie,koszaliński,13921
+3209082,Świeszyno,wiejska,zachodniopomorskie,koszaliński,8957
+3210013,Barlinek,miejsko-wiejska,zachodniopomorskie,myśliborski,17905
+3210022,Boleszkowice,wiejska,zachodniopomorskie,myśliborski,2704
+3210033,Dębno,miejsko-wiejska,zachodniopomorskie,myśliborski,18854
+3210043,Myślibórz,miejsko-wiejska,zachodniopomorskie,myśliborski,18161
+3210052,Nowogródek Pomorski,wiejska,zachodniopomorskie,myśliborski,3243
+3211012,Dobra (Szczecińska),wiejska,zachodniopomorskie,policki,32055
+3211022,Kołbaskowo,wiejska,zachodniopomorskie,policki,15776
+3211033,Nowe Warpno,miejsko-wiejska,zachodniopomorskie,policki,1506
+3211043,Police,miejsko-wiejska,zachodniopomorskie,policki,38464
+3212012,Bielice,wiejska,zachodniopomorskie,pyrzycki,2912
+3212022,Kozielice,wiejska,zachodniopomorskie,pyrzycki,2284
+3212033,Lipiany,miejsko-wiejska,zachodniopomorskie,pyrzycki,5201
+3212042,Przelewice,wiejska,zachodniopomorskie,pyrzycki,4357
+3212053,Pyrzyce,miejsko-wiejska,zachodniopomorskie,pyrzycki,17706
+3212062,Warnice,wiejska,zachodniopomorskie,pyrzycki,2969
+3213011,Darłowo,miejska,zachodniopomorskie,sławieński,12105
+3213021,Sławno,miejska,zachodniopomorskie,sławieński,11371
+3213032,Darłowo,wiejska,zachodniopomorskie,sławieński,7494
+3213042,Malechowo,wiejska,zachodniopomorskie,sławieński,5793
+3213052,Postomino,wiejska,zachodniopomorskie,sławieński,6613
+3213062,Sławno,wiejska,zachodniopomorskie,sławieński,8204
+3214011,Stargard,miejska,zachodniopomorskie,stargardzki,65617
+3214023,Chociwel,miejsko-wiejska,zachodniopomorskie,stargardzki,5336
+3214033,Dobrzany,miejsko-wiejska,zachodniopomorskie,stargardzki,4368
+3214042,Dolice,wiejska,zachodniopomorskie,stargardzki,6835
+3214053,Ińsko,miejsko-wiejska,zachodniopomorskie,stargardzki,2921
+3214062,Kobylanka,wiejska,zachodniopomorskie,stargardzki,7007
+3214082,Marianowo,wiejska,zachodniopomorskie,stargardzki,2815
+3214092,Stara Dąbrowa,wiejska,zachodniopomorskie,stargardzki,3486
+3214102,Stargard,wiejska,zachodniopomorskie,stargardzki,16352
+3214113,Suchań,miejsko-wiejska,zachodniopomorskie,stargardzki,3972
+3215011,Szczecinek,miejska,zachodniopomorskie,szczecinecki,36948
+3215023,Barwice,miejsko-wiejska,zachodniopomorskie,szczecinecki,7555
+3215033,Biały Bór,miejsko-wiejska,zachodniopomorskie,szczecinecki,4790
+3215043,Borne Sulinowo,miejsko-wiejska,zachodniopomorskie,szczecinecki,9025
+3215052,Grzmiąca,wiejska,zachodniopomorskie,szczecinecki,4146
+3215062,Szczecinek,wiejska,zachodniopomorskie,szczecinecki,8697
+3216011,Świdwin,miejska,zachodniopomorskie,świdwiński,14083
+3216022,Brzeżno,wiejska,zachodniopomorskie,świdwiński,2457
+3216033,Połczyn-Zdrój,miejsko-wiejska,zachodniopomorskie,świdwiński,13322
+3216042,Rąbino,wiejska,zachodniopomorskie,świdwiński,3141
+3216052,Sławoborze,wiejska,zachodniopomorskie,świdwiński,3707
+3216062,Świdwin,wiejska,zachodniopomorskie,świdwiński,5183
+3217011,Wałcz,miejska,zachodniopomorskie,wałecki,22853
+3217023,Człopa,miejsko-wiejska,zachodniopomorskie,wałecki,4375
+3217033,Mirosławiec,miejsko-wiejska,zachodniopomorskie,wałecki,5133
+3217043,Tuczno,miejsko-wiejska,zachodniopomorskie,wałecki,4328
+3217052,Wałcz,wiejska,zachodniopomorskie,wałecki,11971
+3218013,Dobra,miejsko-wiejska,zachodniopomorskie,łobeski,3784
+3218023,Łobez,miejsko-wiejska,zachodniopomorskie,łobeski,12407
+3218032,Radowo Małe,wiejska,zachodniopomorskie,łobeski,3115
+3218043,Resko,miejsko-wiejska,zachodniopomorskie,łobeski,6946
+3218053,Węgorzyno,miejsko-wiejska,zachodniopomorskie,łobeski,6142
+3261011,Koszalin,miejska,zachodniopomorskie,Koszalin,104153
+3262011,Szczecin,miejska,zachodniopomorskie,Szczecin,382271
+3263011,Świnoujście,miejska,zachodniopomorskie,Świnoujście,37983

@@ -1,0 +1,17 @@
+gmina;teryt;found;format;url;lata;dokumenty;uwagi
+Warszawa;1465011;tak;generator;https://warszawa19115.pl/harmonogramy-wywozu-odpadow;2026;5;Generator adresowy i aplikacja; 5 zadan operatorskich na 18 dzielnic
+Kraków;1261011;tak;generator;https://mpo.krakow.pl/harmonogram-odbioru/;2026;?;Wyszukiwarka adresowa; kalendarze dzielnicowe publikowane jako JPG
+Poznań;3064011;tak;generator;https://www.poznan.pl/mim/odpady/harmonogramy.html;2026;8;Wyszukiwarka ulicy i budynku; podzial na 8 sektorow
+Toruń;0463011;tak;PDF-tekst;https://www.mpo.torun.pl/__jw-webdev/mpo/412/harmonogramy-odbioru-odpadow-komunalnych-w-toruniu-w-2026-r;2026;2;Dwa pliki: zabudowa jednorodzinna i wielorodzinna
+Legnica;0262011;tak;PDF-tekst;https://portal.legnica.eu/gospodarowanie-odpadami-7-874/harmonogramy-odbioru-odpadow-komunalnych/;2026;14;Pliki wedlug frakcji i rejonow; dodatkowo pliki miesieczne
+Skierniewice;1063011;tak;PDF-tekst;https://eko-region.pl/gmina/skierniewice-miasto/;2026;25;Pliki per ulica u operatora EKO-REGION; brak harmonogramu rocznego w BIP
+Reda;2215011;tak;mieszany;https://miasto.reda.pl/2026/harmonogram-odbioru-odpadow-od-1-04-2026-do-31-12-2026/;2026;7;PDF roczny 6 rejonow jednorodzinnych plus wielorodzinny; nowszy XLSX od 1.04.2026
+Nowa Ruda;0208041;tak;PDF-tekst;https://nowaruda.biuletyn.net/?bip=2&cid=276&id=11402;2026;8;Osiem rejonowych PDF (Centrum, Slupiec, Drogoslaw, spoldzielnie); archiwum od 2022
+Janów Lubelski;0605053;tak;PDF-tekst;https://www.janowlubelski.pl/dla-mieszkancow/harmonogram-zbiorki-odpadow-2026;2026;10;Dziesiec plikow Wykaz ulic; podzial techniczny, nie operatorski
+Skała;1206103;tak;PDF-tekst;https://skala.pl/harmonogram-odbioru-odpadow-komunalnych-zmieszanych-od-01-01-2026-r-do-31-12-2026-r/;2026;1;Jeden PDF, 3 strony, strefy Skala wschod i zachod
+Borzęcin;1202012;tak;PDF-tekst;https://borzecin.pl/artykul/harmonogram-odbioru-odpadow-na-terenie-gminy-borzecin-w-2026-roku;2026;1;Jeden dwustronicowy PDF REMONDIS, miesiace I-XII
+Dynów;1816011;tak;PDF-tekst;https://czgekologiczni.pl/wp-content/uploads/2026/02/Miasto-Dynow-2026.pdf;2026;2;PDF operatora CZG; strona miasta wciaz pokazuje 2025
+Gąsawa;0419023;tak;PDF-tekst;https://gasawa.bip.net.pl/?p=document&action=show&id=19103&bar_id=10747;2026;8;Jeden PDF z 8 arkuszami; trasy I-VI, czesc dzielona
+Rejowiec Fabryczny;0603082;tak;grafika;https://gminarejowiecfabr.pl/dla-mieszka%C5%84ca/gospodarka-odpadami-komunalnymi.html;2026;2;Dwie grafiki PNG: jednorodzinna i wielorodzinna
+Kamiennik;1607022;tak;PDF-tekst;https://kamiennik.pl/download/attachment/7636/harmonogram-odbioru-odpadow-na-2026-rok.pdf?v=1769165216;2026;2;Roczny harmonogram tekstowy oraz skan wersji styczniowej
+Krempna;1805062;tak;DOCX;https://samorzad.gov.pl/web/gmina-krempna/harmonogram-na-odbior-odpadow-z-gminy-krempna-2026-r;2026;1;Zalacznik DOCX z tabelami; brak wersji PDF
